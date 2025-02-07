@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+======
 
 I am an associate professor at the [Department of Mathematics](https://www.umbmath.sk/) of the Faculty of Natural Sciences at the Matej Bel University in Banská Bystrica, Slovakia. 
 
