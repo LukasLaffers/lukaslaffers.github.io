@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Lukáš Lafférs"
-description              : &description "personal description"
+description              : &description "personal website"
 url                      : https://lukaslaffers.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto_LL.jpg"
   name             : "Lukáš Lafférs"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -32,14 +32,11 @@ author:
   email            : "lukas.laffers@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=0q1y-kYAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3141-3591"
-  semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Lukas_Laffers"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55775231300"
 
   # Repositories and software development
   github           : "lukaslaffers"
@@ -52,12 +49,13 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+  #  title: 'Books'
+  conferences:
+    title: 'Working Papers'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
