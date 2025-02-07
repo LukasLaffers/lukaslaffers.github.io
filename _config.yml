@@ -34,7 +34,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=0q1y-kYAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-3141-3591"
   researchgate     : "https://www.researchgate.net/profile/Lukas_Laffers"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55775231300"
+  #scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55775231300"
 
   # Repositories and software development
   #github           : "lukaslaffers"
@@ -43,7 +43,7 @@ author:
   bluesky          : "lukaslaffers.bsky.social"
   #facebook         : "lukaslaffers"
   linkedin         : "lukaslaffers"
-  twitter          : "@lukaslaffers"
+  #twitter          : "@lukaslaffers"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
