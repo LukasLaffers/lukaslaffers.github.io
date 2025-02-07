@@ -15,9 +15,9 @@ Work in Progress
 Working Papers
 ======
 
-- Testing identification in mediation and dynamic treatment models (with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Kevin Kloiber](https://kevinkloiber.github.io), [arXiv:2406.13826](https://arxiv.org/abs/2406.13826), [slides](https://lukas-laffers.squarespace.com/s/compie.pdf))
+- Testing identification in mediation and dynamic treatment models (with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Kevin Kloiber](https://kevinkloiber.github.io), [arXiv:2406.13826](https://arxiv.org/abs/2406.13826), [slides](http://lukaslaffers.github.io/files/compie.pdf))
 - Mothers' Job Search after Childbirth and Earnings (with [Bernhard Schmidpeter](https://sites.google.com/site/bernhardecon/), [8/2022 version](https://www.dropbox.com/s/0ibbncyd9ldu23t/20220824_Bounds_MaternityReturn.pdf?dl=0))
-- Locking-in or Pushing-out: The Caseworker Dilemma (with [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [slides](https://www.lukaslaffers.com/s/DML_presentation-3.pdf), [IER WP](https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf))
+- Locking-in or Pushing-out: The Caseworker Dilemma (with [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [slides](http://lukaslaffers.github.io/files/DML_presentation-3.pdf), [IER WP](https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf))
 - Afraid of Automation? Choose your Training Carefully (with [Zuzana Koštálová](https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova), [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [IER WP](https://ekonom.sav.sk/uploads/journals/437_wp_116-kostalova-final_fin_na_web.pdf))
 - Identification of the average treatment effect when SUTVA is violated (with [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), [SDU discussion paper 3/2020](https://www.sdu.dk/-/media/files/om_sdu/institutter/ivoe/disc_papers/disc_2020/dpbe3_2020.pdf))
 
@@ -32,7 +32,7 @@ Publications
 - Sensitivity of Bounds on ATEs under Survey Non-response (forthcoming in [**_Econometrics and Statistics_**](https://www.sciencedirect.com/science/article/abs/pii/S2452306222000053), with Roman Nedela)
 - The Impact of Repeated Mass Antigen Testing for COVID-19 on the Prevalence of the Disease ([**_Journal of Population Economics_**, 2021, 34, 1105—1040](https://link.springer.com/article/10.1007/s00148-021-00856-z), with [Martin Kahanec](https://people.ceu.edu/martin_kahanec) and [Bernhard Schmidpeter](https://sites.google.com/site/bernhardecon/), media coverage: [Denník N](https://dennikn.sk/2260303/ekonom-kahanec-plosne-antigenove-testovanie-spomaluje-pandemiu-efekt-sa-vytraca-po-zhruba-dvoch-tyzdnoch/))
 - Early Child Development and Parents’ Labor Supply ([**_Journal of Applied Econometrics_**, 2021, 36, (2), 190-208](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2803), [IZA discussion paper 13531](http://ftp.iza.org/dp13531.pdf) with [Bernhard Schmidpeter](https://sites.google.com/site/bernhardecon/))
-- Bounding Average Treatment Effects using Linear Programming ([**_Empirical Economics_**, 2019, 57, (3), 727-767](https://link.springer.com/article/10.1007%2Fs00181-018-1474-z), [view-only link](https://rdcu.be/S6cw)_,_ based on chapter 3 [here](http://www.lukaslaffers.com/s/Dissertation-Laffers-mk6h.pdf), previous version [Cemmap CWP70/15](https://www.econstor.eu/bitstream/10419/130074/1/839462700.pdf), [MATLAB code](https://www.lukaslaffers.com/s/ttr0z3eaif8y3tq4dresfxsl3bhqe4))
+- Bounding Average Treatment Effects using Linear Programming ([**_Empirical Economics_**, 2019, 57, (3), 727-767](https://link.springer.com/article/10.1007%2Fs00181-018-1474-z), [view-only link](https://rdcu.be/S6cw)_,_ based on chapter 3 [here](http://www.lukaslaffers.com/s/Dissertation-Laffers-mk6h.pdf), previous version [Cemmap CWP70/15](https://www.econstor.eu/bitstream/10419/130074/1/839462700.pdf), [MATLAB code](http://lukaslaffers.github.io/files/ttr0z3eaif8y3tq4dresfxsl3bhqe4))
 - Identification in Models with Discrete Variables ([**_Computational Economics_**, 2019, 53, (2), 657-698](https://link.springer.com/article/10.1007/s10614-017-9758-5?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst), [view-only link](http://rdcu.be/wv2N), based on chapter 1 [here](http://www.lukaslaffers.com/s/Dissertation-Laffers-mk6h.pdf), previous version [NHH discussion paper 01/2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205827))
 - Sharp IV Bounds on Average Treatment Effects on the Treated and other Populations under Endogeneity and Noncompliance ([**_Journal of Applied Econometrics_**, 2017, 32, (1), 56-79](http://onlinelibrary.wiley.com/doi/10.1002/jae.2473/full), with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), [appendix](https://www.alexandria.unisg.ch/export/DL/239581.pdf), [MATLAB code](http://qed.econ.queensu.ca/jae/forthcoming/huber-mellace-laffers/), “Economicus” prize awarded (VÚB foundation))
 - Sensitivity of the Bounds on the ATE in the Presence of Sample Selection ([**_Economics Letters_**, 2017, 158, 84-87](http://www.sciencedirect.com/science/article/pii/S0165176517302665), with Roman Nedela, [MATLAB code](http://www.lukaslaffers.com/s/supplementary_files.zip))
@@ -61,8 +61,8 @@ Grants
 Theses
 ======
 
-- **doc.** [**Essays in econometrics of model uncertainty**](https://www.lukaslaffers.com/s/hab_thesis_Laffers_public.pdf) **(2024, MUNI)**
-- **PhD.** [**Essays in Partial Identification**](https://www.lukaslaffers.com/s/Dissertation-Laffers-mk6h.pdf) **(2014, NHH)**
+- **doc.** [**Essays in econometrics of model uncertainty**](http://lukaslaffers.github.io/files/hab_thesis_Laffers_public.pdf) **(2024, MUNI)**
+- **PhD.** [**Essays in Partial Identification**](http://lukaslaffers.github.io/files/Dissertation-Laffers-mk6h.pdf) **(2014, NHH)**
 - **Mgr.** [**Empirical likelihood estimation of interest rate diffusion model**](http://www.iam.fmph.uniba.sk/studium/efm/diplomovky/2009/laffers/diplomovka.pdf) **(2009, UK)**
 
 Refereeing
