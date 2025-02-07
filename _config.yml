@@ -23,12 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "foto_LL.jpg"
-  name             : "Lukáš Lafférs"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Lukáš Lafférs, PhD."
+  bio              : "econometrics/statistics/economics"
   employer         : "Matej Bel University"
-  uri              : # URL
+  location         : "Banská Bystrica, Slovakia"
+  uri              : "www.lukaslaffers.com"
   email            : "lukas.laffers@gmail.com" 
 
   # Academic websites
