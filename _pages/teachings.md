@@ -3,7 +3,6 @@ permalink: /teachings/
 title: ""
 author_profile: true
 redirect_from: 
-  - /teachings/
   - /teachings.html
 ---
 
