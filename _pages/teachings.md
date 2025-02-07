@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /teachings/
 title: ""
 author_profile: true
 redirect_from: 
@@ -11,15 +11,15 @@ redirect_from:
 Lecture notes
 ======
 
-- Econometrics: [Regression basics](https://www.lukaslaffers.com/s/econx_1_LL_2.pdf), [Identification](https://www.lukaslaffers.com/s/econx_2a_LL_handout.pdf), [Statistical inference](https://www.lukaslaffers.com/s/econx_2b_LL_handout.pdf), [Causal models](https://www.lukaslaffers.com/s/econx_3a_LL_handout.pdf), [Randomization and Selection-on-observables](https://www.lukaslaffers.com/s/econx_3b_LL_handout.pdf), [Instrumental variables](https://www.lukaslaffers.com/s/econx_4_IV_LL_handout.pdf), [Regression discontinuity design](https://www.lukaslaffers.com/s/econx_5a_LL_handout.pdf), [Difference in differences](https://www.lukaslaffers.com/s/econx_5b_LL_handout.pdf), [Synthetic controls method](https://www.lukaslaffers.com/s/econx_6a_LL_handout.pdf), [Machine learning essentials](https://www.lukaslaffers.com/s/econx_6b_LL_handout.pdf)
+- Econometrics: [Regression basics](http://lukaslaffers.github.io/files/econx_1_LL_2.pdf), [Identification](http://lukaslaffers.github.io/files/econx_2a_LL_handout.pdf), [Statistical inference](http://lukaslaffers.github.io/files/econx_2b_LL_handout.pdf), [Causal models](http://lukaslaffers.github.io/files/econx_3a_LL_handout.pdf), [Randomization and Selection-on-observables](http://lukaslaffers.github.io/files/econx_3b_LL_handout.pdf), [Instrumental variables](http://lukaslaffers.github.io/files/econx_4_IV_LL_handout.pdf), [Regression discontinuity design](http://lukaslaffers.github.io/files/econx_5a_LL_handout.pdf), [Difference in differences](http://lukaslaffers.github.io/files/econx_5b_LL_handout.pdf), [Synthetic controls method](http://lukaslaffers.github.io/files/econx_6a_LL_handout.pdf), [Machine learning essentials](http://lukaslaffers.github.io/files/econx_6b_LL_handout.pdf)
 
 Učebné texty \[in Slovak\]
 ======
 
 - [Pravdepodobnosť a štatistika 1](https://lukaslaffers.github.io/pas1/)
 - [Pravdepodobnosť a štatistika 2](https://lukaslaffers.github.io/pas2/)
-- [Lineárna regresia 1](https://www.lukaslaffers.com/s/MAR1_poznamkyMain-8chj.pdf)
-- [Lineárna regresia 2](https://www.lukaslaffers.com/s/MAR2_all-afk9.pdf)
+- [Lineárna regresia 1](http://lukaslaffers.github.io/files/MAR1_poznamkyMain-8chj.pdf)
+- [Lineárna regresia 2](http://lukaslaffers.github.io/files/MAR2_all-afk9.pdf)
 
 Instructor
 ======
@@ -34,7 +34,7 @@ Instructor
 - Probability and Statistics 2 (Fall 2021-2023 in Slovak, UMB)
 - Probability Theory 1 (Spring 2014, 2016, 2018-2023, in Slovak, UMB)
 - Computation and Simulation in R 3 (Spring 2018-2021, 2023, in Slovak, UMB)
-- Introduction to Numerical Methods using MATLAB (Spring 2015 and 2017, intensive PhD course, NHH) [flyer](https://www.lukaslaffers.com/s/ECS550NFB-flyer.pdf)
+- Introduction to Numerical Methods using MATLAB (Spring 2015 and 2017, intensive PhD course, NHH)
 - Financial Mathematics 2 (Fall 2015, in Slovak, UMB)
 - Diploma Seminar (Spring 2014, in Slovak, UMB)
 - Refresher Course in Probability and Statistics (Fall 2013, intensive PhD course, NHH)

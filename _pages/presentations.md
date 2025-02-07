@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /presentations/
 title: ""
 author_profile: true
 redirect_from: 
@@ -10,10 +10,10 @@ redirect_from:
 Presentations
 ======
 
-- 2024: [SEAM Bratislava](https://www.lukaslaffers.com/s/Laffers_SEAM_2024.pdf), [EALE Bergen](https://www.lukaslaffers.com/s/EALE_Laffers.pdf), [COMPIE Amsterdam](https://www.lukaslaffers.com/s/compie.pdf), [PROBASTAT Smolenice](https://www.lukaslaffers.com/s/LL_probastat3.pdf), [MUNI Brno (habilitation lecture)](https://www.lukaslaffers.com/s/LL_main.pdf)
-- 2023: Meeting of the Institute of Economic Research in Smolenice, [Machine Learning in program evaluation, high-dimensionality and visualization techniques in Luxembourg](https://www.lukaslaffers.com/s/DML_presentation-3.pdf), Slovak Economic Association Meeting in Banská Bystrica, MUNI Brno
-- 2022: Meeting of the Institute of Economic Research in Smolenice, Norwegian School of Economics, Slovak Economic Association Meeting in Bratislava, Turku School of Economics (virtual), Charles University in Prague, [ROBUST (Czech Statistical Society meeting in Volyne)](https://www.lukaslaffers.com/s/DML_robust-copy.pdf), Annual Conference of the International Association for Applied Econometrics in London
-- 2021: Czech Economic Society Conference (virtual), COMPIE (virtual), Swiss Society of Economics and Statistics Congress (virtual), [NHH - Norwegian School of Economics](https://www.lukaslaffers.com/s/DML_selection_LL.pdf), Slovak Economic Association Meeting in Nitra
+- 2024: [SEAM Bratislava](http://lukaslaffers.github.io/files/Laffers_SEAM_2024.pdf), [EALE Bergen](http://lukaslaffers.github.io/files/EALE_Laffers.pdf), [COMPIE Amsterdam](http://lukaslaffers.github.io/files/compie.pdf), [PROBASTAT Smolenice](http://lukaslaffers.github.io/files/LL_probastat3.pdf), [MUNI Brno (habilitation lecture)](http://lukaslaffers.github.io/files/LL_main.pdf)
+- 2023: Meeting of the Institute of Economic Research in Smolenice, [Machine Learning in program evaluation, high-dimensionality and visualization techniques in Luxembourg](http://lukaslaffers.github.io/files/DML_presentation-3.pdf), Slovak Economic Association Meeting in Banská Bystrica, MUNI Brno
+- 2022: Meeting of the Institute of Economic Research in Smolenice, Norwegian School of Economics, Slovak Economic Association Meeting in Bratislava, Turku School of Economics (virtual), Charles University in Prague, [ROBUST (Czech Statistical Society meeting in Volyne)](http://lukaslaffers.github.io/files/DML_robust-copy.pdf), Annual Conference of the International Association for Applied Econometrics in London
+- 2021: Czech Economic Society Conference (virtual), COMPIE (virtual), Swiss Society of Economics and Statistics Congress (virtual), [NHH - Norwegian School of Economics](http://lukaslaffers.github.io/files/DML_selection_LL.pdf), Slovak Economic Association Meeting in Nitra
 - 2020: Econometric Society World Congress (virtual), European Economic Association Congress (virtual), Slovak Economic Association Meeting (virtual), Computational and Methodological Statistics Conference (virtual)
 - 2019: Slovak Academy of Sciences, Annual Conference of the International Association for Applied Econometrics in Nicosia, European Economic Association Congress and European Meeting of the Econometric Society in Manchester, Czech Economic Society and Slovak Economic Association Meeting in Brno
 - 2018: Royal Economic Society Conference in Brighton, University of Fribourg
