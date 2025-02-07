@@ -23,12 +23,13 @@ Učebné texty \[in Slovak\]
 Instructor
 ======
 
+- Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
+
 - Regression Analysis 1 (Spring 2016-2021, 2023-2024 in Slovak, UMB)
 - Stochastic Processes (Fall 2015-2018, 2020-2024, in Slovak, UMB)
 - Probability and Statistics 2 (Spring 2022-2024 in Slovak, UMB)
 - Optimisation and Microeconomic Theory (Fall 2014, 2018-2024, Master, NHH)
 - Econometrics (Fall 2021-2024, PhD course, MUNI)
-- Probability and Statistics 1 (Spring 2022-2023 in Slovak, UMB)
 - Regression Analysis 2 (Fall 2016-2023 in Slovak, UMB)
 - Probability and Statistics 2 (Fall 2021-2023 in Slovak, UMB)
 - Probability Theory 1 (Spring 2014, 2016, 2018-2023, in Slovak, UMB)
