@@ -6,7 +6,6 @@ redirect_from:
   - /research.html
 ---
 
-
 Work in Progress
 ======
 - Treatment Effects for Discrete Misreported Outcomes (under Endogeneity) (with [Daniel Gutknecht](https://sites.google.com/view/daniel-gutknecht/home) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/))
