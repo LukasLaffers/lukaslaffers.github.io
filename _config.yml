@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Lukáš Lafférs"
 title_separator          : "-"
 name                     : &name "Lukáš Lafférs"
 description              : &description "personal website"
@@ -118,9 +118,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-L1M9ESE6J1"
 
 
 # Reading Files
