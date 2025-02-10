@@ -15,8 +15,8 @@ Lecture notes
 - Econometrics: [Regression basics](http://lukaslaffers.github.io/files/econx_1_LL_2.pdf), [Identification](http://lukaslaffers.github.io/files/econx_2a_LL_handout.pdf), [Statistical inference](http://lukaslaffers.github.io/files/econx_2b_LL_handout.pdf), [Causal models](http://lukaslaffers.github.io/files/econx_3a_LL_handout.pdf), [Randomization and Selection-on-observables](http://lukaslaffers.github.io/files/econx_3b_LL_handout.pdf), [Instrumental variables](http://lukaslaffers.github.io/files/econx_4_IV_LL_handout.pdf), [Regression discontinuity design](http://lukaslaffers.github.io/files/econx_5a_LL_handout.pdf), [Difference in differences](http://lukaslaffers.github.io/files/econx_5b_LL_handout.pdf), [Synthetic controls method](http://lukaslaffers.github.io/files/econx_6a_LL_handout.pdf), [Machine learning essentials](http://lukaslaffers.github.io/files/econx_6b_LL_handout.pdf)
 - [Pravdepodobnosť a štatistika 1](https://lukaslaffers.github.io/pas1/)
 - [Pravdepodobnosť a štatistika 2](https://lukaslaffers.github.io/pas2/)
-- [Lineárna regresia 1](http://lukaslaffers.github.io/files/MAR1_poznamkyMain-8chj.pdf)
-- [Lineárna regresia 2](http://lukaslaffers.github.io/files/MAR2_all-afk9.pdf)
+- [Lineárna regresia 1](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf)
+- [Lineárna regresia 2](http://lukaslaffers.github.io/files/MAR2_all.pdf)
 
 Courses
 ======
