@@ -24,6 +24,10 @@ Instructor
 ======
 
 - Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
+  -[Sylabus](https://lukaslaffers.github.io/files/sylabus_ps_1_svk_25.pdf)
+  -[Učebný text](https://lukaslaffers.github.io/pas1/)
+  -Zaujímavé odkazy: [Vizualizácie Seeing Theory](https://seeing-theory.brown.edu/), [Aká je pravdepodobnosť zemetrasenie?](https://www.stat.berkeley.edu/~stark/Preprints/611.pdf), [Vizualizácia Bayesovej vety (3Blue1Brown)](https://www.youtube.com/watch?v=HZGCoVF3YvM), [Monty Hall problem](https://www.youtube.com/watch?v=4Lb-6rxZxx0), [Centrálna limitná veta (3Blue1Brown)](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
+
 
 - Regression Analysis 1 (Spring 2016-2021, 2023-2024 in Slovak, UMB)
 - Stochastic Processes (Fall 2015-2018, 2020-2024, in Slovak, UMB)
