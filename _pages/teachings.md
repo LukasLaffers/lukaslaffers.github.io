@@ -32,16 +32,15 @@ Instructor
     - [Vizualizácia Bayesovej vety (3Blue1Brown)](https://www.youtube.com/watch?v=HZGCoVF3YvM), 
     - [Monty Hall problem](https://www.youtube.com/watch?v=4Lb-6rxZxx0), 
     - [Centrálna limitná veta (3Blue1Brown)](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
-
-
-- Regression Analysis 1 (Spring 2016-2021, 2023-2024 in Slovak, UMB)
-- Stochastic Processes (Fall 2015-2018, 2020-2024, in Slovak, UMB)
-- Probability and Statistics 2 (Spring 2022-2024 in Slovak, UMB)
-- Optimisation and Microeconomic Theory (Fall 2014, 2018-2024, Master, NHH)
+    
+___
 - Econometrics (Fall 2021-2024, PhD course, MUNI)
+- Optimisation and Microeconomic Theory (Fall 2014, 2018-2024, Master, NHH)
+- Regression Analysis 1 (Spring 2016-2021, 2023-2024 in Slovak, UMB)
 - Regression Analysis 2 (Fall 2016-2023 in Slovak, UMB)
-- Probability and Statistics 2 (Fall 2021-2023 in Slovak, UMB)
 - Probability Theory 1 (Spring 2014, 2016, 2018-2023, in Slovak, UMB)
+- Stochastic Processes (Fall 2015-2018, 2020-2024, in Slovak, UMB)
+- Probability and Statistics 2 (Fall 2021-2023 in Slovak, UMB)
 - Computation and Simulation in R 3 (Spring 2018-2021, 2023, in Slovak, UMB)
 - Introduction to Numerical Methods using MATLAB (Spring 2015 and 2017, intensive PhD course, NHH)
 - Financial Mathematics 2 (Fall 2015, in Slovak, UMB)
