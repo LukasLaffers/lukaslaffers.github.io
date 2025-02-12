@@ -6,18 +6,15 @@ redirect_from:
   - /research.html
 ---
 
-Work in Progress
-======
-- Treatment Effects for Discrete Misreported Outcomes (under Endogeneity) (with [Daniel Gutknecht](https://sites.google.com/view/daniel-gutknecht/home) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/))
 
-
-Working Papers
+Working Papers / Work in Progress
 ======
 
 - Testing identification in mediation and dynamic treatment models (with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Kevin Kloiber](https://kevinkloiber.github.io), [arXiv:2406.13826](https://arxiv.org/abs/2406.13826), [slides](http://lukaslaffers.github.io/files/compie.pdf))
-- Mothers' Job Search after Childbirth and Earnings (with [Bernhard Schmidpeter](https://sites.google.com/site/bernhardecon/), [8/2022 version](https://www.dropbox.com/s/0ibbncyd9ldu23t/20220824_Bounds_MaternityReturn.pdf?dl=0))
+- Mothers' Job Search after Childbirth and Earnings (with [Bernhard Schmidpeter](https://sites.google.com/site/bernhardecon/), [WP version](https://www.dropbox.com/s/0ibbncyd9ldu23t/20220824_Bounds_MaternityReturn.pdf?dl=0))
 - Locking-in or Pushing-out: The Caseworker Dilemma (with [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [slides](http://lukaslaffers.github.io/files/DML_presentation-3.pdf), [IER WP](https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf))
 - Afraid of Automation? Choose your Training Carefully (with [Zuzana Koštálová](https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova), [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [IER WP](https://ekonom.sav.sk/uploads/journals/437_wp_116-kostalova-final_fin_na_web.pdf))
+- Treatment Effects for Discrete Misreported Outcomes (under Endogeneity) (with [Daniel Gutknecht](https://sites.google.com/view/daniel-gutknecht/home) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/))
 - Identification of the average treatment effect when SUTVA is violated (with [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), [SDU discussion paper 3/2020](https://www.sdu.dk/-/media/files/om_sdu/institutter/ivoe/disc_papers/disc_2020/dpbe3_2020.pdf))
 
 
