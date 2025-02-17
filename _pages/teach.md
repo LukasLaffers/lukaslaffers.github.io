@@ -13,7 +13,7 @@ Lecture notes
 ======
 
 - Econometrics: [Regression basics](http://lukaslaffers.github.io/files/econx_1_LL_2.pdf), [Identification](http://lukaslaffers.github.io/files/econx_2a_LL_handout.pdf), [Statistical inference](http://lukaslaffers.github.io/files/econx_2b_LL_handout.pdf), [Causal models](http://lukaslaffers.github.io/files/econx_3a_LL_handout.pdf), [Randomization and Selection-on-observables](http://lukaslaffers.github.io/files/econx_3b_LL_handout.pdf), [Instrumental variables](http://lukaslaffers.github.io/files/econx_4_IV_LL_handout.pdf), [Regression discontinuity design](http://lukaslaffers.github.io/files/econx_5a_LL_handout.pdf), [Difference in differences](http://lukaslaffers.github.io/files/econx_5b_LL_handout.pdf), [Synthetic controls method](http://lukaslaffers.github.io/files/econx_6a_LL_handout.pdf), [Machine learning essentials](http://lukaslaffers.github.io/files/econx_6b_LL_handout.pdf)
-- [Pravdepodobnosť a štatistika 1](https://lukaslaffers.github.io/pas1q/)
+- [Pravdepodobnosť a štatistika 1](https://lukaslaffers.github.io/pas1/)
 - [Pravdepodobnosť a štatistika 2](https://lukaslaffers.github.io/pas2/)
 - [Lineárna regresia 1](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf)
 - [Lineárna regresia 2](http://lukaslaffers.github.io/files/MAR2_all.pdf)
@@ -23,7 +23,7 @@ Courses
 
 - Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
   - [Sylabus](https://lukaslaffers.github.io/files/sylabus_ps_1_svk_25.pdf)
-  - Učebný text [web](https://lukaslaffers.github.io/pas1q/), [pdf](http://lukaslaffers.github.io/files/PAS1q_17022025.pdf)
+  - Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf](http://lukaslaffers.github.io/files/PAS1q_17022025.pdf)
   - Zaujímavé odkazy: 
     - [Vizualizácie (Seeing Theory)](https://seeing-theory.brown.edu/)
     - [Aká je pravdepodobnosť zemetrasenia? (Stark and Freedman)](https://www.stat.berkeley.edu/~stark/Preprints/611.pdf)
