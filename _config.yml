@@ -118,10 +118,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "custom"
   google:
     tracking_id          : "G-L1M9ESE6J1"
-
+google_analytics: "G-L1M9ESE6J1"
 
 # Reading Files
 include:
