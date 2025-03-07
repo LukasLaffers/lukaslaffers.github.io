@@ -24,7 +24,7 @@ Courses
 - Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
   - **10.3. a 12.3. hodiny nebudú**
   - [Sylabus](https://lukaslaffers.github.io/files/sylabus_ps_1_svk_25.pdf)
-  - Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf](http://lukaslaffers.github.io/files/PAS1q_17022025.pdf)
+  - Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf](http://lukaslaffers.github.io/files/PAS1q_05032025.pdf)
   - Zaujímavé odkazy: 
     - [Vizualizácie (Seeing Theory)](https://seeing-theory.brown.edu/)
     - [Aká je pravdepodobnosť zemetrasenia? (Stark and Freedman)](https://www.stat.berkeley.edu/~stark/Preprints/611.pdf)
