@@ -57,9 +57,9 @@ Grants
 Theses
 ======
 
-- **doc.** [**Essays in econometrics of model uncertainty**](http://lukaslaffers.github.io/files/hab_thesis_Laffers_public.pdf) **(2024, MUNI)**
-- **PhD.** [**Essays in Partial Identification**](http://lukaslaffers.github.io/files/Dissertation-Laffers-mk6h.pdf) **(2014, NHH)**
-- **Mgr.** [**Empirical likelihood estimation of interest rate diffusion model**](http://www.iam.fmph.uniba.sk/studium/efm/diplomovky/2009/laffers/diplomovka.pdf) **(2009, UK)**
+- **doc.** [Essays in econometrics of model uncertainty](http://lukaslaffers.github.io/files/hab_thesis_Laffers_public.pdf) (2024, MUNI)
+- **PhD.** [Essays in Partial Identification](http://lukaslaffers.github.io/files/Dissertation-Laffers-mk6h.pdf) (2014, NHH)
+- **Mgr.** [Empirical likelihood estimation of interest rate diffusion model](http://www.iam.fmph.uniba.sk/studium/efm/diplomovky/2009/laffers/diplomovka.pdf) (2009, UK)
 
 Refereeing
 ======
