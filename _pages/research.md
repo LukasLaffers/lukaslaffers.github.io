@@ -10,7 +10,7 @@ redirect_from:
 Working Papers / Work in Progress
 ======
 
-- Testing identification in mediation and dynamic treatment models (with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Kevin Kloiber](https://kevinkloiber.github.io), [arXiv:2406.13826](https://arxiv.org/abs/2406.13826), [slides](http://lukaslaffers.github.io/files/compie.pdf))
+- Testing identification in mediation and dynamic treatment models (with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Kevin Kloiber](https://kevinkloiber.github.io), [arXiv:2406.13826](https://arxiv.org/abs/2406.13826), [slides](http://lukaslaffers.github.io/files/presentation_LL_VSE.pdf))
 - Mothers' Job Search after Childbirth and Earnings (with [Bernhard Schmidpeter](https://sites.google.com/site/bernhardecon/), [WP version](https://www.dropbox.com/s/0ibbncyd9ldu23t/20220824_Bounds_MaternityReturn.pdf?dl=0), [slides](http://lukaslaffers.github.io/files/mothers_presentation.pdf))
 - Locking-in or Pushing-out: The Caseworker Dilemma (with [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [slides](http://lukaslaffers.github.io/files/DML_presentation-3.pdf), [IER WP](https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf))
 - Afraid of Automation? Choose your Training Carefully (with [Zuzana Koštálová](https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova), [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [IER WP](https://ekonom.sav.sk/uploads/journals/437_wp_116-kostalova-final_fin_na_web.pdf))
