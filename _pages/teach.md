@@ -22,7 +22,6 @@ Courses
 ======
 
 - Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
-  - prvý zápočet bude **31.3.2025 o 17:30 v F225, hodina 26.3.2025 nebude**
   - [Sylabus](https://lukaslaffers.github.io/files/sylabus_ps_1_svk_25.pdf)
   - Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf](http://lukaslaffers.github.io/files/PAS1q_05032025.pdf)
   - Zaujímavé odkazy: 
