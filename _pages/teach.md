@@ -25,7 +25,7 @@ Courses
   - **V pondelok 14.4.2025 máme hodiny 16:10 - 19:15 v F225 (namiesto 16.4.2025, kedy PaŠ1 nebude)**
   - **V pondelok 21.4.2025 PaŠ1 nebude, je to Veľkonočný pondelok**
   - [Sylabus](https://lukaslaffers.github.io/files/sylabus_ps_1_svk_25.pdf)
-  - Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf](http://lukaslaffers.github.io/files/PAS1q_05032025.pdf)
+  - Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf (staršia verzia)](http://lukaslaffers.github.io/files/PAS1q_05032025.pdf)
     
 ___
 - Econometrics (Fall 2021-2024, PhD course, MUNI)
