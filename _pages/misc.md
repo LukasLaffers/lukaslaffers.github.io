@@ -10,6 +10,7 @@ Misc
 ======
 
 - Our department - Web: [www.umbmath.sk](https://www.umbmath.sk), Facebook: [@UMBmath](https://www.facebook.com/UMBmath), Instagram: [#UMBmath](https://www.instagram.com/umbmath/)
+- \[in Slovak\] rozhovor v Rádiu Slovensko: [Doma je doma](https://slovensko.stvr.sk/rubriky/aktualne-rubriky/doma-je-doma/398660/doma-je-doma-lukas-laffers)
 
 
 \[in Slovak\] Popularizačné prednášky
