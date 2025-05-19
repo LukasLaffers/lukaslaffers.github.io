@@ -15,7 +15,7 @@ redirect_from:
 -   [Pravdepodobnosť a štatistika 2](https://lukaslaffers.github.io/pas2/)
 -   [Lineárna regresia 1](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf)
 -   [Lineárna regresia 2](http://lukaslaffers.github.io/files/MAR2_all.pdf)
-
+ 
 # Courses
 
 -   Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
