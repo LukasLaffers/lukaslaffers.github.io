@@ -19,11 +19,7 @@ redirect_from:
 # Courses
 
 -   Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
-<<<<<<< HEAD
     -   **Opravný termín ~~5.6.2025~~ 10.6.2025 o 9:00 v F235**
-=======
-    -   **Skúšky (prihlasujte sa v AISe): riadny termín 29.5.2025 o ~~9:00~~ ~~10:30~~ 9:00 v F236, opravný 5.6.2025 v F225**
->>>>>>> ba7a3ba6745ee04fa582d85d1ad72ad2440cb9ba
     -   [Sylabus](https://lukaslaffers.github.io/files/sylabus_ps_1_svk_25.pdf)
     -   Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf (staršia verzia)](http://lukaslaffers.github.io/files/PAS1q_05032025.pdf)
 
