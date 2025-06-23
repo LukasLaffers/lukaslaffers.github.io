@@ -72,5 +72,5 @@ Theses
 Refereeing
 ======
 
-- Journal of Econometrics, Journal of the Royal Statistical Society: Series C (Applied Statistics), Oxford Bulletin of Economics and Statistics, Biometrics, Journal of Human Resources, Empirical Economics, Advances in Statistical Analysis, Journal of Econometric Methods, European Journal of Operations Research, Journal of Environmental Economics and Management, Research in Statistics, Journal of Statistical Computation and Simulation, Journal of Data Science, Applied Economics, Ekonomický Časopis
+- Journal of Econometrics, Journal of the Royal Statistical Society: Series C (Applied Statistics), Journal of Applied Econometrics, Oxford Bulletin of Economics and Statistics, Biometrics, Journal of Human Resources, Economics Letters, Empirical Economics, Advances in Statistical Analysis, Journal of Econometric Methods, European Journal of Operations Research, Journal of Environmental Economics and Management, Research in Statistics, Journal of Statistical Computation and Simulation, Journal of Data Science, Applied Economics, Ekonomický Časopis
 - Social Policy Insitute, Institute for Healthcare Analyses, VEGA grant scheme, Riksbankens jubileumsfond
