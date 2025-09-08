@@ -8,7 +8,7 @@ redirect_from: /presentations.html
 Presentations
 ======
 
-- 2025: JRC - European Commision (Ispra), VŠE (Prague), MIER in Smolenice, scheduled:  University of St. Gallen
+- 2025: JRC - European Commision (Ispra), VŠE (Prague), MIER in Smolenice, University of St. Gallen, scheduled: SEAM Nitra
 - 2024: SEAM Bratislava, [EALE Bergen](http://lukaslaffers.github.io/files/EALE_Laffers.pdf), COMPIE Amsterdam, [PROBASTAT Smolenice](http://lukaslaffers.github.io/files/LL_probastat3.pdf), [MUNI Brno (habilitation lecture)](http://lukaslaffers.github.io/files/LL_main.pdf)
 - 2023: MIER in Smolenice, [Machine Learning in program evaluation, high-dimensionality and visualization techniques in Luxembourg](http://lukaslaffers.github.io/files/DML_presentation-3.pdf), SEAM in Banská Bystrica, MUNI Brno
 - 2022: Meeting of the Institute of Economic Research (MIER) in Smolenice, Norwegian School of Economics, SEAM in Bratislava, Turku School of Economics (virtual), Charles University in Prague, [ROBUST (Czech Statistical Society meeting in Volyne)](http://lukaslaffers.github.io/files/DML_robust+copy.pdf), Annual Conference of the International Association for Applied Econometrics in London
