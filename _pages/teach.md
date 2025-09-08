@@ -18,19 +18,13 @@ redirect_from:
  
 # Courses
 
--   Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
-    -   **Skúšky (prihlasujte sa v AISe): riadny termín 29.5.2025 o ~~9:00~~ ~~10:30~~ 9:00 v F236, opravný 5.6.2025 v F225**
-    -   [Sylabus](https://lukaslaffers.github.io/files/sylabus_ps_1_svk_25.pdf)
-    -   Učebný text [web](https://lukaslaffers.github.io/pas1/), [pdf (staršia verzia)](http://lukaslaffers.github.io/files/PAS1q_05032025.pdf)
-
-------------------------------------------------------------------------
-
 -   Econometrics (Fall 2021-2024, PhD course, MUNI)
 -   Optimisation and Microeconomic Theory (Fall 2014, 2018-2024, Master, NHH)
 -   Regression Analysis 1 (Spring 2016-2021, 2023-2024 in Slovak, UMB)
 -   Regression Analysis 2 (Fall 2016-2023 in Slovak, UMB)
 -   Probability Theory 1 (Spring 2014, 2016, 2018-2023, in Slovak, UMB)
 -   Stochastic Processes (Fall 2015-2018, 2020-2024, in Slovak, UMB)
+-   Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
 -   Probability and Statistics 2 (Fall 2021-2023 in Slovak, UMB)
 -   Computation and Simulation in R 3 (Spring 2018-2021, 2023, in Slovak, UMB)
 -   Introduction to Numerical Methods using MATLAB (Spring 2015 and 2017, intensive PhD course, NHH)
