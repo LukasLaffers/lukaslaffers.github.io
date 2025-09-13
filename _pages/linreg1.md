@@ -7,11 +7,11 @@ redirect_from:
 ---
 
 # Lineárna regresia 1
-Tento kurz je o spoznaní veľmi užitočného nástroja, ktorým je lineárna regresia. Celý semester sa podrobne budeme venovať rôznym rozšíreniam a uvidíme veľké množstvo príkladov a datasetov.
+Tento kurz je o spoznaní veľmi užitočného nástroja, ktorým je lineárna regresia. Ide o základný nástroj, ktorý nám pomáha porozumieť vzťahom medzi rôznymi premennými ako aj predikovať. Celý semester sa budeme tiež venovať rôznym rozšíreniam a uvidíme veľké množstvo príkladov a datasetov.
 
-Kurz je veľmi veľkej miery inšpirovaný knihami Juliana Farawaya, ktorému nedávno vyšla tretia edícia [Linear models with R](https://julianfaraway.github.io/faraway/LMR/). Táto kniha je unikátnym mixom téorie, reálnych príkladov a ich implementácie v R.
+Kurz je veľmi veľkej miery inšpirovaný knihami Juliana Farawaya, ktorému nedávno vyšla tretia edícia [Linear models with R (LMwR)](https://julianfaraway.github.io/faraway/LMR/). Táto kniha je unikátnym mixom téorie, reálnych príkladov a ich implementácie v R.
 
-Tu je [môj starší a skomprimovaný preklad "obohatený" o moje rôzne vhľady a popletené fantázie](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf).
+Tu je [môj starší a skomprimovaný prehľad LMwR "obohatený" o moje rôzne vhľady a popletené fantázie](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf).
 Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Odporúčam Vám zaobstarať si aj fyzickú kópiu knihy, druhé vydanie postačí.
 
 Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky relevantné informácie týkajúce sa tohoto kurzu.
@@ -112,4 +112,10 @@ Cvičenia budú prevažne vychádzať z úloh na konci kapitol v [F].
 ### Konzultačné hodiny
 
 Podľa dohody. Ste srdečne vítaní!
+
+
+### Hodnotenie
+
+- **30 %** – priebežné hodnotenie
+- **70 %** – záverečná skúška  
 
