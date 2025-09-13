@@ -1,9 +1,10 @@
-
+---
 title: ''
 permalink: /linreg1/
 author_profile: yes
 redirect_from:
-
+  - /linreg1.html
+---
 
 # Lineárna regresia 1
 Tento kurz je o spoznaní veľmi užitočného nástroja, ktorým je lineárna regresia. Celý semester sa podrobne budeme venovať rôznym rozšíreniam a uvidíme veľké množstvo príkladov a datasetov.
