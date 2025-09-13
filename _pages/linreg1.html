@@ -352,24 +352,144 @@ display: none;
 </div>
 
 
-<div id="o-tomto-kurze" class="section level1">
-<h1>O tomto kurze</h1>
+<p>title: ’’ permalink: /linreg1/ author_profile: yes redirect_from:</p>
+<div id="lineárna-regresia-1" class="section level1">
+<h1>Lineárna regresia 1</h1>
 <p>Tento kurz je o spoznaní veľmi užitočného nástroja, ktorým je
 lineárna regresia. Celý semester sa podrobne budeme venovať rôznym
 rozšíreniam a uvidíme veľké množstvo príkladov a datasetov.</p>
 <p>Tento kurz je veľmi veľkej miery inšpirovaný knihami Juliana
-Farawaya. Nedávno vyšla tretia edícia <a href="https://julianfaraway.github.io/faraway/LMR/">Linear models with
+Farawaya, ktorému nedávno vyšla tretia edícia <a href="https://julianfaraway.github.io/faraway/LMR/">Linear models with
 R</a>. Táto kniha je unikátnym mixom téorie, reálnych príkladov a ich
 implementácie v R.</p>
 <p>Tu je môj starší preklad “obohatený” o moje rôzne vhľady a popletené
-fantázie. <a href="http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf">Lineárna
-regresia 1</a></p>
-</div>
-<div id="cvičenie" class="section level1">
-<h1>Cvičenie</h1>
+fantázie. <a href="http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf">PDF
+text</a>. Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu.
+Odporúčam Vám zaobstarať si fyzickú kópiu knihy, druhé vydanie
+postačí.</p>
+<p>Táto webstránka <a href="http://lukaslaffers.github.io/linreg1" class="uri">http://lukaslaffers.github.io/linreg1</a> bude obsahovať
+prednáškové poznámky a dodatočné odkazy na zaujímavé čítania.</p>
+<div id="rozvrh" class="section level3">
+<h3>Rozvrh</h3>
+<p>13 týždňov (16. september – 10. december, kalendárne týždne
+38–50)</p>
+<p>(Rozvrh sa možno zmení tak, aby nám vyhovoval.)</p>
 <ul>
-<li>fdfs</li>
+<li><strong>Utorok</strong> 08:15 – 09:45   <em>F237</em>  
+Cvičenia<br />
+</li>
+<li><strong>Streda</strong> 15:25 – 17:40   <em>F237</em>  
+Prednáška/Cvičenie</li>
 </ul>
+</div>
+<div id="predpokladané-vstupné-znalosti" class="section level3">
+<h3>Predpokladané vstupné znalosti:</h3>
+<p>Úvodný kurz do pravdepodobnosti a štatistiky, kde sú vysvetlené
+základné pojmy ako je náhodná premenná, stredná hodnota, variancia,
+korelácia alebo dôležité vety ako Zákon veľkých čísel alebo Centrálna
+limita nájdete tu <a href="https://lukaslaffers.github.io/pas1/" class="uri">https://lukaslaffers.github.io/pas1/</a>.</p>
+<p>Predpokladá sa akási familiarita s výpočtovým prostredím R.
+Nadväzujúci praktický kurz so základným balíkom nástrojov je tu <a href="https://lukaslaffers.github.io/pas2/" class="uri">https://lukaslaffers.github.io/pas2/</a></p>
+<p>Taktiež je užitočná znalosť lineárnej algebry, pojmy ako vektor,
+matica, hodnosť matice, vlastné čísla a vlastné vektory by nemali byť
+cudzie.</p>
+</div>
+<div id="odporúčaná-literatúra" class="section level3">
+<h3>Odporúčaná literatúra</h3>
+<p><strong>Povinná</strong></p>
+<ul>
+<li><strong>[F]</strong> Julian Faraway: <em>Linear Models with R</em>,
+2. vydanie, CRC Press.<br />
+Sprievodná webstránka: <a href="http://www.maths.bath.ac.uk/~jjf23/LMR/" class="uri">http://www.maths.bath.ac.uk/~jjf23/LMR/</a></li>
+</ul>
+<p><strong>Doplnková</strong></p>
+<ul>
+<li><strong>[C]</strong> Crawley, M. J. <em>Statistical modelling.</em>
+<em>The R Book</em>, 2. vydanie (2007): 388–448.<br />
+</li>
+<li><strong>[B]</strong> Berk, R. A. <em>Statistical Learning from a
+Regression Perspective.</em> Springer, 2008.<br />
+</li>
+<li><strong>[G]</strong> Greene, W. H. <em>Econometric Analysis
+(International edition).</em> 2000.<br />
+</li>
+<li><strong>[H]</strong> Wickham, H. <em>ggplot2: Elegant Graphics for
+Data Analysis.</em> Springer, 2009.<br />
+</li>
+<li><strong>[CH]</strong> Claeskens, G., Hjort, N. L. <em>Model
+Selection and Model Averaging.</em> Cambridge UP, 2008.<br />
+</li>
+<li><strong>[FHT]</strong> Friedman, J., Hastie, T., Tibshirani, R.
+<em>The Elements of Statistical Learning.</em> Springer, 2001. <a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/" class="uri">http://statweb.stanford.edu/~tibs/ElemStatLearn/</a><br />
+</li>
+<li><strong>[WHT]</strong> James, G., Witten, D., Hastie, T.,
+Tibshirani, R. <em>An Introduction to Statistical Learning with
+Applications in R.</em> Springer, 2013.</li>
+</ul>
+</div>
+<div id="osnova-kurzu-odkazy-v-zátvorkách" class="section level3">
+<h3>Osnova kurzu <em>(odkazy v zátvorkách)</em></h3>
+<ul>
+<li><p><strong>Týždeň 1</strong><br />
+Pravidlá, úvod, motivácia, základy prieskumovej analýzy dát a
+vizualizácie, súhrnné štatistiky<br />
+[F: kap. 1, B: kap. 1–2, H]</p></li>
+<li><p><strong>Týždeň 2</strong><br />
+Odhadovanie – lineárny model, odhadovateľ, geometrická intuícia,
+príklady, výpočet bety (QR dekompozícia), Gauss–Markovova veta s
+dôkazom<br />
+[F: kap. 2]</p></li>
+<li><p><strong>Týždeň 3</strong><br />
+Štatistická inferencia – testy hypotéz, likelihood ratio test,
+F-rozdelenie, rozklad súčtu štvorcov, rôzne testy, permutačný test,
+intervaly spoľahlivosti, bootstrap intervaly<br />
+[F: kap. 3, G: kap. 4–5]</p></li>
+<li><p><strong>Týždeň 4</strong><br />
+Predikcia vs. vysvetlenie – intervaly spoľahlivosti, kauzalita,
+experimentálne vs. observačné dáta, matching, kvalitatívne dôkazy
+kauzality, interpretácia<br />
+[F: kap. 4–5]</p></li>
+<li><p><strong>Týždeň 5</strong><br />
+Diagnostika – predpoklady chýb: konštantná variancia, normalita,
+korelované chyby, neobvyklé pozorovania: leverage, odľahlé hodnoty,
+Cookova štatistika, parciálna regresia<br />
+[F: kap. 6]</p></li>
+<li><p><strong>Týždeň 6</strong><br />
+Kolinearita: faktor nafúknutia rozptylu (VIF), praktické problémy, chyby
+v prediktoroch, zmena mierky, GLS, testovanie nedostatočnej zhody,
+robustná regresia<br />
+[F: kap. 7–8]</p></li>
+<li><p><strong>Týždeň 7</strong><br />
+Transformácie – Box–Coxova transformácia, transformácia prediktorov,
+broken stick regresia, polynómy<br />
+[F: kap. 9]</p></li>
+<li><p><strong>Týždeň 8</strong><br />
+Výber modelu – spätná eliminácia, AIC, BIC, konzistentnosť
+vs. efektívnosť, príklady<br />
+[F: kap. 10, CH: kap. 2–4]</p></li>
+<li><p><strong>Týždeň 9</strong><br />
+Shrinkage – PCA, PLS, Ridge regresia, LASSO, krížová validácia<br />
+[F: kap. 11, FHT: kap. 3–4, WHT]</p></li>
+<li><p><strong>Týždeň 10</strong><br />
+Kompletný príklad: <em>Insurance redlining</em> – analýza dát,
+štatistiky, plný model a diagnostika, analýza citlivosti.<br />
+Chýbajúce dáta: MCAR, MAR, MNAR, jednoduchá a viacnásobná
+imputácia<br />
+[F: kap. 12–13]</p></li>
+<li><p><strong>Týždeň 11</strong><br />
+Kategorické prediktory – dvojúrovňový faktor, interakcie, viacúrovňové
+faktory, ANOVA, kódovanie kvalitatívnych prediktorov<br />
+[F: kap. 14]</p></li>
+<li><p><strong>Týždeň 12</strong><br />
+Prezentácie projektov, kompletný príklad, diskusia, Q&amp;A,
+zhrnutie.</p></li>
+</ul>
+<p>Cvičenia budú prevažne vychádzať z úloh na konci kapitol v [F].</p>
+</div>
+<div id="konzultačné-hodiny" class="section level3">
+<h3>Konzultačné hodiny</h3>
+<p>Podľa dohody. Ste srdečne vítaní!</p>
+</div>
 </div>
 
 
