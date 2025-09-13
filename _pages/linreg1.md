@@ -9,13 +9,12 @@ redirect_from:
 # Lineárna regresia 1
 Tento kurz je o spoznaní veľmi užitočného nástroja, ktorým je lineárna regresia. Celý semester sa podrobne budeme venovať rôznym rozšíreniam a uvidíme veľké množstvo príkladov a datasetov.
 
-Tento kurz je veľmi veľkej miery inšpirovaný knihami Juliana Farawaya, ktorému nedávno vyšla tretia edícia [Linear models with R](https://julianfaraway.github.io/faraway/LMR/). Táto kniha je unikátnym mixom téorie, reálnych príkladov a ich implementácie v R.
+Kurz je veľmi veľkej miery inšpirovaný knihami Juliana Farawaya, ktorému nedávno vyšla tretia edícia [Linear models with R](https://julianfaraway.github.io/faraway/LMR/). Táto kniha je unikátnym mixom téorie, reálnych príkladov a ich implementácie v R.
 
-Tu je môj starší preklad "obohatený" o moje rôzne vhľady a popletené fantázie.
-[PDF text](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf).
-Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Odporúčam Vám zaobstarať si fyzickú kópiu knihy, druhé vydanie postačí.
+Tu je [môj starší a skomprimovaný preklad "obohatený" o moje rôzne vhľady a popletené fantázie](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf).
+Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Odporúčam Vám zaobstarať si aj fyzickú kópiu knihy, druhé vydanie postačí.
 
-Táto webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať prednáškové poznámky a dodatočné odkazy na zaujímavé čítania.
+Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky relevantné informácie týkajúce sa tohoto kurzu.
 
 
 ### Rozvrh
@@ -32,7 +31,7 @@ Táto webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať predn�
 ###  Predpokladané vstupné znalosti:  
 Úvodný kurz do pravdepodobnosti a štatistiky, kde sú vysvetlené základné pojmy ako je náhodná premenná, stredná hodnota, variancia, korelácia alebo dôležité vety ako Zákon veľkých čísel alebo Centrálna limita nájdete tu <https://lukaslaffers.github.io/pas1/>.
 
-Predpokladá sa akási familiarita s výpočtovým prostredím R. Nadväzujúci praktický kurz so základným balíkom nástrojov je tu <https://lukaslaffers.github.io/pas2/>
+Predpokladá sa akási familiarita s výpočtovým prostredím R. Praktický kurz so základným štatistickým balíkom nástrojov je tu <https://lukaslaffers.github.io/pas2/>.
 
 Taktiež je užitočná znalosť lineárnej algebry, pojmy ako vektor, matica, hodnosť matice, vlastné čísla a vlastné vektory by nemali byť cudzie.
 
