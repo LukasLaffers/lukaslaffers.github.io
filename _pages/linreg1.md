@@ -16,6 +16,12 @@ Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Odporúčam Vá
 
 Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky relevantné informácie týkajúce sa tohoto kurzu.
 
+### Súbory
+
+R súbory: [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
+
+Cvičenia: [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
+
 
 ### Rozvrh
 
