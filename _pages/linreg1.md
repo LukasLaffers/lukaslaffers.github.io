@@ -27,10 +27,23 @@ Cvičenia: [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial
 
 13 týždňov (16. september – 10. december, kalendárne týždne 38–50)
 
-(Rozvrh sa možno zmení tak, aby nám vyhovoval.)
-
-- **Utorok** 08:15 – 09:45 &nbsp; *F237* &nbsp; Cvičenia  
+- **Utorok** 13:50 – 15:25 &nbsp; *F237* &nbsp; Cvičenia  
 - **Streda** 15:25 – 17:40 &nbsp; *F237* &nbsp; Prednáška/Cvičenie
+
+
+**Zoom** (kalendárne týždne 42–43):
+
+-  14.10.2025  13:50 – 15:25
+-  15.10.2025  15:25 – 17:40
+-  21.10.2025  13:50 – 15:25
+-  22.10.2025  15:25 – 17:40
+
+Prihlasovacie info:
+
+-  <https://us02web.zoom.us/j/3759103037?pwd=cUpaUUovZTI1ZWhVdy9NczJhUzNCUT09>
+-  Meeting ID: 375 910 3037
+-  Passcode: VEX6Mm
+
 
 
 
@@ -124,4 +137,3 @@ Podľa dohody. Ste srdečne vítaní!
 
 - **30 %** – priebežné hodnotenie
 - **70 %** – záverečná skúška  
-

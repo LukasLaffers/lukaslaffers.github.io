@@ -23,9 +23,20 @@ Webstránka <http://lukaslaffers.github.io/stoch> bude obsahovať všetky releva
 
 ### Rozvrh
 
-13 týždňov &nbsp;*(16. september – 10. december, týždne 38–50)*  
+13 týždňov &nbsp; (16. september – 10. december, týždne 38–50)
 
 - **Streda 08:15 – 11:20** F236 – Prednáška/Cvičenie
+
+**Zoom** (kalendárne týždne 42–43):
+
+-  15.10.2025  08:15 – 11:20
+-  22.10.2025  08:15 – 11:20
+
+Prihlasovacie info:
+
+-  <https://us02web.zoom.us/j/3759103037?pwd=cUpaUUovZTI1ZWhVdy9NczJhUzNCUT09>
+-  Meeting ID: 375 910 3037
+-  Passcode: VEX6Mm
 
 
 
