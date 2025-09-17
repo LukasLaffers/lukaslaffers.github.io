@@ -39,7 +39,6 @@ R cvičenia (praktické):
 Misc:
 
 -  [Dunning Krueger misunderstood(?)](https://statmodeling.stat.columbia.edu/2021/10/12/can-the-dunning-kruger-effect-be-explained-as-a-misunderstanding-of-regression-to-the-mean/), [článok v N](https://dennikn.sk/2237274/plodi-nevedomost-sebavedomie-slavny-dunningov-krugerov-efekt-sa-netyka-len-hlupakov-ale-vacsiny-populacie/),  [kód](https://www.dropbox.com/scl/fi/ishoc8a5povlnw0mflciw/dk2.R?rlkey=jsj8lylvmnf3zkvovavfzwbv1&dl=0)
--  [Peng Ding - Linear Models](https://arxiv.org/pdf/2401.00649)
 
 ### Rozvrh
 
@@ -83,6 +82,7 @@ Taktiež je užitočná znalosť lineárnej algebry, pojmy ako vektor, matica, h
 
 **Doplnková**
 
+- **[P]** Ding, P. (2024). Linear model and extensions. arXiv preprint arXiv:2401.00649.<https://arxiv.org/pdf/2401.00649>
 - **[C]** Crawley, M. J. *Statistical modelling.* *The R Book*, 2. vydanie (2007): 388–448.  
 - **[B]** Berk, R. A. *Statistical Learning from a Regression Perspective.* Springer, 2008.  
 - **[G]** Greene, W. H. *Econometric Analysis (International edition).* 2000.  
