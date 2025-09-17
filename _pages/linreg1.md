@@ -18,10 +18,28 @@ Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky rele
 
 ### Súbory
 
-R súbory: [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
+Slajdy: 
+[1](https://www.dropbox.com/scl/fi/eansoxj03u6dzn5sniya9/MAR1_1_lecture.pdf?rlkey=u5ocrwdfjzq0ig8hrgquii60k&dl=0)
+[2](https://www.dropbox.com/scl/fi/nw4x5rcogdqgk2yi4nc1l/MAR1_2_lecture.pdf?rlkey=8wyo51vbbe5tbzrtz7of7i4g9&dl=0)
 
-Cvičenia: [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
+R z prednášky: 
+[1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
+[2](https://www.dropbox.com/scl/fi/4wzlwuufkqhu6y6ghy55b/2.R?rlkey=sxmblirgxnbd4c9to99nvq554&dl=0)
+[3](https://www.dropbox.com/scl/fi/7pwtte44dgcu8lsbrqs7z/3.R?rlkey=pf023bu35arzfe81kd6z8xzf4&dl=0)
 
+
+R cvičenia (teoretické):
+[1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
+[2](https://www.dropbox.com/scl/fi/dpbw36a27fizewfzd9vr3/Cv2_LL_2025.R?rlkey=deov8n72oy7yhb8wvjrca55r7&dl=0)
+
+R cvičenia (praktické):
+[1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
+[2](https://www.dropbox.com/scl/fi/64uert1oipdthmig2kfh4/Ex2_Odhadovanie.R?rlkey=qbs12obgxhipfgrn9b2mzca8y&dl=0)
+
+Misc:
+
+-  [Dunning Krueger misunderstood(?)](https://statmodeling.stat.columbia.edu/2021/10/12/can-the-dunning-kruger-effect-be-explained-as-a-misunderstanding-of-regression-to-the-mean/), [článok v N](https://dennikn.sk/2237274/plodi-nevedomost-sebavedomie-slavny-dunningov-krugerov-efekt-sa-netyka-len-hlupakov-ale-vacsiny-populacie/),  [kód](https://www.dropbox.com/scl/fi/ishoc8a5povlnw0mflciw/dk2.R?rlkey=jsj8lylvmnf3zkvovavfzwbv1&dl=0)
+-  [Peng Ding - Linear Models](https://arxiv.org/pdf/2401.00649)
 
 ### Rozvrh
 
