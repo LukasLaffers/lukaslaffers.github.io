@@ -39,6 +39,7 @@ R cvičenia (praktické):
 Misc:
 
 -  [Dunning Krueger misunderstood(?)](https://statmodeling.stat.columbia.edu/2021/10/12/can-the-dunning-kruger-effect-be-explained-as-a-misunderstanding-of-regression-to-the-mean/), [článok v N](https://dennikn.sk/2237274/plodi-nevedomost-sebavedomie-slavny-dunningov-krugerov-efekt-sa-netyka-len-hlupakov-ale-vacsiny-populacie/),  [kód](https://www.dropbox.com/scl/fi/ishoc8a5povlnw0mflciw/dk2.R?rlkey=jsj8lylvmnf3zkvovavfzwbv1&dl=0)
+-  [Regression to mean simulácia](https://www.dropbox.com/scl/fi/h4k4afk3dec1rf234edqp/reg_to_mean_sim.R?rlkey=sj5dv5xrpsf5aewy499m9z31s&dl=0)
 
 ### Rozvrh
 
