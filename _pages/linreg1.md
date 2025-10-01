@@ -21,6 +21,7 @@ Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky rele
 Slajdy: 
 [1](https://www.dropbox.com/scl/fi/eansoxj03u6dzn5sniya9/MAR1_1_lecture.pdf?rlkey=u5ocrwdfjzq0ig8hrgquii60k&dl=0)
 [2](https://www.dropbox.com/scl/fi/nw4x5rcogdqgk2yi4nc1l/MAR1_2_lecture.pdf?rlkey=8wyo51vbbe5tbzrtz7of7i4g9&dl=0)
+[3](https://www.dropbox.com/scl/fi/jeukmwv5xqkq03eurcol1/MAR1_3_lecture.pdf?rlkey=k1j9t5156ll3zezky331er160&dl=0)
 
 R z prednášky: 
 [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
@@ -31,10 +32,17 @@ R z prednášky:
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
 [2](https://www.dropbox.com/scl/fi/dpbw36a27fizewfzd9vr3/Cv2_LL_2025.R?rlkey=deov8n72oy7yhb8wvjrca55r7&dl=0)
+[3](https://www.dropbox.com/scl/fi/o3yxbw483amn2p6l44di1/Cv3_LL_2025.R?rlkey=8jgh6z6o1hlhh01c98cicvjt2&dl=0)
+
 
 R cvičenia (praktické):
 [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
 [2](https://www.dropbox.com/scl/fi/64uert1oipdthmig2kfh4/Ex2_Odhadovanie.R?rlkey=qbs12obgxhipfgrn9b2mzca8y&dl=0)
+[3](https://www.dropbox.com/scl/fi/gh2qtvtul8h4ahxgufkjx/Ex3_Inferencia.R?rlkey=jb92xentxwx8jafe2t7jkv18u&dl=0)
+
+Domáce úlohy:
+[1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0)
+
 
 Misc:
 
