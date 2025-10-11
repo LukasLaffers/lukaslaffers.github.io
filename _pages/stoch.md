@@ -38,7 +38,9 @@ Prihlasovacie info:
 -  Meeting ID: 375 910 3037
 -  Passcode: VEX6Mm
 
-### Poznámky
+### Súbory
+
+Poznámky:
 
 -  [Stochastické procesy](https://www.dropbox.com/scl/fi/inf0nn8ex8ar7n1qrnzqf/7-kapitola-Rosenthal-cast1.pdf?rlkey=jkuiosccow0y5x1ml36tw6ytf&dl=0)
 -  [Diskrétne Markovove reťazce](https://www.dropbox.com/scl/fi/2lmzq14j3mcwyi23a1oq4/8-kapitola-Rosenthal.pdf?rlkey=miyj2qwyjm0cag1usl6f6s5g7&dl=0) [Prehľad](https://www.dropbox.com/scl/fi/49jkj1v4m1z3ml9iq1wu3/MR-overview.pdf?rlkey=ftt4pqqsene9jb5o3mq6v1o2o&dl=0)
@@ -49,6 +51,10 @@ Prihlasovacie info:
 
 -  [Všeobecné stochastické procesy](https://www.dropbox.com/scl/fi/14cx1oqjevcfd9kfnq8bl/15-kapitola-Rosenthal-cast1.pdf?rlkey=zfdvqhvmihn9161ridrylyv1u&dl=0)
 -  [Stochastické intergrály](https://www.dropbox.com/scl/fi/cswojtk1nakup1kaao3e3/15-kapitola-Rosenthal-cast2.pdf?rlkey=e3ugy5dbhgd8kk8c1c9r7ck6n&dl=0)
+
+
+Domáce úlohy:
+[1](http://lukaslaffers.github.io/files/1 exercise_2025.pdf)
 
 
 ### Odporúčaná literatúra
