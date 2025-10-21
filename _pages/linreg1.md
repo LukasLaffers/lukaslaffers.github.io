@@ -23,26 +23,29 @@ Slajdy:
 [2](https://www.dropbox.com/scl/fi/nw4x5rcogdqgk2yi4nc1l/MAR1_2_lecture.pdf?rlkey=8wyo51vbbe5tbzrtz7of7i4g9&dl=0)
 [3](https://www.dropbox.com/scl/fi/jeukmwv5xqkq03eurcol1/MAR1_3_lecture.pdf?rlkey=k1j9t5156ll3zezky331er160&dl=0)
 [4](https://www.dropbox.com/scl/fi/zsvkkcito63zbp240591b/MAR1_4_lecture-2.pdf?rlkey=vt1u1olxxuwkym3y7tgqd2m2y&dl=0)
+[5](https://www.dropbox.com/scl/fi/n48v0g7ga6ee6ba1ciojj/MAR1_5_lecture.pdf?rlkey=l16h12ssye4c4072jjrcwd73t&dl=0)
+
 
 R z prednášky: 
 [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
 [2](https://www.dropbox.com/scl/fi/4wzlwuufkqhu6y6ghy55b/2.R?rlkey=sxmblirgxnbd4c9to99nvq554&dl=0)
 [3](https://www.dropbox.com/scl/fi/7pwtte44dgcu8lsbrqs7z/3.R?rlkey=pf023bu35arzfe81kd6z8xzf4&dl=0)
 [4](https://www.dropbox.com/scl/fi/jclzordcrrpckjf5bjqsi/4-5.R?rlkey=e8qzgd9an96gab77t60iwrqws&dl=0)
-
+[5](https://www.dropbox.com/scl/fi/6r6yog8bw6txrrdllhpur/6diagnostics.R?rlkey=mfc84blaspbcru690tnp384o0&dl=0)
 
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
 [2](https://www.dropbox.com/scl/fi/dpbw36a27fizewfzd9vr3/Cv2_LL_2025.R?rlkey=deov8n72oy7yhb8wvjrca55r7&dl=0)
 [3](https://www.dropbox.com/scl/fi/o3yxbw483amn2p6l44di1/Cv3_LL_2025.R?rlkey=8jgh6z6o1hlhh01c98cicvjt2&dl=0)
 [4](https://www.dropbox.com/scl/fi/mexljsm2foi8tf52o9pq6/Cv4_LL_2025.R?rlkey=xlvt8ts80i646ix4021bb0yom&dl=0)
-
+[5](https://www.dropbox.com/scl/fi/ggxni1lc71qphw9pn7a4m/Cv5_LL_2025.R?rlkey=ohek3touxwab1s1fldikfl428&dl=0)
 
 R cvičenia (praktické):
 [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
 [2](https://www.dropbox.com/scl/fi/64uert1oipdthmig2kfh4/Ex2_Odhadovanie.R?rlkey=qbs12obgxhipfgrn9b2mzca8y&dl=0)
 [3](https://www.dropbox.com/scl/fi/gh2qtvtul8h4ahxgufkjx/Ex3_Inferencia.R?rlkey=jb92xentxwx8jafe2t7jkv18u&dl=0)
 [4](https://www.dropbox.com/scl/fi/a9s9hkta7x8t3f08s07cg/Ex4_PredVysvetl.R?rlkey=vospw1yv2kj59z5vsgwsagbrc&dl=0)
+[5](https://www.dropbox.com/scl/fi/cto1cf990tk7j8hrfovtn/Ex5_Diagnostics.R?rlkey=3u44u9ckupcpsm2iu6by1lwm2&dl=0)
 
 Domáce úlohy:
 [1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0) 
