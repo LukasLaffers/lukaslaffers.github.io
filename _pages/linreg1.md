@@ -22,32 +22,42 @@ Slajdy:
 [1](https://www.dropbox.com/scl/fi/eansoxj03u6dzn5sniya9/MAR1_1_lecture.pdf?rlkey=u5ocrwdfjzq0ig8hrgquii60k&dl=0)
 [2](https://www.dropbox.com/scl/fi/nw4x5rcogdqgk2yi4nc1l/MAR1_2_lecture.pdf?rlkey=8wyo51vbbe5tbzrtz7of7i4g9&dl=0)
 [3](https://www.dropbox.com/scl/fi/jeukmwv5xqkq03eurcol1/MAR1_3_lecture.pdf?rlkey=k1j9t5156ll3zezky331er160&dl=0)
+[4](https://www.dropbox.com/scl/fi/zsvkkcito63zbp240591b/MAR1_4_lecture-2.pdf?rlkey=vt1u1olxxuwkym3y7tgqd2m2y&dl=0)
+[5](https://www.dropbox.com/scl/fi/n48v0g7ga6ee6ba1ciojj/MAR1_5_lecture.pdf?rlkey=l16h12ssye4c4072jjrcwd73t&dl=0)
+
 
 R z prednášky: 
 [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
 [2](https://www.dropbox.com/scl/fi/4wzlwuufkqhu6y6ghy55b/2.R?rlkey=sxmblirgxnbd4c9to99nvq554&dl=0)
 [3](https://www.dropbox.com/scl/fi/7pwtte44dgcu8lsbrqs7z/3.R?rlkey=pf023bu35arzfe81kd6z8xzf4&dl=0)
-
+[4](https://www.dropbox.com/scl/fi/jclzordcrrpckjf5bjqsi/4-5.R?rlkey=e8qzgd9an96gab77t60iwrqws&dl=0)
+[5](https://www.dropbox.com/scl/fi/6r6yog8bw6txrrdllhpur/6diagnostics.R?rlkey=mfc84blaspbcru690tnp384o0&dl=0)
 
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
 [2](https://www.dropbox.com/scl/fi/dpbw36a27fizewfzd9vr3/Cv2_LL_2025.R?rlkey=deov8n72oy7yhb8wvjrca55r7&dl=0)
 [3](https://www.dropbox.com/scl/fi/o3yxbw483amn2p6l44di1/Cv3_LL_2025.R?rlkey=8jgh6z6o1hlhh01c98cicvjt2&dl=0)
-
+[4](https://www.dropbox.com/scl/fi/mexljsm2foi8tf52o9pq6/Cv4_LL_2025.R?rlkey=xlvt8ts80i646ix4021bb0yom&dl=0)
+[5](https://www.dropbox.com/scl/fi/ggxni1lc71qphw9pn7a4m/Cv5_LL_2025.R?rlkey=ohek3touxwab1s1fldikfl428&dl=0)
 
 R cvičenia (praktické):
 [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
 [2](https://www.dropbox.com/scl/fi/64uert1oipdthmig2kfh4/Ex2_Odhadovanie.R?rlkey=qbs12obgxhipfgrn9b2mzca8y&dl=0)
 [3](https://www.dropbox.com/scl/fi/gh2qtvtul8h4ahxgufkjx/Ex3_Inferencia.R?rlkey=jb92xentxwx8jafe2t7jkv18u&dl=0)
+[4](https://www.dropbox.com/scl/fi/a9s9hkta7x8t3f08s07cg/Ex4_PredVysvetl.R?rlkey=vospw1yv2kj59z5vsgwsagbrc&dl=0)
+[5](https://www.dropbox.com/scl/fi/cto1cf990tk7j8hrfovtn/Ex5_Diagnostics.R?rlkey=3u44u9ckupcpsm2iu6by1lwm2&dl=0)
 
 Domáce úlohy:
-[1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0)
+[1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0) 
+[2](https://www.dropbox.com/scl/fi/q90j2mnzuvxyqdlo3vzuf/2025_DU2.pdf?rlkey=g1jehv536yaw7nit7mbsmczvq&dl=0)
 
 
 Misc:
 
 -  [Dunning Krueger misunderstood(?)](https://statmodeling.stat.columbia.edu/2021/10/12/can-the-dunning-kruger-effect-be-explained-as-a-misunderstanding-of-regression-to-the-mean/), [článok v N](https://dennikn.sk/2237274/plodi-nevedomost-sebavedomie-slavny-dunningov-krugerov-efekt-sa-netyka-len-hlupakov-ale-vacsiny-populacie/),  [kód](https://www.dropbox.com/scl/fi/ishoc8a5povlnw0mflciw/dk2.R?rlkey=jsj8lylvmnf3zkvovavfzwbv1&dl=0)
 -  [Regression to mean simulácia](https://www.dropbox.com/scl/fi/h4k4afk3dec1rf234edqp/reg_to_mean_sim.R?rlkey=sj5dv5xrpsf5aewy499m9z31s&dl=0)
+- [Cv 14oct](https://www.dropbox.com/scl/fi/zdngnvf8oferumrdrsv6e/cvic_14Oct.pdf?rlkey=haqxckfeorrz9utn9e4to5gn7&dl=0), [R](https://www.dropbox.com/scl/fi/sqx6ovipne48hg2qe1ojz/cvicenia14oct2025.R?rlkey=c4y02xllon0luwwjywjnui34k&dl=0)
+- [Kauzalita z neexperimentálnych dát](https://www.youtube.com/watch?v=YwT0JCvRSaU)
 
 ### Rozvrh
 
@@ -59,9 +69,9 @@ Misc:
 
 **Zoom** (kalendárne týždne 42–43):
 
--  14.10.2025  13:50 – 15:25
+-  14.10.2025  ~~13:50~~ <span style="color:red">**14:10**</span> – 15:25
 -  15.10.2025  15:25 – 17:40
--  21.10.2025  13:50 – 15:25
+-  21.10.2025  ~~13:50~~ <span style="color:red">**14:10**</span> – 15:25
 -  22.10.2025  15:25 – 17:40
 
 Prihlasovacie info:

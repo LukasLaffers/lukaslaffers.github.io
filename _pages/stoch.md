@@ -55,6 +55,13 @@ Poznámky:
 
 Domáce úlohy:
 [1](http://lukaslaffers.github.io/files/1 exercise_2025.pdf)
+[2](http://lukaslaffers.github.io/files/2 exercise_2025.pdf)
+
+Iné:
+
+15oct: [tabuľa](https://www.dropbox.com/scl/fi/k8h5otpb5el39h9c59jph/stoch_15oct2025.pdf?rlkey=s3pum3y6menbs9zprevxlq9ro&dl=0), [záznam](https://youtu.be/Ennt00MpCRI)
+
+22oct: [tabuľa](https://www.dropbox.com/scl/fi/cw3fxo7zfb51o7gcbgogg/stoch_22oct2025.pdf?rlkey=jowelr25rseujots4kxcs4vrm&dl=0), [záznam](https://youtu.be/ta28Pl55RaE)
 
 
 ### Odporúčaná literatúra
