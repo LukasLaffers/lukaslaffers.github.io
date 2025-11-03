@@ -19,8 +19,6 @@ Súbor pomenujte: PriezviskoMeno.R
 
 - Formát: .R
 - Iba jeden súbor
-- Komentovaný kód
-- Odoslať môžete iba raz
 
 
 [Sem nahrajte R-súbor](https://umbsk-my.sharepoint.com/:f:/g/personal/llaffers_umb_sk/EgCMg0YMQTJInjCJs4CKX-QBlVoEpwGBEMphQ6so608D3Q)
