@@ -63,6 +63,10 @@ Misc:
 - [Kauzalita z neexperimentálnych dát](https://www.youtube.com/watch?v=YwT0JCvRSaU)
 - [interpretácia parametrov](https://www.dropbox.com/scl/fi/sq70no6sn1txvydsq7dyp/Interpretacia-koeficientov-priklad.R?rlkey=ah853boodu9kh8yg81o36062c&dl=0)
 
+### Odovzdávadlo
+
+[R súbor nahrajte sem](https://umbsk-my.sharepoint.com/:f:/g/personal/llaffers_umb_sk/EhjNFmfux21DrYwf8Px5L_MBlGnYGQXH_fPmmFsdsbbuQA)
+
 ### Rozvrh
 
 13 týždňov (16. september – 10. december, kalendárne týždne 38–50)
