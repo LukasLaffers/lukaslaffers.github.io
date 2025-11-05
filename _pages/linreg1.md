@@ -65,7 +65,8 @@ Misc:
 
 ### Odovzdávadlo
 
-[R súbor nahrajte sem](https://umbsk-my.sharepoint.com/:f:/g/personal/llaffers_umb_sk/EhjNFmfux21DrYwf8Px5L_MBlGnYGQXH_fPmmFsdsbbuQA)
+[R subor nahrajte sem](https://www.dropbox.com/request/utFWgckwkb9rpuwzAcaA) ak to nepôjde, tak 
+[sem](https://umbsk-my.sharepoint.com/:f:/g/personal/llaffers_umb_sk/EhjNFmfux21DrYwf8Px5L_MBlGnYGQXH_fPmmFsdsbbuQA)
 
 ### Rozvrh
 
