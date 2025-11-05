@@ -25,6 +25,7 @@ Slajdy:
 [4](https://www.dropbox.com/scl/fi/zsvkkcito63zbp240591b/MAR1_4_lecture-2.pdf?rlkey=vt1u1olxxuwkym3y7tgqd2m2y&dl=0)
 [5](https://www.dropbox.com/scl/fi/n48v0g7ga6ee6ba1ciojj/MAR1_5_lecture.pdf?rlkey=l16h12ssye4c4072jjrcwd73t&dl=0)
 [6](https://www.dropbox.com/scl/fi/26kirrdvvg481lctkly27/MAR1_6_lecture.pdf?rlkey=vt03u9pzbsz99m49nqbxmme82&dl=0)
+[7](https://www.dropbox.com/scl/fi/vrpsqtux3v7d8ql8awgc3/MAR1_7_lecture.pdf?rlkey=nxl3mg5awv8270ajyb7de2728&dl=0)
 
 R z prednášky: 
 [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
@@ -33,6 +34,7 @@ R z prednášky:
 [4](https://www.dropbox.com/scl/fi/jclzordcrrpckjf5bjqsi/4-5.R?rlkey=e8qzgd9an96gab77t60iwrqws&dl=0)
 [5](https://www.dropbox.com/scl/fi/6r6yog8bw6txrrdllhpur/6diagnostics.R?rlkey=mfc84blaspbcru690tnp384o0&dl=0)
 [6](https://www.dropbox.com/scl/fi/sp17cwmbta0pd8ipeemwv/7predictors.R?rlkey=w93c4vmc6lk4ik0z97xakxt63&dl=0)
+[7](https://www.dropbox.com/scl/fi/zmlck60c183m8smjthkib/8errors.R?rlkey=3qs196wmvrcy6jgrpb3x2xum0&dl=0)
 
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
@@ -41,6 +43,7 @@ R cvičenia (teoretické):
 [4](https://www.dropbox.com/scl/fi/mexljsm2foi8tf52o9pq6/Cv4_LL_2025.R?rlkey=xlvt8ts80i646ix4021bb0yom&dl=0)
 [5](https://www.dropbox.com/scl/fi/ggxni1lc71qphw9pn7a4m/Cv5_LL_2025.R?rlkey=ohek3touxwab1s1fldikfl428&dl=0)
 [6](https://www.dropbox.com/scl/fi/6mtf653snzwt0v1v5flt7/Cv6_LL.R?rlkey=ponqhyu29yu4ofvrlfhs8whfi&dl=0)
+[7](https://www.dropbox.com/scl/fi/qg6zo3nc8pzdyzijxjvll/Cv7_LL.R?rlkey=xqpdfr48p65wi8qzs30z41xpi&dl=0)
 
 R cvičenia (praktické):
 [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
@@ -49,6 +52,7 @@ R cvičenia (praktické):
 [4](https://www.dropbox.com/scl/fi/a9s9hkta7x8t3f08s07cg/Ex4_PredVysvetl.R?rlkey=vospw1yv2kj59z5vsgwsagbrc&dl=0)
 [5](https://www.dropbox.com/scl/fi/cto1cf990tk7j8hrfovtn/Ex5_Diagnostics.R?rlkey=3u44u9ckupcpsm2iu6by1lwm2&dl=0)
 [6](https://www.dropbox.com/scl/fi/4nintc2z92n3bnh8es7nu/Ex6_Predictors.R?rlkey=1r1n0hd2b0so5z3y9u54051r9&dl=0)
+[7](https://www.dropbox.com/scl/fi/tcab3l4xct27l49i4ubie/Ex7_GLSrobust.R?rlkey=83scr3ph2zrdf0jp0jh9e3fd2&dl=0)
 
 Domáce úlohy:
 [1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0) 
@@ -62,11 +66,8 @@ Misc:
 - [Cv 14oct](https://www.dropbox.com/scl/fi/zdngnvf8oferumrdrsv6e/cvic_14Oct.pdf?rlkey=haqxckfeorrz9utn9e4to5gn7&dl=0), [R](https://www.dropbox.com/scl/fi/sqx6ovipne48hg2qe1ojz/cvicenia14oct2025.R?rlkey=c4y02xllon0luwwjywjnui34k&dl=0)
 - [Kauzalita z neexperimentálnych dát](https://www.youtube.com/watch?v=YwT0JCvRSaU)
 - [interpretácia parametrov](https://www.dropbox.com/scl/fi/sq70no6sn1txvydsq7dyp/Interpretacia-koeficientov-priklad.R?rlkey=ah853boodu9kh8yg81o36062c&dl=0)
+- [volebné dáta](http://lukaslaffers.github.io/files/volby2013_raw.RData)
 
-### Odovzdávadlo
-
-[R subor nahrajte sem](https://www.dropbox.com/request/utFWgckwkb9rpuwzAcaA) ak to nepôjde, tak 
-[sem](https://umbsk-my.sharepoint.com/:f:/g/personal/llaffers_umb_sk/EhjNFmfux21DrYwf8Px5L_MBlGnYGQXH_fPmmFsdsbbuQA)
 
 ### Rozvrh
 
