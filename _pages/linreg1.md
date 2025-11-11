@@ -67,6 +67,7 @@ Misc:
 - [Kauzalita z neexperimentálnych dát](https://www.youtube.com/watch?v=YwT0JCvRSaU)
 - [interpretácia parametrov](https://www.dropbox.com/scl/fi/sq70no6sn1txvydsq7dyp/Interpretacia-koeficientov-priklad.R?rlkey=ah853boodu9kh8yg81o36062c&dl=0)
 - [volebné dáta](http://lukaslaffers.github.io/files/volby2013_raw.RData)
+- [volebné dáta 2](https://www.dropbox.com/scl/fi/3rbs5eazk4hruoovxsp7b/volby2013_raw.RData?rlkey=6ozgrnrpfjyi7vvvc8n75m7ig&dl=0)
 
 
 ### Rozvrh
