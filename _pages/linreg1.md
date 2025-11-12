@@ -26,6 +26,8 @@ Slajdy:
 [5](https://www.dropbox.com/scl/fi/n48v0g7ga6ee6ba1ciojj/MAR1_5_lecture.pdf?rlkey=l16h12ssye4c4072jjrcwd73t&dl=0)
 [6](https://www.dropbox.com/scl/fi/26kirrdvvg481lctkly27/MAR1_6_lecture.pdf?rlkey=vt03u9pzbsz99m49nqbxmme82&dl=0)
 [7](https://www.dropbox.com/scl/fi/vrpsqtux3v7d8ql8awgc3/MAR1_7_lecture.pdf?rlkey=nxl3mg5awv8270ajyb7de2728&dl=0)
+[8](https://www.dropbox.com/scl/fi/35oyj1d82uamqypk2gw1f/MAR1_8_lecture.pdf?rlkey=2t3zu8xlpu80ecazz92azeyu3&dl=0)
+
 
 R z prednášky: 
 [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
@@ -35,6 +37,7 @@ R z prednášky:
 [5](https://www.dropbox.com/scl/fi/6r6yog8bw6txrrdllhpur/6diagnostics.R?rlkey=mfc84blaspbcru690tnp384o0&dl=0)
 [6](https://www.dropbox.com/scl/fi/sp17cwmbta0pd8ipeemwv/7predictors.R?rlkey=w93c4vmc6lk4ik0z97xakxt63&dl=0)
 [7](https://www.dropbox.com/scl/fi/zmlck60c183m8smjthkib/8errors.R?rlkey=3qs196wmvrcy6jgrpb3x2xum0&dl=0)
+[8](https://www.dropbox.com/scl/fi/1dghu8wy3ekhv3w70pctx/Ex8_Transformacie.R?rlkey=cksishen03pmbl01egpi7w0z4&dl=0)
 
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
@@ -44,6 +47,7 @@ R cvičenia (teoretické):
 [5](https://www.dropbox.com/scl/fi/ggxni1lc71qphw9pn7a4m/Cv5_LL_2025.R?rlkey=ohek3touxwab1s1fldikfl428&dl=0)
 [6](https://www.dropbox.com/scl/fi/6mtf653snzwt0v1v5flt7/Cv6_LL.R?rlkey=ponqhyu29yu4ofvrlfhs8whfi&dl=0)
 [7](https://www.dropbox.com/scl/fi/qg6zo3nc8pzdyzijxjvll/Cv7_LL.R?rlkey=xqpdfr48p65wi8qzs30z41xpi&dl=0)
+[8](https://www.dropbox.com/scl/fi/pbhctbti653coew177ubi/Cv8_LL_2025.R?rlkey=uw6xyil0cg3x70bcx4rotrkw8&dl=0)
 
 R cvičenia (praktické):
 [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
@@ -53,11 +57,13 @@ R cvičenia (praktické):
 [5](https://www.dropbox.com/scl/fi/cto1cf990tk7j8hrfovtn/Ex5_Diagnostics.R?rlkey=3u44u9ckupcpsm2iu6by1lwm2&dl=0)
 [6](https://www.dropbox.com/scl/fi/4nintc2z92n3bnh8es7nu/Ex6_Predictors.R?rlkey=1r1n0hd2b0so5z3y9u54051r9&dl=0)
 [7](https://www.dropbox.com/scl/fi/tcab3l4xct27l49i4ubie/Ex7_GLSrobust.R?rlkey=83scr3ph2zrdf0jp0jh9e3fd2&dl=0)
+[8](https://www.dropbox.com/scl/fi/1dghu8wy3ekhv3w70pctx/Ex8_Transformacie.R?rlkey=cksishen03pmbl01egpi7w0z4&dl=0)
 
 Domáce úlohy:
 [1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0) 
 [2](https://www.dropbox.com/scl/fi/q90j2mnzuvxyqdlo3vzuf/2025_DU2.pdf?rlkey=g1jehv536yaw7nit7mbsmczvq&dl=0)
 [3](https://www.dropbox.com/scl/fi/o9ojg0k4vnjtewwp9njex/2025_DU3.pdf?rlkey=12l4no49mymm9anjhf2n8lhrp&dl=0)
+[4](https://www.dropbox.com/scl/fi/merqydwgixcmhgaha4t7c/2025_DU4.pdf?rlkey=gwnzq5qv9cri9q3mug3nffnzo&dl=0)
 
 Misc:
 
@@ -66,8 +72,8 @@ Misc:
 - [Cv 14oct](https://www.dropbox.com/scl/fi/zdngnvf8oferumrdrsv6e/cvic_14Oct.pdf?rlkey=haqxckfeorrz9utn9e4to5gn7&dl=0), [R](https://www.dropbox.com/scl/fi/sqx6ovipne48hg2qe1ojz/cvicenia14oct2025.R?rlkey=c4y02xllon0luwwjywjnui34k&dl=0)
 - [Kauzalita z neexperimentálnych dát](https://www.youtube.com/watch?v=YwT0JCvRSaU)
 - [interpretácia parametrov](https://www.dropbox.com/scl/fi/sq70no6sn1txvydsq7dyp/Interpretacia-koeficientov-priklad.R?rlkey=ah853boodu9kh8yg81o36062c&dl=0)
-- [volebné dáta](http://lukaslaffers.github.io/files/volby2013_raw.RData)
-- [volebné dáta 2](https://www.dropbox.com/scl/fi/3rbs5eazk4hruoovxsp7b/volby2013_raw.RData?rlkey=6ozgrnrpfjyi7vvvc8n75m7ig&dl=0)
+- [volebné dáta](http://lukaslaffers.github.io/files/volby2013_raw.RData) k cvičeniam 7
+- [o p-hodnotách](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) v 2016 zatriasla štatistickým svetom diskusia American Statistical Association o p-hodnotách
 
 
 ### Rozvrh
@@ -114,7 +120,7 @@ Taktiež je užitočná znalosť lineárnej algebry, pojmy ako vektor, matica, h
   [F: kap. 1, B: kap. 1–2, H]
 
 - **Týždeň 2**  
-  Odhadovanie – lineárny model, odhadovateľ, geometrická intuícia, príklady, výpočet bety (QR dekompozícia), Gauss–Markovova veta s dôkazom  
+  Odhadovanie – lineárny model, odhady, geometrická intuícia, príklady, výpočet bety, Gauss–Markovova veta s dôkazom  
   [F: kap. 2]
 
 - **Týždeň 3**  
@@ -162,7 +168,7 @@ Cvičenia budú prevažne vychádzať z úloh na konci kapitol v [F].
 
 ### Konzultačné hodiny
 
-Podľa dohody. Ste srdečne vítaní!
+Podľa dohody. Ste srdečne vítaní (**naozaj**)! 
 
 
 ### Hodnotenie
