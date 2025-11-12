@@ -26,7 +26,7 @@ Slajdy:
 [5](https://www.dropbox.com/scl/fi/n48v0g7ga6ee6ba1ciojj/MAR1_5_lecture.pdf?rlkey=l16h12ssye4c4072jjrcwd73t&dl=0)
 [6](https://www.dropbox.com/scl/fi/26kirrdvvg481lctkly27/MAR1_6_lecture.pdf?rlkey=vt03u9pzbsz99m49nqbxmme82&dl=0)
 [7](https://www.dropbox.com/scl/fi/vrpsqtux3v7d8ql8awgc3/MAR1_7_lecture.pdf?rlkey=nxl3mg5awv8270ajyb7de2728&dl=0)
-[8](https://www.dropbox.com/scl/fi/35oyj1d82uamqypk2gw1f/MAR1_8_lecture.pdf?rlkey=2t3zu8xlpu80ecazz92azeyu3&dl=0)
+[8](https://www.dropbox.com/scl/fi/m8j244k8h9z1zr0irqkys/MAR1_8_lecture.pdf?rlkey=r4t9415vzr3szex7nhq9axg90&dl=0)
 
 
 R z prednášky: 
