@@ -37,7 +37,7 @@ R z prednášky:
 [5](https://www.dropbox.com/scl/fi/6r6yog8bw6txrrdllhpur/6diagnostics.R?rlkey=mfc84blaspbcru690tnp384o0&dl=0)
 [6](https://www.dropbox.com/scl/fi/sp17cwmbta0pd8ipeemwv/7predictors.R?rlkey=w93c4vmc6lk4ik0z97xakxt63&dl=0)
 [7](https://www.dropbox.com/scl/fi/zmlck60c183m8smjthkib/8errors.R?rlkey=3qs196wmvrcy6jgrpb3x2xum0&dl=0)
-[8](https://www.dropbox.com/scl/fi/1dghu8wy3ekhv3w70pctx/Ex8_Transformacie.R?rlkey=cksishen03pmbl01egpi7w0z4&dl=0)
+[8](https://www.dropbox.com/scl/fi/1emxwmv4blt6cfbaams9s/9transformations.R?rlkey=rplgocp7qs4vi646n66uuw994&dl=0)
 
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
