@@ -57,6 +57,8 @@ Domáce úlohy:
 [1](http://lukaslaffers.github.io/files/1 exercise_2025.pdf)
 [2](http://lukaslaffers.github.io/files/2 exercise_2025.pdf)
 [3](http://lukaslaffers.github.io/files/3 exercise_2025.pdf)
+[4](http://lukaslaffers.github.io/files/4 exercise_2025.pdf)
+[5](http://lukaslaffers.github.io/files/4 exercise_2025.pdf)
 
 Iné:
 
