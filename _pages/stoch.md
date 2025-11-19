@@ -66,6 +66,8 @@ Iné:
 
 22oct: [tabuľa](https://www.dropbox.com/scl/fi/cw3fxo7zfb51o7gcbgogg/stoch_22oct2025.pdf?rlkey=jowelr25rseujots4kxcs4vrm&dl=0), [záznam](https://youtu.be/ta28Pl55RaE)
 
+[Dánske požiare](http://lukaslaffers.github.io/files/danish_fire_data.pdf)
+
 
 ### Odporúčaná literatúra
 
