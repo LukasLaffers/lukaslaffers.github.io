@@ -67,6 +67,8 @@ Iné:
 
 22oct: [tabuľa](https://www.dropbox.com/scl/fi/cw3fxo7zfb51o7gcbgogg/stoch_22oct2025.pdf?rlkey=jowelr25rseujots4kxcs4vrm&dl=0), [záznam](https://youtu.be/ta28Pl55RaE)
 
+[Dánske požiare](http://lukaslaffers.github.io/files/danish_fire_data.pdf)
+
 
 ### Odporúčaná literatúra
 
@@ -86,9 +88,9 @@ Iné:
 
 - Rýchly prehľad pravdepodobnosti [R: ch1–7]  
 - **Stochastické procesy** – konštrukcia jednoduchého stochastického procesu [R: ch10]  
-- **Diskrétne Markovove reťazce** – definícia, stavový priestor, príklady (matica kreditného skóre), rekurentné a tranzientné reťazce, ireducibilita, stacionárne rozdelenia a konvergencia, periodické reťazce, MCMC algoritmus (Metropolis-Hastings, Gibbs), príklad Google PageRank [R: ch8, K, ER: ch11]  
+- **Diskrétne Markovove reťazce** – definícia, stavový priestor, príklady (matica kreditného skóre), rekurentné a prechodové reťazce, neredukovateľnosť, stacionárne rozdelenia a konvergencia, periodické reťazce, MCMC algoritmus (Metropolis-Hastings, Gibbs), príklad Google PageRank [R: ch8, K, ER: ch11]  
 - **Poissonov proces** – Lundbergov model, Bernoulliho proces, limitná definícia, vlastnosti, homogénny a nehomogénny PP, alternatívne definície, paradox inšpekcie, rozdelenie medzičasov, usporiadané štatistiky, príklad dánskych požiarov [M: ch1–2]  
-- **Martingaly** – podmienené očakávanie, martingal, sub/supermartingal, zastavovací čas, vetu o voliteľnom výbere, príklady, Waldova veta, veta o konvergencii martingalu, Upcrossing lemma, maximálna nerovnosť, centrálna limitná veta (bez dôkazu) [R: ch14]  
+- **Martingaly** – podmienená stredná hodnota, martingal, sub/supermartingal, čas zastavenia, optional sampling theorem, príklady, Waldova veta, veta o konvergencii martingalu, Upcrossing lemma, maximálna nerovnosť [R: ch14]  
 - **Všeobecné stochastické procesy** – Kolmogorovova veta o existencii, Markovove reťazce na všeobecnom stavovom priestore, stacionárne rozdelenia, kontinuálny čas, generátor, reverzibilita, Brownov pohyb – definícia, vlastnosti, existencia [R: ch15]
 
 Cvičenia vychádzajú najmä z úloh na konci kapitol v [R].
