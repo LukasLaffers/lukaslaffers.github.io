@@ -28,7 +28,8 @@ Slajdy:
 [7](https://www.dropbox.com/scl/fi/vrpsqtux3v7d8ql8awgc3/MAR1_7_lecture.pdf?rlkey=nxl3mg5awv8270ajyb7de2728&dl=0)
 [8](https://www.dropbox.com/scl/fi/m8j244k8h9z1zr0irqkys/MAR1_8_lecture.pdf?rlkey=r4t9415vzr3szex7nhq9axg90&dl=0)
 [9](https://www.dropbox.com/scl/fi/isocwumron3nspmk2r1na/MAR1_9_lecture.pdf?rlkey=zevrkny32jc6gimdnnceytnt0&dl=0)
-[10](https://www.dropbox.com/scl/fi/n60jnj795xzmilg3svf5g/MAR1_10_lecture.pdf?rlkey=4it8bhh7cdom4gd3rsnvhn9lt&dl=0)
+[10](https://www.dropbox.com/scl/fi/wocgawgbfmgut16saghdh/MAR1_10_lecture.pdf?rlkey=wohbc35c7lp3u9u73pihj1knd&dl=0)
+
 
 
 R z prednášky: 
@@ -166,7 +167,7 @@ Taktiež je užitočná znalosť lineárnej algebry, pojmy ako vektor, matica, h
   [F: kap. 10, CH: kap. 2–4]
 
 - **Téma 10**  
-  Shrinkage – PCA, PLS, Ridge regresia, LASSO, krížová validácia  
+  Shrinkage – PCA,  Ridge regresia, LASSO, krížová validácia  
   [F: kap. 11, FHT: kap. 3–4, WHT]
 
 - **Téma 11**  

@@ -16,6 +16,7 @@ Misc
 [in Slovak] Popularizačné prednášky
 ======
 
+- Vedatour: Ako vyhodnotiť zmenu politiky (2025, [slides](https://lukaslaffers.github.io/files/vedatour2025.pdf))
 - Ako Google určuje dôležitosť webstránok (2025, [slides](https://lukaslaffers.github.io/files/DOD_2025.pdf))
 - Matematika mnohorozmerných dát (2025, [video](https://youtu.be/ZHWgP2VScbY), [slides](https://lukaslaffers.github.io/files/DOD_2025a.pdf))
 - Vedatour: Kauzalita a metódy strojového učenia (2024, [video](https://youtu.be/8vxUaDQ179Y?si=bujmmUXP1f-aiaX4), [slides](https://lukaslaffers.github.io/files/Vedatour_2024_handout.pdf))
