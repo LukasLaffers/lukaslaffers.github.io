@@ -28,6 +28,8 @@ Slajdy:
 [7](https://www.dropbox.com/scl/fi/vrpsqtux3v7d8ql8awgc3/MAR1_7_lecture.pdf?rlkey=nxl3mg5awv8270ajyb7de2728&dl=0)
 [8](https://www.dropbox.com/scl/fi/m8j244k8h9z1zr0irqkys/MAR1_8_lecture.pdf?rlkey=r4t9415vzr3szex7nhq9axg90&dl=0)
 [9](https://www.dropbox.com/scl/fi/isocwumron3nspmk2r1na/MAR1_9_lecture.pdf?rlkey=zevrkny32jc6gimdnnceytnt0&dl=0)
+[10](https://www.dropbox.com/scl/fi/n60jnj795xzmilg3svf5g/MAR1_10_lecture.pdf?rlkey=4it8bhh7cdom4gd3rsnvhn9lt&dl=0)
+
 
 R z prednášky: 
 [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
@@ -39,7 +41,7 @@ R z prednášky:
 [7](https://www.dropbox.com/scl/fi/zmlck60c183m8smjthkib/8errors.R?rlkey=3qs196wmvrcy6jgrpb3x2xum0&dl=0)
 [8](https://www.dropbox.com/scl/fi/1emxwmv4blt6cfbaams9s/9transformations.R?rlkey=rplgocp7qs4vi646n66uuw994&dl=0)
 [9](https://www.dropbox.com/scl/fi/fe1a7yyg4dutho2odlpqt/10model_selection.R?rlkey=jth9ffx9gx25xefpkck6qwrq4&dl=0)
-
+[10](https://www.dropbox.com/scl/fi/m104ywipwkrnak4wr1okd/11shrinkage.R?rlkey=xjeo1osfzbs40tyjqdbynbish&dl=0)
 
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
@@ -51,6 +53,7 @@ R cvičenia (teoretické):
 [7](https://www.dropbox.com/scl/fi/qg6zo3nc8pzdyzijxjvll/Cv7_LL.R?rlkey=xqpdfr48p65wi8qzs30z41xpi&dl=0)
 [8](https://www.dropbox.com/scl/fi/pbhctbti653coew177ubi/Cv8_LL_2025.R?rlkey=uw6xyil0cg3x70bcx4rotrkw8&dl=0)
 [9](https://www.dropbox.com/scl/fi/kzuoazbdlx865f1mngkps/Cv9_LL.R?rlkey=wtgteh3g6kbirfi0ic5m8oaxd&dl=0)
+[10](https://www.dropbox.com/scl/fi/280494lt1belfnrau6qxk/CV10_LL.R?rlkey=mpya5vqjbnyxcy0xww43xufv9&dl=0)
 
 
 R cvičenia (praktické):
@@ -63,6 +66,8 @@ R cvičenia (praktické):
 [7](https://www.dropbox.com/scl/fi/tcab3l4xct27l49i4ubie/Ex7_GLSrobust.R?rlkey=83scr3ph2zrdf0jp0jh9e3fd2&dl=0)
 [8](https://www.dropbox.com/scl/fi/1dghu8wy3ekhv3w70pctx/Ex8_Transformacie.R?rlkey=cksishen03pmbl01egpi7w0z4&dl=0)
 [9](https://www.dropbox.com/scl/fi/ylqt4v8qm0cdhcqitbel1/Ex9_ModelSelect.R?rlkey=ul53co9cj7ejtl5p6mz1rse5e&dl=0)
+[10](https://www.dropbox.com/scl/fi/lsmtlse9dzcevcnn0yf5t/Ex10_Shrinkage.R?rlkey=kaw7v4n1fk1gxams027bcozxk&dl=0)
+
 
 Domáce úlohy:
 [1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0) 
@@ -70,6 +75,8 @@ Domáce úlohy:
 [3](https://www.dropbox.com/scl/fi/o9ojg0k4vnjtewwp9njex/2025_DU3.pdf?rlkey=12l4no49mymm9anjhf2n8lhrp&dl=0)
 [4](https://www.dropbox.com/scl/fi/merqydwgixcmhgaha4t7c/2025_DU4.pdf?rlkey=gwnzq5qv9cri9q3mug3nffnzo&dl=0)
 [5](https://www.dropbox.com/scl/fi/jgfklsj03sg6ydpyhev5i/2025_DU5.pdf?rlkey=8elvfjr5lq6xu4mlf7f5mepqi&dl=0)
+[6](https://www.dropbox.com/scl/fi/33l4q8mcplvjuo90pknbb/2025_DU6.pdf?rlkey=74myxow4u8h5ts320uot7fgdi&dl=0)
+
 
 Misc:
 
@@ -80,6 +87,7 @@ Misc:
 - [interpretácia parametrov](https://www.dropbox.com/scl/fi/sq70no6sn1txvydsq7dyp/Interpretacia-koeficientov-priklad.R?rlkey=ah853boodu9kh8yg81o36062c&dl=0)
 - [volebné dáta](http://lukaslaffers.github.io/files/volby2013_raw.RData) k cvičeniam 7
 - [o p-hodnotách](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) v 2016 zatriasla štatistickým svetom diskusia American Statistical Association o p-hodnotách
+- [mnohorozmerné dáta populárne](https://youtu.be/ZHWgP2VScbY)
 
 
 ### Rozvrh
@@ -121,53 +129,52 @@ Taktiež je užitočná znalosť lineárnej algebry, pojmy ako vektor, matica, h
 
 ### Osnova kurzu  *(odkazy v zátvorkách)*
 
-- **Týždeň 1**  
+- **Téma 1**  
   Pravidlá, úvod, motivácia, základy prieskumovej analýzy dát a vizualizácie, súhrnné štatistiky  
   [F: kap. 1, B: kap. 1–2, H]
 
-- **Týždeň 2**  
+- **Téma 2**  
   Odhadovanie – lineárny model, odhady, geometrická intuícia, príklady, výpočet bety, Gauss–Markovova veta s dôkazom  
   [F: kap. 2]
 
-- **Týždeň 3**  
+- **Téma 3**  
   Štatistická inferencia – testy hypotéz, likelihood ratio test, F-rozdelenie, rozklad súčtu štvorcov, rôzne testy, permutačný test, intervaly spoľahlivosti, bootstrap intervaly  
   [F: kap. 3, G: kap. 4–5]
 
-- **Týždeň 4**  
+- **Téma 4**  
   Predikcia vs. vysvetlenie – intervaly spoľahlivosti, kauzalita, experimentálne vs. observačné dáta, matching, kvalitatívne dôkazy kauzality, interpretácia  
   [F: kap. 4–5]
 
-- **Týždeň 5**  
+- **Téma 5**  
   Diagnostika – predpoklady chýb: konštantná variancia, normalita, korelované chyby, neobvyklé pozorovania: leverage, odľahlé hodnoty, Cookova štatistika, parciálna regresia  
   [F: kap. 6]
 
-- **Týždeň 6**  
+- **Téma 6**
   Kolinearita: faktor nafúknutia rozptylu (VIF), praktické problémy, chyby v prediktoroch, zmena mierky, GLS, testovanie nedostatočnej zhody, robustná regresia  
   [F: kap. 7–8]
+  
+  - **Téma 7**
+  Problémy s chybami. Zovšeobecnený lineárny model, heteroskedasticita, robustné variatny regresie.  
+  [F: kap. 7–8]
 
-- **Týždeň 7**  
+- **Téma 8**  
   Transformácie – Box–Coxova transformácia, transformácia prediktorov, broken stick regresia, polynómy  
   [F: kap. 9]
 
-- **Týždeň 8**  
+- **Téma 9**  
   Výber modelu – spätná eliminácia, AIC, BIC, konzistentnosť vs. efektívnosť, príklady  
   [F: kap. 10, CH: kap. 2–4]
 
-- **Týždeň 9**  
+- **Téma 10**  
   Shrinkage – PCA, PLS, Ridge regresia, LASSO, krížová validácia  
   [F: kap. 11, FHT: kap. 3–4, WHT]
 
-- **Týždeň 10**  
-  Kompletný príklad: *Insurance redlining* – analýza dát, štatistiky, plný model a diagnostika, analýza citlivosti.  
-  Chýbajúce dáta: MCAR, MAR, MNAR, jednoduchá a viacnásobná imputácia  
-  [F: kap. 12–13]
-
-- **Týždeň 11**  
+- **Téma 11**  
   Kategorické prediktory – dvojúrovňový faktor, interakcie, viacúrovňové faktory, ANOVA, kódovanie kvalitatívnych prediktorov  
   [F: kap. 14]
 
-- **Týždeň 12**  
-  Prezentácie projektov, kompletný príklad, diskusia, Q&A, zhrnutie.
+- **Téma 12**  
+  Písomná skúška, zhrnutie, diskusia, Q&A, zhrnutie.
 
 Cvičenia budú prevažne vychádzať z úloh na konci kapitol v [F].
 
