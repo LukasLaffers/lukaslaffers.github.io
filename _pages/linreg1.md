@@ -27,8 +27,8 @@ Slajdy:
 [6](https://www.dropbox.com/scl/fi/26kirrdvvg481lctkly27/MAR1_6_lecture.pdf?rlkey=vt03u9pzbsz99m49nqbxmme82&dl=0)
 [7](https://www.dropbox.com/scl/fi/vrpsqtux3v7d8ql8awgc3/MAR1_7_lecture.pdf?rlkey=nxl3mg5awv8270ajyb7de2728&dl=0)
 [8](https://www.dropbox.com/scl/fi/m8j244k8h9z1zr0irqkys/MAR1_8_lecture.pdf?rlkey=r4t9415vzr3szex7nhq9axg90&dl=0)
-[9](https://www.dropbox.com/scl/fi/isocwumron3nspmk2r1na/MAR1_9_lecture.pdf?rlkey=zevrkny32jc6gimdnnceytnt0&dl=0)
-[10](https://www.dropbox.com/scl/fi/wocgawgbfmgut16saghdh/MAR1_10_lecture.pdf?rlkey=wohbc35c7lp3u9u73pihj1knd&dl=0)
+[9](https://www.dropbox.com/scl/fi/vffsncr8773nsmv0t0hhx/MAR1_9_lecture.pdf?rlkey=6s9g55gc9ydl11mjp03bmadka&dl=0)
+[10](https://www.dropbox.com/scl/fi/1px4a810tyyr57gipdy90/MAR1_10_lecture.pdf?rlkey=636vvkmvw95hooj5qv4qytilk&dl=0)
 
 
 
