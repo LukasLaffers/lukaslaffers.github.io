@@ -29,8 +29,8 @@ Slajdy:
 [8](https://www.dropbox.com/scl/fi/m8j244k8h9z1zr0irqkys/MAR1_8_lecture.pdf?rlkey=r4t9415vzr3szex7nhq9axg90&dl=0)
 [9](https://www.dropbox.com/scl/fi/vffsncr8773nsmv0t0hhx/MAR1_9_lecture.pdf?rlkey=6s9g55gc9ydl11mjp03bmadka&dl=0)
 [10](https://www.dropbox.com/scl/fi/1px4a810tyyr57gipdy90/MAR1_10_lecture.pdf?rlkey=636vvkmvw95hooj5qv4qytilk&dl=0)
-
-
+[11](https://www.dropbox.com/scl/fi/jmca0316havn2alt7g1d7/MAR1_11_lecture.pdf?rlkey=t7e0v0d22h5pkxiqxzro1n0uj&dl=0)
+[všetky slajdy](https://www.dropbox.com/scl/fi/57nndyxvkywxxjqi9682k/presentations_2025.zip?rlkey=xefo4o6gzjia9c8o088m8q821&dl=0)
 
 R z prednášky: 
 [1](https://www.dropbox.com/scl/fi/vddxdof05wq9pl5flpecu/1.R?rlkey=sc7gcvxxfzmaxwjredlpypmo3&dl=0)
@@ -43,6 +43,8 @@ R z prednášky:
 [8](https://www.dropbox.com/scl/fi/1emxwmv4blt6cfbaams9s/9transformations.R?rlkey=rplgocp7qs4vi646n66uuw994&dl=0)
 [9](https://www.dropbox.com/scl/fi/fe1a7yyg4dutho2odlpqt/10model_selection.R?rlkey=jth9ffx9gx25xefpkck6qwrq4&dl=0)
 [10](https://www.dropbox.com/scl/fi/m104ywipwkrnak4wr1okd/11shrinkage.R?rlkey=xjeo1osfzbs40tyjqdbynbish&dl=0)
+[11](https://www.dropbox.com/scl/fi/8nemut12kfqesnxw2qu0v/14categorical.R?rlkey=0l50snxn7yw4dfasnhf8a0p3a&dl=0)
+[všetky R súbory](https://www.dropbox.com/scl/fi/pmgd6zgpp2xdq4rgzls26/prednaskove_r_subory_2025.zip?rlkey=afz2ojw0socfnp258kswr5yan&dl=0)
 
 R cvičenia (teoretické):
 [1](https://www.dropbox.com/scl/fi/nbnmat5fybn9y4zme3lwt/Cv1_LL_2025.R?rlkey=2ywsqy3a4xbbziv73e7b9nv5f&dl=0)
@@ -55,7 +57,8 @@ R cvičenia (teoretické):
 [8](https://www.dropbox.com/scl/fi/pbhctbti653coew177ubi/Cv8_LL_2025.R?rlkey=uw6xyil0cg3x70bcx4rotrkw8&dl=0)
 [9](https://www.dropbox.com/scl/fi/kzuoazbdlx865f1mngkps/Cv9_LL.R?rlkey=wtgteh3g6kbirfi0ic5m8oaxd&dl=0)
 [10](https://www.dropbox.com/scl/fi/280494lt1belfnrau6qxk/CV10_LL.R?rlkey=mpya5vqjbnyxcy0xww43xufv9&dl=0)
-
+[11](https://www.dropbox.com/scl/fi/x9v0bwhlahwnael6ppfhv/Cv11_LL.R?rlkey=bhronpdexqesvyap72z5y9ehj&dl=0)
+[všetky riešenia](https://www.dropbox.com/scl/fi/e3gvj3u5o8os271zvfd0e/teoreticke_riesenia_2025.zip?rlkey=98hgt0xvfev380jn7uceeu00j&dl=0)
 
 R cvičenia (praktické):
 [1](https://www.dropbox.com/scl/fi/dnfbpb2d3aufv7s6wq4a5/Ex1_Tutorial-Vizualizacia.R?rlkey=6n9ecepa0b0cn0u1jorwuwqwj&dl=0)
@@ -68,7 +71,8 @@ R cvičenia (praktické):
 [8](https://www.dropbox.com/scl/fi/1dghu8wy3ekhv3w70pctx/Ex8_Transformacie.R?rlkey=cksishen03pmbl01egpi7w0z4&dl=0)
 [9](https://www.dropbox.com/scl/fi/ylqt4v8qm0cdhcqitbel1/Ex9_ModelSelect.R?rlkey=ul53co9cj7ejtl5p6mz1rse5e&dl=0)
 [10](https://www.dropbox.com/scl/fi/lsmtlse9dzcevcnn0yf5t/Ex10_Shrinkage.R?rlkey=kaw7v4n1fk1gxams027bcozxk&dl=0)
-
+[11](https://www.dropbox.com/scl/fi/87uylsvnam4rhvad0l5u2/Ex11_KategorPred.R?rlkey=za43n57pcm8al7sqylp8rfgwz&dl=0)
+[všetky riešenia](https://www.dropbox.com/scl/fi/h5aj1fwb179dzmd2vso39/prakticke_riesenia_2025.zip?rlkey=2lm5gp4e8r89w798pl96pcclx&dl=0)
 
 Domáce úlohy:
 [1](https://www.dropbox.com/scl/fi/rc3ccksvvyd0jnoiycrmh/2025_DU1.pdf?rlkey=3pr7h2tv2jqc2vlnbl74qv9bg&dl=0) 
