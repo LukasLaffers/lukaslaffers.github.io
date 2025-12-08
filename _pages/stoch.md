@@ -38,6 +38,10 @@ Prihlasovacie info:
 -  Meeting ID: 375 910 3037
 -  Passcode: VEX6Mm
 
+### Skúška
+
+5.1.2026 o 9:00 v F225 
+
 ### Súbory
 
 Poznámky:
