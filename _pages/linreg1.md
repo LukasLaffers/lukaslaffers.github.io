@@ -16,15 +16,9 @@ Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Odporúčam Vá
 
 Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky relevantné informácie týkajúce sa tohoto kurzu.
 
-### Priebežná skúška
-
-[R súbor](https://www.dropbox.com/scl/fi/qtufaszp4tpq3c1nbr32q/druha_priebezna_2025.R?rlkey=4nxalsai5gwo7zii2pbv1kxhw&dl=0)
-
-[odovzdávadlo](https://www.dropbox.com/request/3iO6lyrfL400UsvGGQfZ)
-
 ### Skúška
 
-12.1.2026 o 9:00 v F237 
+7.1.2026 o 9:00 v F237 
 
 ### Súbory
 
