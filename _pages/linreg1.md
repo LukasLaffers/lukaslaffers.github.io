@@ -18,7 +18,7 @@ Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky rele
 
 ### Priebežná skúška
 
-[R súbor](https://www.dropbox.com/scl/fi/i63oergf9uw2l74vobm8o/druha_prieb_2025.R?rlkey=i1yqg1bj4fo4hmldiqxqqslv5&dl=0)
+[R súbor](https://www.dropbox.com/scl/fi/qtufaszp4tpq3c1nbr32q/druha_priebezna_2025.R?rlkey=4nxalsai5gwo7zii2pbv1kxhw&dl=0)
 
 [odovzdávadlo](https://www.dropbox.com/request/3iO6lyrfL400UsvGGQfZ)
 
