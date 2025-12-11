@@ -18,7 +18,9 @@ Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky rele
 
 ### Skúška
 
-7.1.2026 o 9:00 v F237 
+~~7.1.2026 o 9:00 v F237~~ 
+
+12.1.2026 o 9:00 v F237 
 
 ### Súbory
 

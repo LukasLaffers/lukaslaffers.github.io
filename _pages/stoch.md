@@ -40,7 +40,9 @@ Prihlasovacie info:
 
 ### Skúška
 
-5.1.2026 o 9:00 v F225 
+~~5.1.2026 o 9:00 v F225~~ 
+
+15.1.2026 o 9:00 v F225
 
 ### Súbory
 
