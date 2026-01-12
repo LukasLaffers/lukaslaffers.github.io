@@ -18,16 +18,16 @@ redirect_from:
  
 # Courses
 
+-   Regression Analysis 2 (Fall 2016-2023, 2026 in Slovak, UMB)
+-   Probability Theory 1 (Spring 2014, 2016, 2018-2023, 2026 in Slovak, UMB)
+-   Probability and Statistics 1 (Spring 2022-2026 in Slovak, UMB)
+
+
 -   Econometrics (Fall 2021-2025, PhD course, MUNI)
 -   Optimisation and Microeconomic Theory (Fall 2014, 2018-2025, Master, NHH)
 -   Regression Analysis 1 (Spring 2016-2021, 2023-2025 in Slovak, UMB)
 -   Stochastic Processes (Fall 2015-2018, 2020-2025 in Slovak, UMB)
 -   Probability and Statistics 2 (Fall 2021-2025 in Slovak, UMB)
-
-
--   Regression Analysis 2 (Fall 2016-2023 in Slovak, UMB)
--   Probability Theory 1 (Spring 2014, 2016, 2018-2023, in Slovak, UMB)
--   Probability and Statistics 1 (Spring 2022-2025 in Slovak, UMB)
 -   Computation and Simulation in R 3 (Spring 2018-2021, 2023, in Slovak, UMB)
 -   Introduction to Numerical Methods using MATLAB (Spring 2015 and 2017, intensive PhD course, NHH)
 -   Financial Mathematics 2 (Fall 2015, in Slovak, UMB)
