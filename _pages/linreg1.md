@@ -22,6 +22,8 @@ Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky rele
 
 12.1.2026 o 9:00 v F237 
 
+[odovzdávadlo](https://www.dropbox.com/request/qZG2F7YHTNk0y6E07D53)
+
 ### Súbory
 
 Slajdy: 
@@ -164,7 +166,7 @@ Taktiež je užitočná znalosť lineárnej algebry, pojmy ako vektor, matica, h
   Kolinearita: faktor nafúknutia rozptylu (VIF), praktické problémy, chyby v prediktoroch, zmena mierky, GLS, testovanie nedostatočnej zhody, robustná regresia  
   [F: kap. 7–8]
   
-  - **Téma 7**
+- **Téma 7**
   Problémy s chybami. Zovšeobecnený lineárny model, heteroskedasticita, robustné variatny regresie.  
   [F: kap. 7–8]
 
