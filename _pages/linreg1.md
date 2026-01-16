@@ -16,6 +16,8 @@ Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Odporúčam Vá
 
 Webstránka <http://lukaslaffers.github.io/linreg1> bude obsahovať všetky relevantné informácie týkajúce sa tohoto kurzu.
 
+
+
 ### Súbory
 
 Slajdy: 
