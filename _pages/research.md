@@ -12,6 +12,7 @@ Working Papers / Work in Progress
 
 - Testing identification in mediation and dynamic treatment models (with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Kevin Kloiber](https://kevinkloiber.github.io), [arXiv:2406.13826](https://arxiv.org/abs/2406.13826), [slides](http://lukaslaffers.github.io/files/presentation_LL_StG.pdf)), implemented in 
     - R - [`testmedident` in causalweight](https://cran.r-project.org/web/packages/causalweight/index.html) package.
+- Testing Full Mediation of Treatment Effects and the Identifiability of Causal Mechanisms (with [Martin Huber](http://www.unifr.ch/appecon/en/team/martin-huber/) and [Kevin Kloiber](https://kevinkloiber.github.io))
 - Mothers' Job Search after Childbirth and Earnings (with [Bernhard Schmidpeter](https://sites.google.com/site/bernhardecon/), [(May 2025)](http://lukaslaffers.github.io/files/Mothers_May2025.pdf), [slides](http://lukaslaffers.github.io/files/mothers_presentation.pdf))
 - Locking-in or Pushing-out: The Caseworker Dilemma (with [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [IER WP](https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf), [slides](http://lukaslaffers.github.io/files/DML_presentation-3.pdf))
 - Afraid of Automation? Choose your Training Carefully (with [Zuzana Koštálová](https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova), [Miroslav Štefánik](http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik), [IER WP](https://ekonom.sav.sk/uploads/journals/437_wp_116-kostalova-final_fin_na_web.pdf))
@@ -55,9 +56,10 @@ Research Interests
 Grants
 ======
 
-- **VEGA 1/0398/23** — Causality and machine learning in econometric models (principal investigator, 2023—ongoing)
-- **APVV-21-0360** — Applying machine learning methods to support labour market policy making (2022—ongoing)
+- **VEGA 1/0645/26** — Causal inference in econometric models (principal investigator, 2026—2028)
+- **APVV-21-0360** — Applying machine learning methods to support labour market policy making (2022—2026)
 - **COST-CA21163** — Text, functional and other high-dimensional data in econometrics: New models, methods, applications (member of MC for Slovakia)
+- **VEGA 1/0398/23** — Causality and machine learning in econometric models (principal investigator, 2023—2025)
 - **VEGA 1/0692/20** — Sensitivity analysis in econometric models (principal investigator, project chosen among those that achieved high significance. 2020—2022)
 - **APVV-17-0329** — Generating scientific information to support labour market policy making (received rating: Excellent, 2017—2021)
 - **VEGA 1/0843/17** - Econometric methods for identification of average treatment effects (principal investigator, [project chosen among those that achieved high significance](https://www.minedu.sk/data/att/20333.xls). 2017—2019)
@@ -72,6 +74,6 @@ Theses
 Refereeing
 ======
 
-- Journal of Econometrics, Journal of the Royal Statistical Society: Series C (Applied Statistics), Journal of Applied Econometrics, Oxford Bulletin of Economics and Statistics, Biometrics, Journal of Human Resources, Economics Letters, Empirical Economics, Advances in Statistical Analysis, Journal of Econometric Methods, European Journal of Operations Research, Journal of Environmental Economics and Management, Research in Statistics, Journal of Statistical Computation and Simulation, Journal of Data Science, Applied Economics, Ekonomický Časopis
+- Journal of Econometrics, Journal of the Royal Statistical Society: Series C (Applied Statistics), Journal of Applied Econometrics, Oxford Bulletin of Economics and Statistics, Biometrics, Journal of Human Resources, Economics Letters, Empirical Economics, Advances in Statistical Analysis, Journal of Econometric Methods, European Journal of Operations Research, Journal of Environmental Economics and Management, Research in Statistics, Journal of Statistical Computation and Simulation, Statistical Methods in Medical Research, Journal of Data Science, Applied Economics, Ekonomický Časopis
 - Social Policy Institute (SVK), Institute for Healthcare Analyses (SVK), VEGA grant scheme (SVK), Luxembourg National Research Fund, Riksbankens jubileumsfond
-- PhD committee: CERGE-EI, Comenius University
+- PhD committee: University of St. Gallen, CERGE-EI, Comenius University
