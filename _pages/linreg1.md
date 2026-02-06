@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 # Lineárna regresia 1
-Tento kurz je o spoznaní veľmi užitočného nástroja, ktorým je lineárna regresia. Ide o základný nástroj, ktorý nám pomáha porozumieť vzťahom medzi rôznymi premennými ako aj predikovať. Celý semester sa budeme tiež venovať rôznym rozšíreniam a uvidíme veľké množstvo príkladov a datasetov.
+Tento kurz je o spoznaní veľmi užitočného nástroja, ktorým je lineárna regresia. Ide o základný nástroj, ktorý nám pomáha porozumieť vzťahom medzi rôznymi premennými ako aj predikovať. Celý semester sa budeme tiež venovať rôznym rozšíreniam a uvidíme veľké množstvo príkladov a datasetov. 
 
 Kurz je veľmi veľkej miery inšpirovaný knihami Juliana Farawaya, ktorému nedávno vyšla tretia edícia [Linear models with R (LMwR)](https://julianfaraway.github.io/faraway/LMR/). Táto kniha je unikátnym mixom téorie, reálnych príkladov a ich implementácie v R.
 
