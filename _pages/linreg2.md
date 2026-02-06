@@ -11,7 +11,7 @@ redirect_from:
 
 ### Konzultačné hodiny
 
-Podľa dohody. Ste srdečne vítaní (**naozaj**)! 
+Podľa dohody. Ste srdečne vítaní (**naozaj**)!  A
 
 
 ### Hodnotenie
