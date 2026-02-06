@@ -18,4 +18,4 @@ I am also affiliated with [NHH - Norwegian School of Economics in Bergen](https:
 
 My research interests lie mainly within the areas of econometrics, causal inference, and labor economics. I have also experience in working with and analyzing medical data for research.
 
-My CV can be found [here](https://lukaslaffers.github.io/files/CV_Laffers_eng.pdf) (Dec 2024).
+My CV can be found [here](https://lukaslaffers.github.io/files/CV_Laffers_feb2026_eng.pdf) (Feb 2025).
