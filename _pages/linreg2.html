@@ -354,14 +354,140 @@ display: none;
 
 <div id="lineárna-regresia-2" class="section level1">
 <h1>Lineárna regresia 2</h1>
+<p>Tento kurz je pokračovaním kurzu lineárnej regresie 1. Kým v
+predošlom kurze sme si dopodrobna rozobrali základný nájstroj - metódu
+najmenších štvorcov, teraz budeme pracovať viacej do šírky. Uvidíme
+veľké množstvo rôznych štatistických metód a tento kurz má ambíciu
+pokryť veľkú paletu aplikácií, aby ste sa vedeli v praxi dobre
+orientovať.</p>
+<p>Základnou učebnicou je kniha <a href="https://julianfaraway.github.io/faraway/ELM/">Extending Linear
+Models with R</a>, ktorá pokrýva okolo 80% obsahu kurzu.</p>
+<p>Cvičenia bude viesť <a href="https://www.fpv.umb.sk/mmihokova/">Dr. Michaela Mihoková</a>.</p>
+<div id="súbory" class="section level3">
+<h3>Súbory</h3>
+<p>Tu je <a href="http://lukaslaffers.github.io/files/MAR2_all.pdf">môj
+starší text</a>. Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu.
+Tento text je písaný veľmi koncentrovane a je len pomôckou, silne
+odporúčam čítať originálne zdroje.</p>
+<p>Webstránka <a href="http://lukaslaffers.github.io/linreg2" class="uri">http://lukaslaffers.github.io/linreg2</a> bude obsahovať
+všetky relevantné informácie týkajúce sa tohoto kurzu.</p>
+<p>R z prednášky: (ELM prvé vydanie)[<a href="https://julianfaraway.github.io/faraway/ELM/scripts/" class="uri">https://julianfaraway.github.io/faraway/ELM/scripts/</a>]
+(ELM druhé vydanie)[<a href="https://julianfaraway.github.io/faraway/ELM/toc2.html" class="uri">https://julianfaraway.github.io/faraway/ELM/toc2.html</a>]</p>
+<p>R cvičenia:</p>
+<p>Domáce úlohy:</p>
+<p>Misc:</p>
+</div>
+<div id="rozvrh" class="section level3">
+<h3>Rozvrh</h3>
+<p>13 týždňov (9. február – 8. máj, kalendárne týždne 7–19)</p>
+<ul>
+<li><strong>Pondelok</strong> 9:50 – 12:05   <em>F237</em>  
+Prednáška/Cvičenie (Lukáš Lafférs)</li>
+<li><strong>Streda</strong> 12:15 – 13:40   <em>F237</em>   Cvičenia
+(Dr. Michaela Mihoková)</li>
+</ul>
+</div>
+<div id="osnova-kurzu" class="section level3">
+<h3>Osnova kurzu</h3>
+<ul>
+<li><p><strong>Úvod</strong> – zhrnutie lineárnych regresných modelov,
+kompletný príklad.</p></li>
+<li><p><strong>Modely pre binárne dáta</strong> – typy problémov,
+linková funkcia a pravdepodobnosť, štatistické závery, interpretácia,
+prospektívny/retrospektívny výber, mierka vhodnosti modelu,
+overdispersion, párovanie.</p></li>
+<li><p><strong>Modely pre počtové dáta</strong> – typy problémov,
+štatistické závery, interpretácia, overdispersion, Poissonovo rozdelenie
+a negatívne binomické rozdelenie, modely so zvýšeným počtom nulových
+hodnôt.</p></li>
+<li><p><strong>Kontingenčné tabuľky</strong> – nominálne vs ordinálne
+dáta, 2x2 tabuľky, výberové schémy, IxJ tabuľky, test nezávislosti
+faktorov, singular value decomposition, párované pozorovania,
+trojrozmerné tabuľky a Simpsonov paradox, ordinálne dáta.</p></li>
+<li><p><strong>Multinomiálne dáta</strong> – multinomiálny logit,
+nezávislosť irelevantných alternatív, hierarchické modely, modely
+ordinálnej odpovede – proportional odds model, ordered probit model,
+proportional hazard model.</p></li>
+<li><p><strong>Generalizované lineárne modely (GLM)</strong> –
+rozdelenie a linková funkcia, iteratívne prevažované metódy najmenších
+štvorcov, testy hypotéz – vhodnosť modelu, vnorené modely, diagnostika,
+ďalšie GLM – gamma regresia a inverzná gaussovská regresia,
+quasi-GLM.</p></li>
+<li><p><strong>Neparametrická regresia</strong> – parametrové vs
+neparametrické vs semiparametrické modely, kernelové odhady,
+Nadaraya-Watsonov odhad, splajny – bázy funkcií, prirodzené splajny,
+vyhladzovacie splajny, lokálne polynómy, vlnky, výber modelu.</p></li>
+<li><p><strong>Bootstrap</strong> – rozdelenie výberového súboru,
+myšlienka bootstrapu, testy hypotéz v lineárnych regresných modeloch,
+teória, korekcia biasu, testy hypotéz, príklady, intervaly
+spoľahlivosti, alternatívy k bootstrapu.</p></li>
+<li><p><strong>Kvantilová regresia</strong> – stredná hodnota vs
+kvantil, účinky na rozdelenie, kvantilová regresia ako optimalizačný
+problém, kvantilový účinok liečby, príklady.</p></li>
+<li><p><strong>Zovšeobecnené aditívne modely (GAM)</strong> – aditívne
+modely ako kompromis medzi parametrovým a neparametrickým modelom,
+backfitting algoritmus, alternujúce podmienené očakávania, kanonické
+korelácie, stabilizácia rozptylu, multivariačné adaptívne regresné
+splajny.</p></li>
+<li><p><strong>Modely panelových dát</strong> – typy dát, príklady,
+model s náhodnými efektmi, model s fixnými efektmi, Hausmanov test,
+Breusch-Paganov test.</p></li>
+<li><p><strong>Metóda náhodných lesov</strong> - klasifikačný a regresný
+strom, výhody/nevýhody, krížová validácia</p></li>
+</ul>
+</div>
 <div id="konzultačné-hodiny" class="section level3">
 <h3>Konzultačné hodiny</h3>
-<p>Podľa dohody. Ste srdečne vítaní (<strong>naozaj</strong>)! A</p>
+<p>Podľa dohody. Ste srdečne vítaní (<strong>naozaj</strong>)!</p>
+</div>
+<div id="odporúčaná-literatúra" class="section level3">
+<h3>Odporúčaná literatúra</h3>
+<div id="povinná" class="section level4">
+<h4>Povinná</h4>
+<ul>
+<li>Faraway, J. <em>Extending the Linear Model with R: Generalized
+Linear, Mixed Effects and Nonparametric Regression Models</em>, Chapman
+&amp; Hall/CRC, 2006.<br />
+</li>
+<li>Faraway, J. <em>Linear Models with R</em>, Chapman &amp; Hall,
+2005.</li>
+</ul>
+</div>
+<div id="doplnková" class="section level4">
+<h4>Doplnková</h4>
+<ul>
+<li>Korn, Ralf, Elke Korn, a Gerald Kroisandt. <em>Monte Carlo Methods
+and Models in Finance and Insurance</em>, CRC Press, 2010.<br />
+</li>
+<li>Frees, E. <em>Regression Modeling with Actuarial and Financial
+Applications</em>, CUP, 2009.<br />
+</li>
+<li>Frees, E. <em>Longitudinal and Panel Data: Analysis and Applications
+in Social Sciences</em>, CUP, 2004.<br />
+</li>
+<li>Agresti, Alan. <em>Foundations of Linear and Generalized Linear
+Models</em>, John Wiley &amp; Sons, 2015.<br />
+</li>
+<li>Cameron, A. Colin, a Pravin K. Trivedi. <em>Microeconometrics:
+Methods and Applications</em>, Cambridge University Press, 2005.<br />
+</li>
+<li>Efron, Bradley, a Robert J. Tibshirani. <em>An Introduction to the
+Bootstrap</em>, CRC Press, 1994.<br />
+</li>
+<li>Hansen, Bruce E. <em>Lecture Notes on Nonparametrics</em>, Lecture
+Notes, 2009.<br />
+</li>
+<li>Koenker, Roger, a Kevin Hallock. <em>Quantile Regression: An
+Introduction</em>, Journal of Economic Perspectives, 15(4):43–56,
+2001.</li>
+</ul>
+</div>
 </div>
 <div id="hodnotenie" class="section level3">
 <h3>Hodnotenie</h3>
 <ul>
-<li><strong>30 %</strong> – priebežné hodnotenie</li>
+<li><strong>30 %</strong> – priebežné hodnotenie (domáce úlohy a
+priebežná skúška v 2/3 kurzu)</li>
 <li><strong>70 %</strong> – záverečná skúška</li>
 </ul>
 </div>
