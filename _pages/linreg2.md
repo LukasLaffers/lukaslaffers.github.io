@@ -25,6 +25,8 @@ R z prednášky:
 [ELM prvé vydanie](https://julianfaraway.github.io/faraway/ELM/scripts/)
 [ELM druhé vydanie](https://julianfaraway.github.io/faraway/ELM/toc2.html)
 
+[Úvod a zhrnutie LMwR na príklade volebných dát z US štátu Georgia v 2000](https://www.dropbox.com/scl/fi/ydjb706jnvqg7ts1pvfmh/introlm.R?rlkey=i82or4a6ltlfecp7v5w0kxlmw&dl=0)
+
 R cvičenia:
 
 
