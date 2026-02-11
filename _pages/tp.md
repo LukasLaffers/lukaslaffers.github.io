@@ -13,7 +13,10 @@ Vitajte v kurze teórie pravdepodobnosti. Ide o rigoróznejšiu verziu kurzu Pra
 
 Webstránka <http://lukaslaffers.github.io/tp> bude obsahovať všetky relevantné informácie týkajúce sa tohoto kurzu.
 
-
+### Rozvrh
+- 10 týždňov (9. február – 17. apríl, kalendárne týždne 7–16)
+- Pondelok 16:10 – 19:15   F225   Prednáška
+- Streda 10:40 – 12:05   F235   Cvičenia
 
 ### Poznámky
 
@@ -28,8 +31,12 @@ Webstránka <http://lukaslaffers.github.io/tp> bude obsahovať všetky relevantn
 - [Charakteristická funkcia](https://www.dropbox.com/scl/fi/pv8c9qraztiim31h14iu5/11-kapitola-Rosenthal.pdf?rlkey=myl93wmcvew38xhiougf5glte&dl=0)
 - [Podmienená pravdepodobnosť](https://www.dropbox.com/scl/fi/veruen8f4nkkesghxkdie/13-kapitola-Rosenthal.pdf?rlkey=k2wafuuz6ktpy2a73ftk31dgs&dl=0)
 
+
+[priebežne písané v latexu](https://www.dropbox.com/scl/fi/4foc4y5yth1jje6w3yecy/tp2026.pdf?rlkey=02eu7b80wa4hemssh1ajgoyns&dl=0)
+
 ### Domáce úlohy
 
+[link na odovzdávanie](https://www.dropbox.com/request/HVa1U470hr0BNbSLoMf8)
 
 ### Konzultačné hodiny
 

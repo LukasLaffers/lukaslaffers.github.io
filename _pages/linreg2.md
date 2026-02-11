@@ -31,6 +31,8 @@ R cvičenia:
 
 Domáce úlohy:
 
+[link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
+
 Misc:
 
 [Úvod do Maximum likelihood (prvých 15 slajdov)](https://www.dropbox.com/scl/fi/i447vt9laa8rgh0ughm6k/econx_2b_LL_2024_handout.pdf?rlkey=boiv1jjw891tm17jb2ljesqji&dl=0)
