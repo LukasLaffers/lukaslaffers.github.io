@@ -10,30 +10,32 @@ redirect_from:
 
 Tento kurz je pokračovaním kurzu lineárnej regresie 1. Kým v predošlom kurze sme si dopodrobna rozobrali základný nástroj - metódu najmenších štvorcov, teraz budeme pracovať viacej do šírky. Uvidíme množstvo rôznych štatistických metód a tento kurz má ambíciu pokryť veľkú paletu aplikácií, aby ste sa vedeli v praxi dobre orientovať.
 
-Základnou učebnicou je kniha [Extending Linear Models with R](https://julianfaraway.github.io/faraway/ELM/), ktorá pokrýva okolo 80% obsahu kurzu.
+Základnou učebnicou je kniha [Extending Linear Models with R (ELMwR)](https://julianfaraway.github.io/faraway/ELM/), ktorá pokrýva okolo 80% obsahu kurzu.
 
 Cvičenia bude viesť Dr. Michaela Mihoková.
 
 ## Súbory
-- Tu je môj starší text. Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Tento text je písaný veľmi koncentrovane a je len pomôckou, silne odporúčam čítať originálne zdroje.
+- [Tu je môj starší text, ktorý budem tu a tam upravovať](https://www.dropbox.com/scl/fi/tk8i59ce7qogqfufph8mt/MAR2_all.pdf?rlkey=cbjo97goc1ifoxb1toxecgus8&dl=0). Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Tento text je písaný veľmi koncentrovane a je len pomôckou, silne odporúčam čítať originálne zdroje.
 - Webstránka http://lukaslaffers.github.io/linreg2 bude obsahovať všetky relevantné informácie týkajúce tohoto kurzu.
 
 
-[ELM prvé vydanie](https://julianfaraway.github.io/faraway/ELM/scripts/), [ELM druhé vydanie](https://julianfaraway.github.io/faraway/ELM/toc2.html)
+[ELMwR prvé vydanie](https://julianfaraway.github.io/faraway/ELM/scripts/), [ELMwR druhé vydanie](https://julianfaraway.github.io/faraway/ELM/toc2.html)
 
-R z prednášky: 
+#### R z prednášky: 
 
 [Úvod a zhrnutie LMwR na príklade volebných dát z US štátu Georgia v 2000](https://www.dropbox.com/scl/fi/ydjb706jnvqg7ts1pvfmh/introlm.R?rlkey=i82or4a6ltlfecp7v5w0kxlmw&dl=0)
 
 [Maximum likelihood](https://www.dropbox.com/scl/fi/btx16wd7nyrrz1nm11q81/lecture_maxlik_2025.R?rlkey=hnwqf9pviu1gqdyyb1w95o7n9&dl=0)
 
-R cvičenia:
+[Binomické dáta (z prvej edície ELMwR)](https://www.dropbox.com/scl/fi/whmiu1hv7nhivmf6w5m6b/BinomialData.R?rlkey=1dalhhh8s1xp1pd9s4kmz1k4x&dl=0)
 
-Domáce úlohy:
+#### R cvičenia:
+
+#### Domáce úlohy:
 
 [link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
 
-Misc:
+#### Misc:
 
 [Úvod do Maximum likelihood (prvých 15 slajdov)](https://www.dropbox.com/scl/fi/i447vt9laa8rgh0ughm6k/econx_2b_LL_2024_handout.pdf?rlkey=boiv1jjw891tm17jb2ljesqji&dl=0)
 
