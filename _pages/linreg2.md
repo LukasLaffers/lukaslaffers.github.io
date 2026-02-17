@@ -21,7 +21,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [ELMwR prvé vydanie](https://julianfaraway.github.io/faraway/ELM/scripts/), [ELMwR druhé vydanie](https://julianfaraway.github.io/faraway/ELM/toc2.html)
 
-#### R z prednášky: 
+### R z prednášky: 
 
 [Úvod a zhrnutie LMwR na príklade volebných dát z US štátu Georgia v 2000](https://www.dropbox.com/scl/fi/ydjb706jnvqg7ts1pvfmh/introlm.R?rlkey=i82or4a6ltlfecp7v5w0kxlmw&dl=0)
 
@@ -29,13 +29,19 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Binomické dáta (z prvej edície ELMwR)](https://www.dropbox.com/scl/fi/whmiu1hv7nhivmf6w5m6b/BinomialData.R?rlkey=1dalhhh8s1xp1pd9s4kmz1k4x&dl=0)
 
-#### R cvičenia:
+### R cvičenia:
 
-#### Domáce úlohy:
+[Intro](https://www.dropbox.com/home/moderna%20aplikovana%20regresia%202/exercises%20samo/ExercisesSol?preview=Ex0_Introduction_(Repeating).R)
+
+[Binomické dáta](https://www.dropbox.com/home/moderna%20aplikovana%20regresia%202/exercises%20samo/Exercises?preview=Ex1_Binom.R)
+
+### Domáce úlohy:
+
+[DU1](https://www.dropbox.com/home/moderna%20aplikovana%20regresia%202/exercises%20samo/Labs1/2026%20DU1?preview=2026_DU1.pdf)
 
 [link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
 
-#### Misc:
+### Misc:
 
 [Úvod do Maximum likelihood (prvých 15 slajdov)](https://www.dropbox.com/scl/fi/i447vt9laa8rgh0ughm6k/econx_2b_LL_2024_handout.pdf?rlkey=boiv1jjw891tm17jb2ljesqji&dl=0)
 
