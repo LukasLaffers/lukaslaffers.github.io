@@ -61,7 +61,7 @@ Grants
 - **APVV-21-0360** — Applying machine learning methods to support labour market policy making (2022—2026)
 - **COST-CA21163** — Text, functional and other high-dimensional data in econometrics: New models, methods, applications (member of MC for Slovakia)
 - **VEGA 1/0398/23** — Causality and machine learning in econometric models (principal investigator, 2023—2025)
-- **VEGA 1/0692/20** — Sensitivity analysis in econometric models (principal investigator, project chosen among those that achieved high significance. 2020—2022)
+- **VEGA 1/0692/20** — Sensitivity analysis in econometric models (principal investigator, [project chosen among those that achieved high significance](https://www.minedu.sk/data/att/d13/26852.d2c86e.xlsx). 2020—2022)
 - **APVV-17-0329** — Generating scientific information to support labour market policy making (received rating: Excellent, 2017—2021)
 - **VEGA 1/0843/17** - Econometric methods for identification of average treatment effects (principal investigator, [project chosen among those that achieved high significance](https://www.minedu.sk/data/att/20333.xls). 2017—2019)
 
