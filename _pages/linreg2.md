@@ -12,7 +12,7 @@ Tento kurz je pokračovaním kurzu lineárnej regresie 1. Kým v predošlom kurz
 
 Základnou učebnicou je kniha [Extending Linear Models with R (ELMwR)](https://julianfaraway.github.io/faraway/ELM/), ktorá pokrýva okolo 80% obsahu kurzu.
 
-Cvičenia bude viesť Dr. Michaela Mihoková1.
+Cvičenia bude viesť Dr. Michaela Mihoková.
 
 ## Súbory
 - [Tu je môj starší text, ktorý budem tu a tam upravovať](https://www.dropbox.com/scl/fi/tk8i59ce7qogqfufph8mt/MAR2_all.pdf?rlkey=cbjo97goc1ifoxb1toxecgus8&dl=0). Budem Vám samozrejme vďačný, za akúkoľvek spätnú väzbu. Tento text je písaný veľmi koncentrovane a je len pomôckou, silne odporúčam čítať originálne zdroje.
