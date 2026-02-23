@@ -54,8 +54,8 @@ Challenger katastrofa (populárna prednáška): [video prednášky](https://www.
 
 ## Osnova kurzu
 - Úvod – zhrnutie lineárnych regresných modelov, kompletný príklad.
-- Modely pre binárne dáta – typy problémov, linková funkcia a pravdepodobnosť, štatistické závery, interpretácia, prospektívny/retrospektívny výber, mierka vhodnosti modelu, overdispersion, párovanie.
-- Modely pre počtové dáta – typy problémov, štatistické závery, interpretácia, overdispersion, Poissonovo rozdelenie a negatívne binomické rozdelenie, modely so zvýšeným počtom nulových hodnôt.
+- Modely pre binárne dáta – typy problémov, linková funkcia a pravdepodobnosť, štatistická inferencia, interpretácia, prospektívny/retrospektívny výber, mierka vhodnosti modelu, overdispersion, párovanie.
+- Modely pre dáta typu počet – typy problémov, štatistická inferencia, interpretácia, overdispersion, Poissonovo rozdelenie a negatívne binomické rozdelenie, modely so zvýšeným počtom nulových hodnôt.
 - Kontingenčné tabuľky – nominálne vs ordinálne dáta, 2x2 tabuľky, výberové schémy, IxJ tabuľky, test nezávislosti faktorov, singular value decomposition, párované pozorovania, trojrozmerné tabuľky a Simpsonov paradox, ordinálne dáta.
 - Multinomiálne dáta – multinomiálny logit, nezávislosť irelevantných alternatív, hierarchické modely, modely ordinálnej odpovede – proportional odds model, ordered probit model, proportional hazard model.
 - Generalizované lineárne modely (GLM) – rozdelenie a linková funkcia, iteratívne prevažované metódy najmenších štvorcov, testy hypotéz – vhodnosť modelu, vnorené modely, diagnostika, ďalšie GLM – gamma regresia a inverzná gaussovská regresia, quasi-GLM.
