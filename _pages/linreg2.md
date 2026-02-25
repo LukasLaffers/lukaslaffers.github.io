@@ -40,7 +40,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 ### Domáce úlohy:
 
-## [link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
+[link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
 
 [DU1](https://www.dropbox.com/scl/fi/5tq8ucj4am4mz2qxwdfdv/2026_DU1.pdf?rlkey=ui4m7svpa627zj6ruvokydaic&st=782b0ino&dl=0)
 
