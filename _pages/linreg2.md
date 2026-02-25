@@ -44,6 +44,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [DU1](https://www.dropbox.com/scl/fi/5tq8ucj4am4mz2qxwdfdv/2026_DU1.pdf?rlkey=ui4m7svpa627zj6ruvokydaic&st=782b0ino&dl=0)
 
+[DU2](https://www.dropbox.com/scl/fi/l7bioehevkp990vc5t7b3/2026_DU2.pdf?rlkey=d1suz8zumo4jz3t7mzimjus0e&st=zra0zx8q&dl=0)
+
 ### Misc:
 
 [Úvod do Maximum likelihood (prvých 15 slajdov)](https://www.dropbox.com/scl/fi/i447vt9laa8rgh0ughm6k/econx_2b_LL_2024_handout.pdf?rlkey=boiv1jjw891tm17jb2ljesqji&dl=0)
