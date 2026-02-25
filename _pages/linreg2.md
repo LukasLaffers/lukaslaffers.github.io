@@ -35,6 +35,9 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Binomické dáta](https://www.dropbox.com/home/moderna%20aplikovana%20regresia%202/exercises%20samo/Exercises?preview=Ex1_Binom.R) [Riešenie](https://www.dropbox.com/scl/fi/7m3vy85lzx3q52n2yjiwh/Ex1_BinomSol.R?rlkey=765az4qs16t44ja2058t5unoz&st=gsetvuqc&dl=0)
 
+[Binomické dáta 2](https://www.dropbox.com/scl/fi/ty324jdxt7xk89lc4410c/Ex2_Binom2.R?rlkey=7ew78j4pqkvheoem7w9wejwee&st=o5ebddch&dl=0) 
+
+
 
 
 ### Domáce úlohy:
