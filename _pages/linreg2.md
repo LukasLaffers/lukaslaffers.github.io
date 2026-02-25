@@ -31,20 +31,18 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 ### R cvičenia:
 
-[Intro](https://www.dropbox.com/home/moderna%20aplikovana%20regresia%202/exercises%20samo/ExercisesSol?preview=Ex0_Introduction_(Repeating).R)
+[Intro](https://www.dropbox.com/scl/fi/xdqim0jx3aq0ue7unox8w/Ex0_Introduction_-Repeating.R?rlkey=e6k5farv7wvbapprh9l8vq1yf&st=e4agm32c&dl=0)
 
-[Binomické dáta](https://www.dropbox.com/home/moderna%20aplikovana%20regresia%202/exercises%20samo/Exercises?preview=Ex1_Binom.R) [Riešenie](https://www.dropbox.com/scl/fi/7m3vy85lzx3q52n2yjiwh/Ex1_BinomSol.R?rlkey=765az4qs16t44ja2058t5unoz&st=gsetvuqc&dl=0)
+[Binomické dáta](https://www.dropbox.com/scl/fi/jsa524wmzztn3l2nd2mrb/Ex1_Binom.R?rlkey=z221rjeg8mo7fn7kfsgsz126l&st=be1a66ao&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/7m3vy85lzx3q52n2yjiwh/Ex1_BinomSol.R?rlkey=765az4qs16t44ja2058t5unoz&st=nvcvk81j&dl=0)
 
-[Binomické dáta 2](https://www.dropbox.com/scl/fi/ty324jdxt7xk89lc4410c/Ex2_Binom2.R?rlkey=7ew78j4pqkvheoem7w9wejwee&st=o5ebddch&dl=0) 
-
-
+[Binomické dáta2](https://www.dropbox.com/scl/fi/ty324jdxt7xk89lc4410c/Ex2_Binom2.R?rlkey=7ew78j4pqkvheoem7w9wejwee&st=o5ebddch&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/2oqph3ix1vfbm9j9c92bn/Ex2_Binom2Sol.R?rlkey=lwb8yc4v5a0g0e7n0m436v8fv&st=hnaeahbg&dl=0)
 
 
 ### Domáce úlohy:
 
-[DU1](https://www.dropbox.com/home/moderna%20aplikovana%20regresia%202/exercises%20samo/Labs1/2026%20DU1?preview=2026_DU1.pdf)
+##### [link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
 
-[link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
+[DU1](https://www.dropbox.com/scl/fi/5tq8ucj4am4mz2qxwdfdv/2026_DU1.pdf?rlkey=ui4m7svpa627zj6ruvokydaic&st=782b0ino&dl=0)
 
 ### Misc:
 
