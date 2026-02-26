@@ -19,7 +19,6 @@ Working Papers / Work in Progress
 - Causal Mechanisms of Relative Age Effects on Adolescent Risky Behaviours (with [Luca Fumarco](https://sites.google.com/site/lucafumarco/home) and [Francesco Principe](https://sites.google.com/view/principefrancesco/), [HEDG WP 26/01](https://www.york.ac.uk/economics/hedg/wps/wp2026/))
 - Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with [Jozef Michal Mintal](https://jozefmichalmintal.com) and Ivan Sutoris, [arXiv:2602.07704](http://arxiv.org/abs/2602.07704), [slides](http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf))
   - R - [vrpoprob](https://github.com/LukasLaffers/vrpoprob).
-- Treatment Effects for Discrete Misreported Outcomes (under Endogeneity) (with [Daniel Gutknecht](https://sites.google.com/view/daniel-gutknecht/home) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/))
 - Identification of the average treatment effect when SUTVA is violated (with [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), [SDU discussion paper 3/2020](https://www.sdu.dk/-/media/files/om_sdu/institutter/ivoe/disc_papers/disc_2020/dpbe3_2020.pdf))
 
 
