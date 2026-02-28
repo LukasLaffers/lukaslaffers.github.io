@@ -38,6 +38,8 @@ Webstránka <http://lukaslaffers.github.io/tp> bude obsahovať všetky relevantn
 
 [DU1](https://www.dropbox.com/scl/fi/h2o88l6ugqx9wj417ah8q/1-exercise-2026.pdf?rlkey=2cnz7cs0x0vzo1rcuv5bkgft1&dl=0)
 
+[DU2](https://www.dropbox.com/scl/fi/j0tojmmup6cgxdrw71ci2/2-exercise-2026.pdf?rlkey=4qjr9yq1p2yb3t0g6bxay2p45&st=urorxgrj&dl=0)
+
 [link na odovzdávanie](https://www.dropbox.com/request/HVa1U470hr0BNbSLoMf8)
 
 ### Konzultačné hodiny
