@@ -39,6 +39,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Binomické dáta2](https://www.dropbox.com/scl/fi/ty324jdxt7xk89lc4410c/Ex2_Binom2.R?rlkey=7ew78j4pqkvheoem7w9wejwee&st=o5ebddch&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/2oqph3ix1vfbm9j9c92bn/Ex2_Binom2Sol.R?rlkey=lwb8yc4v5a0g0e7n0m436v8fv&st=hnaeahbg&dl=0)
 
+[Count dáta](https://www.dropbox.com/scl/fi/hrxjl8yp1yv5iuir7sxj8/Ex3_CountData.R?rlkey=b6eo893h76t0a9m1vupwzbbi1&st=5flciw1b&dl=0)
 
 ### Domáce úlohy:
 
