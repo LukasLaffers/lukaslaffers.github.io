@@ -31,6 +31,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Dáta typu počet](https://www.dropbox.com/scl/fi/tkngz23cils5xpblkgvs7/CountData.R?rlkey=ldikjwjpb3hrphedqyk54nvoy&dl=0)
 
+[Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/ca4jkc8pq5izz1omhcfrf/Contingency_tables_2026.R?rlkey=bba452l1ltu45vft0ccmezecm&dl=0)
+
 ### R cvičenia:
 
 [Intro](https://www.dropbox.com/scl/fi/xdqim0jx3aq0ue7unox8w/Ex0_Introduction_-Repeating.R?rlkey=e6k5farv7wvbapprh9l8vq1yf&st=e4agm32c&dl=0)
