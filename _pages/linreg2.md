@@ -43,6 +43,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Count dáta](https://www.dropbox.com/scl/fi/hrxjl8yp1yv5iuir7sxj8/Ex3_CountData.R?rlkey=b6eo893h76t0a9m1vupwzbbi1&st=7l8tzbmo&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/m25kkw0luul9k4q9a5foi/Ex3_CountDataSol.R?rlkey=3r8xlwcxywczzifxwto3iy6dd&st=52jvg7fz&dl=0)
 
+[Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/iw6g7013y6dtrbrlp6tf5/Ex4_ContingencyTables.R?rlkey=9oq1op4wgdms0qu7mafc4zvuq&st=0xydov2l&dl=0)
+
 ### Domáce úlohy:
 
 [link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
