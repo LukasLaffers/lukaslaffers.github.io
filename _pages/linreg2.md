@@ -43,7 +43,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Count dáta](https://www.dropbox.com/scl/fi/hrxjl8yp1yv5iuir7sxj8/Ex3_CountData.R?rlkey=b6eo893h76t0a9m1vupwzbbi1&st=7l8tzbmo&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/m25kkw0luul9k4q9a5foi/Ex3_CountDataSol.R?rlkey=3r8xlwcxywczzifxwto3iy6dd&st=52jvg7fz&dl=0)
 
-[Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/iw6g7013y6dtrbrlp6tf5/Ex4_ContingencyTables.R?rlkey=9oq1op4wgdms0qu7mafc4zvuq&st=0xydov2l&dl=0)
+[Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/iw6g7013y6dtrbrlp6tf5/Ex4_ContingencyTables.R?rlkey=9oq1op4wgdms0qu7mafc4zvuq&st=0xydov2l&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/mi2vcidibo50y331ebfh9/Ex4_ContingencyTablesSol.R?rlkey=6a60dkopxmrjksfe82xgy27e4&st=iaa9hk8a&dl=0)
 
 ### Domáce úlohy:
 
@@ -54,6 +54,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [DU2](https://www.dropbox.com/scl/fi/l7bioehevkp990vc5t7b3/2026_DU2.pdf?rlkey=d1suz8zumo4jz3t7mzimjus0e&st=zra0zx8q&dl=0)
 
 [DU3](https://www.dropbox.com/scl/fi/nf2qsi26cxi5vvqpcma2h/2026_DU3.pdf?rlkey=ym4ukvvspvwntu6r03wbippvv&st=ubfutfki&dl=0)
+
+[DU4](https://www.dropbox.com/scl/fi/642uet5m2nyo6sqz9vxf1/2026_DU4.pdf?rlkey=nnqt7ocau70go1ypf80wsuso7&st=kgv46hjj&dl=0)
 
 ### Misc:
 
