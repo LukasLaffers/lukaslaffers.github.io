@@ -33,6 +33,10 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/ca4jkc8pq5izz1omhcfrf/Contingency_tables_2026.R?rlkey=bba452l1ltu45vft0ccmezecm&dl=0)
 
+[Multinomické dáta](https://www.dropbox.com/scl/fi/edmshfkaudk4wmlq1b7pk/Multinom.R?rlkey=bux0j24jqxuju4n4vcg7ullac&dl=0)
+
+[GLM všeobecne](https://www.dropbox.com/scl/fi/392yzlarz5mkeehei2nl2/GLM.R?rlkey=lwsai2kn9ppl09parc1hnp9hi&dl=0)
+
 ### R cvičenia:
 
 [Intro](https://www.dropbox.com/scl/fi/xdqim0jx3aq0ue7unox8w/Ex0_Introduction_-Repeating.R?rlkey=e6k5farv7wvbapprh9l8vq1yf&st=e4agm32c&dl=0)
@@ -45,16 +49,15 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/iw6g7013y6dtrbrlp6tf5/Ex4_ContingencyTables.R?rlkey=9oq1op4wgdms0qu7mafc4zvuq&st=0xydov2l&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/mi2vcidibo50y331ebfh9/Ex4_ContingencyTablesSol.R?rlkey=6a60dkopxmrjksfe82xgy27e4&st=iaa9hk8a&dl=0)
 
+
+
 ### Domáce úlohy:
 
 [link na odovzdávanie](https://www.dropbox.com/request/919VtxAzHfa2I4TUQz4I)
 
 [DU1](https://www.dropbox.com/scl/fi/5tq8ucj4am4mz2qxwdfdv/2026_DU1.pdf?rlkey=ui4m7svpa627zj6ruvokydaic&st=782b0ino&dl=0)
-
 [DU2](https://www.dropbox.com/scl/fi/l7bioehevkp990vc5t7b3/2026_DU2.pdf?rlkey=d1suz8zumo4jz3t7mzimjus0e&st=zra0zx8q&dl=0)
-
 [DU3](https://www.dropbox.com/scl/fi/nf2qsi26cxi5vvqpcma2h/2026_DU3.pdf?rlkey=ym4ukvvspvwntu6r03wbippvv&st=ubfutfki&dl=0)
-
 [DU4](https://www.dropbox.com/scl/fi/642uet5m2nyo6sqz9vxf1/2026_DU4.pdf?rlkey=nnqt7ocau70go1ypf80wsuso7&st=kgv46hjj&dl=0)
 
 ### Misc:
