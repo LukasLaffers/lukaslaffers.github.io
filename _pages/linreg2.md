@@ -49,6 +49,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/iw6g7013y6dtrbrlp6tf5/Ex4_ContingencyTables.R?rlkey=9oq1op4wgdms0qu7mafc4zvuq&st=0xydov2l&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/mi2vcidibo50y331ebfh9/Ex4_ContingencyTablesSol.R?rlkey=6a60dkopxmrjksfe82xgy27e4&st=iaa9hk8a&dl=0)
 
+[Multinomické dáta + GLM](https://www.dropbox.com/scl/fi/lfendb0zq8qhtof8o4ahb/Ex5_MultinomialModel-GLM.R?rlkey=vr67gitwjj37igzvsckjqxbb4&st=4q52azh2&dl=0)
+
 
 
 ### Domáce úlohy:
