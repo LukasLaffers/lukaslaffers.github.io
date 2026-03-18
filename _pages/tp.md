@@ -40,6 +40,7 @@ Webstránka <http://lukaslaffers.github.io/tp> bude obsahovať všetky relevantn
 [DU2](https://www.dropbox.com/scl/fi/j0tojmmup6cgxdrw71ci2/2-exercise-2026.pdf?rlkey=4qjr9yq1p2yb3t0g6bxay2p45&st=urorxgrj&dl=0)
 [DU3](https://www.dropbox.com/scl/fi/nlho6xv9tiur85g22znab/3-exercise-2026.pdf?rlkey=8lw2rt43bktt89nrlqrx6k9bs&dl=0)
 [DU4](https://www.dropbox.com/scl/fi/dexuwqnkg2ltjhn649s5v/4-exercise-2026.pdf?rlkey=5fbizgwv0fms47ujfm03fzqfz&dl=0)
+[DU5](https://www.dropbox.com/scl/fi/6qnlqbkoq8sl6zzwn41ya/5-exercise-2026.pdf?rlkey=6ekupjvwqkvjimpina1qugt82&dl=0)
 
 [link na odovzdávanie](https://www.dropbox.com/request/HVa1U470hr0BNbSLoMf8)
 
