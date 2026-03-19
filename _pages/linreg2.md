@@ -49,7 +49,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Kontingenčné tabuľky](https://www.dropbox.com/scl/fi/iw6g7013y6dtrbrlp6tf5/Ex4_ContingencyTables.R?rlkey=9oq1op4wgdms0qu7mafc4zvuq&st=0xydov2l&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/mi2vcidibo50y331ebfh9/Ex4_ContingencyTablesSol.R?rlkey=6a60dkopxmrjksfe82xgy27e4&st=iaa9hk8a&dl=0)
 
-[Multinomické dáta + GLM](https://www.dropbox.com/scl/fi/lfendb0zq8qhtof8o4ahb/Ex5_MultinomialModel-GLM.R?rlkey=vr67gitwjj37igzvsckjqxbb4&st=4q52azh2&dl=0)
+[Multinomické dáta + GLM](https://www.dropbox.com/scl/fi/lfendb0zq8qhtof8o4ahb/Ex5_MultinomialModel-GLM.R?rlkey=vr67gitwjj37igzvsckjqxbb4&st=4q52azh2&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/ha36brwpy3jks4st982ny/Ex5_MultinomialModel-GLMSol.R?rlkey=0u624z6czn38ftn9izr3ksbgs&st=4hizbmr5&dl=0)
 
 
 
@@ -61,6 +61,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [DU2](https://www.dropbox.com/scl/fi/l7bioehevkp990vc5t7b3/2026_DU2.pdf?rlkey=d1suz8zumo4jz3t7mzimjus0e&st=zra0zx8q&dl=0)
 [DU3](https://www.dropbox.com/scl/fi/nf2qsi26cxi5vvqpcma2h/2026_DU3.pdf?rlkey=ym4ukvvspvwntu6r03wbippvv&st=ubfutfki&dl=0)
 [DU4](https://www.dropbox.com/scl/fi/642uet5m2nyo6sqz9vxf1/2026_DU4.pdf?rlkey=nnqt7ocau70go1ypf80wsuso7&st=kgv46hjj&dl=0)
+[DU5](https://www.dropbox.com/scl/fi/z3ijblsrosikj5tbkoy01/2026_DU5.pdf?rlkey=nfazzse6gtndn8si9ib5lyigk&st=39eh7036&dl=0)
 
 ### Misc:
 
