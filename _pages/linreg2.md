@@ -61,7 +61,6 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [DU2](https://www.dropbox.com/scl/fi/l7bioehevkp990vc5t7b3/2026_DU2.pdf?rlkey=d1suz8zumo4jz3t7mzimjus0e&st=zra0zx8q&dl=0)
 [DU3](https://www.dropbox.com/scl/fi/nf2qsi26cxi5vvqpcma2h/2026_DU3.pdf?rlkey=ym4ukvvspvwntu6r03wbippvv&st=ubfutfki&dl=0)
 [DU4](https://www.dropbox.com/scl/fi/642uet5m2nyo6sqz9vxf1/2026_DU4.pdf?rlkey=nnqt7ocau70go1ypf80wsuso7&st=kgv46hjj&dl=0)
-[DU5](https://www.dropbox.com/scl/fi/z3ijblsrosikj5tbkoy01/2026_DU5.pdf?rlkey=nfazzse6gtndn8si9ib5lyigk&st=39eh7036&dl=0)
 
 ### Misc:
 
