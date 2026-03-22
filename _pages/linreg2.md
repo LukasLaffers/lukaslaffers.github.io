@@ -37,6 +37,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [GLM všeobecne](https://www.dropbox.com/scl/fi/392yzlarz5mkeehei2nl2/GLM.R?rlkey=lwsai2kn9ppl09parc1hnp9hi&dl=0)
 
+[Neparametrická regresia](https://www.dropbox.com/scl/fi/sms2t394ol55wxypbxstk/Nonparam.R?rlkey=sgrwubbvwh0i0metk2g4ibjop&dl=0)
+
 ### R cvičenia:
 
 [Intro](https://www.dropbox.com/scl/fi/xdqim0jx3aq0ue7unox8w/Ex0_Introduction_-Repeating.R?rlkey=e6k5farv7wvbapprh9l8vq1yf&st=e4agm32c&dl=0)
