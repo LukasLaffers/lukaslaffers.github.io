@@ -53,6 +53,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Multinomické dáta + GLM](https://www.dropbox.com/scl/fi/lfendb0zq8qhtof8o4ahb/Ex5_MultinomialModel-GLM.R?rlkey=vr67gitwjj37igzvsckjqxbb4&st=4q52azh2&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/ha36brwpy3jks4st982ny/Ex5_MultinomialModel-GLMSol.R?rlkey=0u624z6czn38ftn9izr3ksbgs&st=4hizbmr5&dl=0)
 
+[Neparametrická regresia](https://www.dropbox.com/scl/fi/ms3fg7ricvx383gz6qnpo/Ex7_Nonparametric.R?rlkey=1gwfh7b6wvz5uzgxjcw4imaz4&st=h41r5s3x&dl=0)
+
 
 
 ### Domáce úlohy:
