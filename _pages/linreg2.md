@@ -54,6 +54,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [Multinomické dáta + GLM](https://www.dropbox.com/scl/fi/lfendb0zq8qhtof8o4ahb/Ex5_MultinomialModel-GLM.R?rlkey=vr67gitwjj37igzvsckjqxbb4&st=4q52azh2&dl=0) [Riešenie](https://www.dropbox.com/scl/fi/ha36brwpy3jks4st982ny/Ex5_MultinomialModel-GLMSol.R?rlkey=0u624z6czn38ftn9izr3ksbgs&st=4hizbmr5&dl=0)
 
 [Neparametrická regresia](https://www.dropbox.com/scl/fi/ms3fg7ricvx383gz6qnpo/Ex7_Nonparametric.R?rlkey=1gwfh7b6wvz5uzgxjcw4imaz4&st=h41r5s3x&dl=0)
+[Riešenie](https://www.dropbox.com/scl/fi/h3qtvxp6vmngtlc663ak2/Ex7_NonparametricSol-Nile.R?rlkey=slk6e0hz1maobfca5yl975obj&st=57bl972d&dl=0)
 
 
 
@@ -66,6 +67,9 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [DU3](https://www.dropbox.com/scl/fi/nf2qsi26cxi5vvqpcma2h/2026_DU3.pdf?rlkey=ym4ukvvspvwntu6r03wbippvv&st=ubfutfki&dl=0)
 [DU4](https://www.dropbox.com/scl/fi/642uet5m2nyo6sqz9vxf1/2026_DU4.pdf?rlkey=nnqt7ocau70go1ypf80wsuso7&st=kgv46hjj&dl=0)
 [DU5](https://www.dropbox.com/scl/fi/qibzbl7ffqy0fqbet1ihx/2026_DU5.pdf?rlkey=de63oi268jn2zmt5zpwe1nur1&st=821wl79b&dl=0)
+[DU6](https://www.dropbox.com/scl/fi/h0ptsk8dl3u0z4x2401q1/2026_DU6.pdf?rlkey=urf6yab5ett655dnoi7i66rsk&st=4brkxepq&dl=0)
+
+[DÚ6-dáta](https://www.dropbox.com/scl/fi/8v7fkgc13y63g5hr35gy0/DU6data.zip?rlkey=6rob3gieyqasry95t0hxddy0l&st=3a3mec26&dl=0)
 
 ### Misc:
 
