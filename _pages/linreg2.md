@@ -58,6 +58,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [Neparametrická regresia](https://www.dropbox.com/scl/fi/ms3fg7ricvx383gz6qnpo/Ex7_Nonparametric.R?rlkey=1gwfh7b6wvz5uzgxjcw4imaz4&st=h41r5s3x&dl=0)
 [Riešenie](https://www.dropbox.com/scl/fi/h3qtvxp6vmngtlc663ak2/Ex7_NonparametricSol-Nile.R?rlkey=slk6e0hz1maobfca5yl975obj&st=57bl972d&dl=0)
 
+[Bootstrap](https://www.dropbox.com/scl/fi/v05v65yg8ttm0zb41hkgi/Ex8_Bootstrap.R?rlkey=g13e9lcvg92p12jrxdpyef6tl&st=mlg4s3rk&dl=0)
 
 
 ### Domáce úlohy:
