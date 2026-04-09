@@ -59,6 +59,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [Riešenie](https://www.dropbox.com/scl/fi/h3qtvxp6vmngtlc663ak2/Ex7_NonparametricSol-Nile.R?rlkey=slk6e0hz1maobfca5yl975obj&st=57bl972d&dl=0)
 
 [Bootstrap](https://www.dropbox.com/scl/fi/v05v65yg8ttm0zb41hkgi/Ex8_Bootstrap.R?rlkey=g13e9lcvg92p12jrxdpyef6tl&st=mlg4s3rk&dl=0)
+[Riešenie](https://www.dropbox.com/scl/fi/mhztq7oo59skli8v8kakv/Ex8_BootstrapSol.R?rlkey=v69i7bswjciaj7onhpa3q56ov&st=larumd1a&dl=0)
 
 
 ### Domáce úlohy:
