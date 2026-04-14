@@ -8,6 +8,7 @@ redirect_from: /presentations.html
 Presentations
 ======
 
+- 2026: scheduled: [European Causal Inference Meeting in Oxford](http://lukaslaffers.github.io/files/Laffers_mediation.pdf), MIER in Smolenice, National Bank of Slovakia, University of Lausanne, Young Economist Meeting in Brno
 - 2025: JRC - European Commision (Ispra), VŠE (Prague), MIER in Smolenice, University of St. Gallen, SEAM Nitra, Matej Bel University, Konferencia Slovenských Matematikov (Jasná)
 - 2024: SEAM Bratislava, [EALE Bergen](http://lukaslaffers.github.io/files/EALE_Laffers.pdf), COMPIE Amsterdam, [PROBASTAT Smolenice](http://lukaslaffers.github.io/files/LL_probastat3.pdf), [MUNI Brno (habilitation lecture)](http://lukaslaffers.github.io/files/LL_main.pdf)
 - 2023: MIER in Smolenice, [Machine Learning in program evaluation, high-dimensionality and visualization techniques in Luxembourg](http://lukaslaffers.github.io/files/DML_presentation-3.pdf), SEAM in Banská Bystrica, MUNI Brno
