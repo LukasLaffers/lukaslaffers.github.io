@@ -43,6 +43,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Kvantilová regresia](https://www.dropbox.com/scl/fi/jo1s47djs8rabz2stn5kl/Quantreg.R?rlkey=cdyrj7bekup8sq3b4sd24xmk8&dl=0) [(dataset lowbwt.xls)](https://www.dropbox.com/scl/fi/1xz33jgqgpwfjutux9t8j/lowbwt.xls?rlkey=dzwde7vsvzhdzxivtppkpzu3u&dl=0)
 
+[Zovšeobecnené aditívne modely](https://www.dropbox.com/scl/fi/n9660caufml9e5zc1k5zb/GAM.R?rlkey=46i6hzrqj965ruxg0iwzwja14&dl=0)
+
 ### R cvičenia:
 
 [Intro](https://www.dropbox.com/scl/fi/xdqim0jx3aq0ue7unox8w/Ex0_Introduction_-Repeating.R?rlkey=e6k5farv7wvbapprh9l8vq1yf&st=e4agm32c&dl=0)
