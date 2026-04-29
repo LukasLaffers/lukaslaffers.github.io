@@ -65,6 +65,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [Bootstrap](https://www.dropbox.com/scl/fi/v05v65yg8ttm0zb41hkgi/Ex8_Bootstrap.R?rlkey=g13e9lcvg92p12jrxdpyef6tl&st=mlg4s3rk&dl=0)
 [Riešenie](https://www.dropbox.com/scl/fi/mhztq7oo59skli8v8kakv/Ex8_BootstrapSol.R?rlkey=v69i7bswjciaj7onhpa3q56ov&st=larumd1a&dl=0)
 
+[Kvantilová regresia](https://www.dropbox.com/scl/fi/vnoe0ib104h5mj1tx1yj4/Ex9_QuantileR.R?rlkey=vksg5hd5xgay4fep5oymqouvu&st=hv9kmem8&dl=0)
+
 
 ### Domáce úlohy:
 
