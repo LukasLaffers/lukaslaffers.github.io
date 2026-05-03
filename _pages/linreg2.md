@@ -45,6 +45,8 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 
 [Zovšeobecnené aditívne modely](https://www.dropbox.com/scl/fi/n9660caufml9e5zc1k5zb/GAM.R?rlkey=46i6hzrqj965ruxg0iwzwja14&dl=0)
 
+[Náhodné lesy](https://www.dropbox.com/scl/fi/62ahri0nyfskzvwcal7uq/Trees.R?rlkey=joxfyia8flotaivsm6u52q1ji&dl=0)
+
 ### R cvičenia:
 
 [Intro](https://www.dropbox.com/scl/fi/xdqim0jx3aq0ue7unox8w/Ex0_Introduction_-Repeating.R?rlkey=e6k5farv7wvbapprh9l8vq1yf&st=e4agm32c&dl=0)
