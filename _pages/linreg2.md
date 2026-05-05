@@ -70,6 +70,10 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [Kvantilová regresia](https://www.dropbox.com/scl/fi/vnoe0ib104h5mj1tx1yj4/Ex9_QuantileR.R?rlkey=vksg5hd5xgay4fep5oymqouvu&st=hv9kmem8&dl=0)
 [Riešenie](https://www.dropbox.com/scl/fi/bw2wpikchu7kr95j6emn0/Ex9_QuantileRSol.R?rlkey=dw4so7qhe9v35mjnmv62fvrdb&st=3cu5n5is&dl=0)
 
+[Zovšeobecnené aditívne modely](https://www.dropbox.com/scl/fi/cztga967tlpro7imrkrsk/Ex10_GAM.R?rlkey=wgu1ngnf4bilrg2nvueo1i088&st=ex61sy58&dl=0)
+
+[Náhodné lesy](https://www.dropbox.com/scl/fi/ecb8z2lrccomod0k9c7tu/Ex12_Trees.R?rlkey=6zb587pkagp0amtlstbgbjgu0&st=ktm5duqs&dl=0)
+
 
 ### Domáce úlohy:
 
@@ -83,6 +87,7 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [DU6](https://www.dropbox.com/scl/fi/h0ptsk8dl3u0z4x2401q1/2026_DU6.pdf?rlkey=urf6yab5ett655dnoi7i66rsk&st=4brkxepq&dl=0)
 [DU7](https://www.dropbox.com/scl/fi/vmkrtbwafyrcse1wkjqca/2026_DU7.pdf?rlkey=5evoyi8joy5ntcrbrbf0r94nf&st=y7dyc90a&dl=0)
 [DU8](https://www.dropbox.com/scl/fi/j1611n2pdvq2e906qdkie/2026_DU8.pdf?rlkey=bguu0lnukpujt3hlb87mnsjlh&st=ft3v5jti&dl=0)
+[DU9](https://www.dropbox.com/scl/fi/a8uxscjp5pzawk5injnx1/2026_DU9.pdf?rlkey=ngaz9ow5gx1r1zzjywxsm4fpr&st=jgjwbomv&dl=0)
 
 [DÚ6-dáta](https://www.dropbox.com/scl/fi/8v7fkgc13y63g5hr35gy0/DU6data.zip?rlkey=6rob3gieyqasry95t0hxddy0l&st=3a3mec26&dl=0)
 [DÚ7-článok](https://www.dropbox.com/scl/fi/ox3ptaxvfkngmu7ly3p38/DU7_Andrews.pdf?rlkey=mark7q01jkrt2gww9i9o088lg&st=pza7jzbk&dl=0)
