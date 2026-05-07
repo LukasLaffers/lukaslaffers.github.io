@@ -71,8 +71,10 @@ Cvičenia bude viesť Dr. Michaela Mihoková.
 [Riešenie](https://www.dropbox.com/scl/fi/bw2wpikchu7kr95j6emn0/Ex9_QuantileRSol.R?rlkey=dw4so7qhe9v35mjnmv62fvrdb&st=3cu5n5is&dl=0)
 
 [Zovšeobecnené aditívne modely](https://www.dropbox.com/scl/fi/cztga967tlpro7imrkrsk/Ex10_GAM.R?rlkey=wgu1ngnf4bilrg2nvueo1i088&st=ex61sy58&dl=0)
+[Riešenie](https://www.dropbox.com/scl/fi/g89x2uhe1ytg5iv27v18p/Ex10_GAMSol.R?rlkey=pe2new3imhb85cpzd9i8ijgkl&st=hbgpbm7o&dl=0)
 
 [Náhodné lesy](https://www.dropbox.com/scl/fi/ecb8z2lrccomod0k9c7tu/Ex12_Trees.R?rlkey=6zb587pkagp0amtlstbgbjgu0&st=ktm5duqs&dl=0)
+[Riešenie](https://www.dropbox.com/scl/fi/9s5seq7e16gcgkrm4sgrt/Ex12_TreesSol.R?rlkey=woq5nr0gi40ejie5ilvg33wct&st=m1kj4gqt&dl=0)
 
 
 ### Domáce úlohy:
