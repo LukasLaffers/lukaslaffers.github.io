@@ -6,6 +6,6 @@ redirect_from:
   - /odo.html
 ---
 
-## Odovzdávadlo PAS2
+## Odovzdávadlo
 
 [štuknite sem](https://www.dropbox.com/request/v4fKDFaRsTKrs6WGjfFl)
