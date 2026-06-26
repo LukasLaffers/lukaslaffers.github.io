@@ -7,30 +7,31 @@ redirect_from:
 ---
 
 <style>
-.paper-list { margin: 0.3em 0 1.8em; }
+.paper-list { margin: 0.2em 0 1.2em; }
 .paper-list details { border-bottom: 1px solid #ececec; }
 .paper-list details:first-of-type { border-top: 1px solid #ececec; }
 .paper-list summary {
   cursor: pointer;
   list-style: none;
   position: relative;
-  padding: 0.6em 0.4em 0.6em 1.7em;
-  line-height: 1.5;
+  padding: 0.3em 0.4em 0.3em 1.5em;
+  line-height: 1.4;
+  font-size: 0.95em;
   transition: background 0.15s ease;
 }
 .paper-list summary::-webkit-details-marker { display: none; }
 .paper-list summary::before {
   content: "\25B8";
   position: absolute;
-  left: 0.5em;
-  top: 0.6em;
+  left: 0.35em;
+  top: 0.34em;
   color: #b0b0b0;
   transition: transform 0.2s ease;
 }
 .paper-list details[open] > summary::before { transform: rotate(90deg); }
 .paper-list summary:hover { background: #f7f7f7; }
 .paper-list summary:focus-visible { outline: 2px solid #5b9dd9; outline-offset: 2px; }
-.paper-list .reveal { margin: 0.1em 0 0.85em 1.7em; }
+.paper-list .reveal { margin: 0.05em 0 0.5em 1.5em; }
 .paper-list details[open] > .reveal { animation: rollDown 0.25s ease; }
 @keyframes rollDown {
   from { opacity: 0; transform: translateY(-5px); }
@@ -38,13 +39,13 @@ redirect_from:
 }
 .paper-list .reveal .abstract {
   margin: 0;
-  padding: 0.1em 1em 0.1em 1.1em;
+  padding: 0.05em 1em 0.05em 1em;
   border-left: 3px solid #e2e2e2;
   color: #555;
-  font-size: 0.93em;
-  line-height: 1.6;
+  font-size: 0.88em;
+  line-height: 1.5;
 }
-.paper-list .reveal .abstract p { margin: 0 0 0.6em; }
+.paper-list .reveal .abstract p { margin: 0 0 0.45em; }
 .paper-list .reveal .abstract p:last-child { margin: 0; }
 .paper-list .reveal .impl {
   margin: 0.55em 0 0;
@@ -80,7 +81,7 @@ Working Papers / Work in Progress
 </div>
 </details>
 <details>
-<summary>Locking-in or Pushing-out: The Caseworker Dilemma (with <a href="http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik">Miroslav Štefánik</a>, <a href="https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf">IER WP</a>, <a href="http://lukaslaffers.github.io/files/DML_presentation-3.pdf">slides</a>)</summary>
+<summary>Locking-in or Pushing-out: The Caseworker Dilemma (with <a href="https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova">Zuzana Koštálová</a> and <a href="http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik">Miroslav Štefánik</a>, <a href="https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf">IER WP</a>, <a href="http://lukaslaffers.github.io/files/DML_presentation-3.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract">Using rich administrative data on job seekers registered with the Slovak public employment service, we employ a dynamic estimation approach based on double machine learning to describe a country's implementation of the Youth Guarantee initiative through employment policy programs. The spectrum of the programs considered ranges from classroom training through hiring incentives and subsidized employment in the private sector to public works organized at the municipality level. We estimate the impact of participation in the specific sequences of programs on the absence of individuals from registered unemployment after three and four years. Our case study offers comparative evidence that affirms the conclusions of active labour market policy impact evaluation meta-analyses. Our results confirm that the impact of these programs is greater: i) if applied earlier in the unemployment period, ii) for workplace experience in the private sector and iii) if various types of programmes are combined.
 Furthermore, to facilitate caseworker decision-making, we quantify the impact of the evaluated programs on more or less employable job seekers, thus documenting the advanced data-mining functionality of a recently developed machine-learning estimator applied in an information-rich data context.</div>
