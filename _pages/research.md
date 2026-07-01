@@ -55,6 +55,9 @@ redirect_from:
 }
 .paper-list .reveal .impl li { margin: 0.15em 0; }
 .paper-list .no-abstract { color: #999; font-style: italic; }
+.text-gray {
+    color: #555;
+  }
 </style>
 
 Working Papers / Work in Progress
@@ -189,7 +192,7 @@ Publications
 </div>
 </details>
 <details>
-<summary>Causal mediation analysis with double machine learning (<a href="https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac003/6517682?guestAccessKey=bee35ef3-9be1-4944-adeb-8915458c01cf"><strong><em>Econometrics Journal</em></strong>, 2022, 25 (2), 277—300</a>, with <a href="http://www.farbmacher.de">Helmut Farbmacher</a>, <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a>, <a href="https://www3.unifr.ch/appecon/en/chair/team/henrika-langen.html">Henrika Langen</a> and <a href="https://sites.google.com/site/spindlermartin/">Martin Spindler</a>, <a href="https://academic.oup.com/ectj/pages/editors-choice"><em>May 2022 Editor's choice article</em></a>, presentations: <a href="https://www.youtube.com/watch?list=PL-MRd_-k_6x1dYwWftAAxg-f4B3jbmfbT&amp;v=tuBXi3zCCHY">MonashU</a>, <a href="https://youtu.be/__P5DP0WQpo?list=PL-MRd_-k_6x1dYwWftAAxg-f4B3jbmfbT&amp;t=3701">ESWC 2020</a> by MH)</summary>
+<summary>Causal mediation analysis with double machine learning (<a href="https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac003/6517682?guestAccessKey=bee35ef3-9be1-4944-adeb-8915458c01cf"><strong><em>Econometrics Journal</em></strong>, 2022, 25 (2), 277—300</a>, with <a href="http://www.farbmacher.de">Helmut Farbmacher</a>, <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a>, <a href="https://www3.unifr.ch/appecon/en/chair/team/henrika-langen.html">Henrika Langen</a> and <a href="https://sites.google.com/site/spindlermartin/">Martin Spindler</a>, <a href="https://academic.oup.com/ectj/pages/editors-choice"><em>May 2022 Editor's choice article</em></a>, presentations: <a href="https://www.youtube.com/watch?list=PL-MRd_-k_6x1dYwWftAAxg-f4B3jbmfbT&amp;v=tuBXi3zCCHY">MonashU</a>, <a href="https://youtu.be/__P5DP0WQpo?list=PL-MRd_-k_6x1dYwWftAAxg-f4B3jbmfbT&amp;t=3701">ESWC 2020</a> by MH, among top 1% highly cited WoS papers in Economics & Business)</summary>
 <div class="reveal">
 <!-- TODO: add abstract -->
 <div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
