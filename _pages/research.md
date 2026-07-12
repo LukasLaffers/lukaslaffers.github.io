@@ -125,7 +125,7 @@ Our data allow us to observe different outcomes of interest, drawing differentia
 </div>
 </details>
 <details>
-<summary>Causal Mechanisms of Relative Age Effects on Adolescent Risky Behaviours (with <a href="https://sites.google.com/site/lucafumarco/home">Luca Fumarco</a> and <a href="https://sites.google.com/view/principefrancesco/">Francesco Principe</a>,<a><strong> submitted</strong></a>, <a href="https://www.york.ac.uk/economics/hedg/wps/wp2026/">HEDG WP 26/01</a>)</summary>
+<summary>Causal Mechanisms of Relative Age Effects on Adolescent Risky Behaviours (with <a href="https://sites.google.com/site/lucafumarco/home">Luca Fumarco</a> and <a href="https://sites.google.com/view/principefrancesco/">Francesco Principe</a>, <a href="https://www.york.ac.uk/economics/hedg/wps/wp2026/">HEDG WP 26/01</a>)</summary>
 <div class="reveal">
 <!-- TODO: add abstract -->
 <div class="abstract">Age differences between classmates have gained attention in research and policy, yet underlying mechanisms remain understudied. We examine how relative age affects adolescents’ risky behaviors across Europe. Using Health Behaviour in School-Aged Children data and a two-stage least squares strategy, we identify causal relative-age effects net of absolute age and season-of-birth confounders. Relatively younger students are more likely to engage in substance use. Causal mediation analysis shows that academic self-concept, well-being, self-esteem, and peer support amplify these effects, while sexual and aggressive behaviors are driven by maturity differences. Evidence from additional data suggests younger students perceive greater prevalence of use.</div>
