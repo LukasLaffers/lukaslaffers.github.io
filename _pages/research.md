@@ -60,31 +60,51 @@ redirect_from:
   }
 </style>
 
-Working Papers / Work in Progress
+Working Papers/Work in Progress
 ======
 
 <div class="paper-list">
 <details>
-<summary>Testing identification in mediation and dynamic treatment models (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>, <a href="https://arxiv.org/abs/2406.13826">arXiv:2406.13826</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_StG.pdf">slides</a>)</summary>
+<summary>Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with <a href="https://jozefmichalmintal.com">Jozef Michal Mintal</a> and Ivan Sutoris, <a><strong>conditionally accepted in Political Analysis</strong></a>, WP: <a href="http://arxiv.org/abs/2602.07704">arXiv:2602.07704</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf">slides</a>)</summary>
+<div class="reveal">
+<div class="abstract"><p>Many political surveys rely on post-stratification, raking, or related weighting adjustments to align
+respondents with the target population. But when respondents differ from nonrespondents on the outcome
+itself (nonignorable nonresponse), these adjustments can fail, introducing bias even into basic descriptives.
+We provide a practical method that corrects for nonignorable nonresponse by leveraging response-
+propensity proxies (e.g., a respondent’s rating of the interview, or interviewer-coded cooperativeness)
+observed among respondents to extrapolate toward nonrespondents, while directly integrating observable
+covariates and retaining the benefits of post-stratification with known population shares. The method
+generalizes the variable-response-propensity (VRP) framework of Peress (2010) from binary to ordinal
+outcomes, which are widely used to measure trust, satisfaction, and policy attitudes. The resulting estimator
+is computed by maximum likelihood and implemented in a compact R routine that handles both ordinal
+and binary outcomes. Using the 2024 American National Election Study (ANES), we show that accounting
+for nonignorable nonresponse produces substantively meaningful shifts for life satisfaction (estimated
+latent correlation ρ ≈ 0.47), while yielding only modest changes for retrospective economic evaluations
+(ρ ≈ 0.14), highlighting when nonignorable nonresponse substantively affects survey estimates.</p></div>
+<ul class="impl"><li>R &mdash; <a href="https://github.com/LukasLaffers/vrpoprob"><code>vrpoprob</code></a></li></ul>
+</div>
+</details>
+<details>
+<summary>Testing identification in mediation and dynamic treatment models (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>,<a><strong> submitted</strong></a>, <a href="https://arxiv.org/abs/2406.13826">arXiv:2406.13826</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_StG.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract"><p>We propose a test for the identification of causal effects in mediation and dynamic treatment models that is based on two sets of observed variables, namely covariates to be controlled for and suspected instruments, building on the test by Huber and Kueck (2022) for single treatment models. We consider models with a sequential assignment of a treatment and a mediator to assess the direct treatment effect (net of the mediator), the indirect treatment effect (via the mediator), or the joint effect of both treatment and mediator. We establish testable conditions for identifying such effects in observational data. These conditions jointly imply (1) the exogeneity of the treatment and the mediator conditional on covariates and (2) the validity of distinct instruments for the treatment and the mediator, meaning that the instruments do not directly affect the outcome (other than through the treatment or mediator) and are unconfounded given the covariates. Our framework extends to post-treatment sample selection or attrition problems when replacing the mediator by a selection indicator for observing the outcome, enabling joint testing of the selectivity of treatment and attrition. We propose a machine learning-based test to control for covariates in a data-driven manner and analyze its finite sample performance in a simulation study. Additionally, we apply our method to Slovak labor market data and find that our testable implications are not rejected for a sequence of training programs typically considered in dynamic treatment evaluations.</p></div>
 <ul class="impl"><li>R &mdash; <a href="https://cran.r-project.org/web/packages/causalweight/index.html"><code>testmedident</code> in causalweight</a> package</li></ul>
 </div>
 </details>
 <details>
-<summary>Testing Full Mediation of Treatment Effects and the Identifiability of Causal Mechanisms (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>, <a href="https://arxiv.org/abs/2603.04109">arXiv:2603.04109</a>, <a href="http://lukaslaffers.github.io/files/Laffers_UNIL.pdf">slides</a>)</summary>
+<summary>Testing Full Mediation of Treatment Effects and the Identifiability of Causal Mechanisms (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>,<a><strong> submitted</strong></a>, <a href="https://arxiv.org/abs/2603.04109">arXiv:2603.04109</a>, <a href="http://lukaslaffers.github.io/files/Laffers_UNIL.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract"><p>In causal analysis, understanding the causal mechanisms through which an intervention or treatment affects an outcome is often of central interest. We propose a test to evaluate (i) whether the causal effect of a treatment that is randomly assigned conditional on covariates is fully mediated by, or operates exclusively through, observed intermediate outcomes (referred to as mediators or surrogate outcomes), and (ii) whether the various causal mechanisms operating through different mediators are identifiable conditional on covariates. We demonstrate that if both full mediation and identification of causal mechanisms hold, then the conditionally random treatment is conditionally independent of the outcome given the mediators and covariates. Furthermore, we extend our framework to settings with non-randomly assigned treatments. We show that, in this case, full mediation remains testable, while identification of causal mechanisms is no longer guaranteed. We propose a double machine learning framework for implementing the test that can incorporate high-dimensional covariates and is root-n consistent and asymptotically normal under specific regularity conditions. We also present a simulation study demonstrating good finite-sample performance of our method, along with two empirical applications revisiting randomized experiments on maternal mental health and social norms.</p></div>
 </div>
 </details>
 <details>
-<summary>Mothers' Job Search after Childbirth and Earnings (with <a href="https://sites.google.com/site/bernhardecon/">Bernhard Schmidpeter</a>, <a href="http://lukaslaffers.github.io/files/Mothers_May2025.pdf">May 2025</a>, <a href="http://lukaslaffers.github.io/files/mothers_presentation.pdf">slides</a>)</summary>
+<summary>Mothers' Job Search after Childbirth and Earnings (with <a href="https://sites.google.com/site/bernhardecon/">Bernhard Schmidpeter</a>,<a><strong> revise and resubmit</strong></a>, <a href="http://lukaslaffers.github.io/files/Mothers_May2025.pdf">May 2025</a>, <a href="http://lukaslaffers.github.io/files/mothers_presentation.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract">This paper studies whether and how job mobility after childbirth affects mothers' careers and reduces the "motherhood penalty." Using administrative data, we show high job mobility among mothers post-childbirth. Employing a partial identification approach, we find that mothers who change jobs earn more both immediately at re-employment and up to 15 years later, narrowing the earnings gap with their partners. These benefits are mostly concentrated among higher-earning mothers. Increased childcare support from partners and moves to faster-growing firms drive these positive impacts, even if this requires longer commutes. However, high mobility costs limit more mothers from reaching better job opportunities.</div>
 </div>
 </details>
 <details>
-<summary>Locking-in or Pushing-out: The Caseworker Dilemma (with <a href="https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova">Zuzana Koštálová</a> and <a href="http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik">Miroslav Štefánik</a>, <a href="https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf">IER WP</a>, <a href="http://lukaslaffers.github.io/files/DML_presentation-3.pdf">slides</a>)</summary>
+<summary>Locking-in or Pushing-out: The Caseworker Dilemma (with <a href="https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova">Zuzana Koštálová</a> and <a href="http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik">Miroslav Štefánik</a>,<a><strong> submitted</strong></a>, <a href="https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf">IER WP</a>, <a href="http://lukaslaffers.github.io/files/DML_presentation-3.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract">Using rich administrative data on job seekers registered with the Slovak public employment service, we employ a dynamic estimation approach based on double machine learning to describe a country's implementation of the Youth Guarantee initiative through employment policy programs. The spectrum of the programs considered ranges from classroom training through hiring incentives and subsidized employment in the private sector to public works organized at the municipality level. We estimate the impact of participation in the specific sequences of programs on the absence of individuals from registered unemployment after three and four years. Our case study offers comparative evidence that affirms the conclusions of active labour market policy impact evaluation meta-analyses. Our results confirm that the impact of these programs is greater: i) if applied earlier in the unemployment period, ii) for workplace experience in the private sector and iii) if various types of programmes are combined.
 Furthermore, to facilitate caseworker decision-making, we quantify the impact of the evaluated programs on more or less employable job seekers, thus documenting the advanced data-mining functionality of a recently developed machine-learning estimator applied in an information-rich data context.</div>
@@ -105,17 +125,10 @@ Our data allow us to observe different outcomes of interest, drawing differentia
 </div>
 </details>
 <details>
-<summary>Causal Mechanisms of Relative Age Effects on Adolescent Risky Behaviours (with <a href="https://sites.google.com/site/lucafumarco/home">Luca Fumarco</a> and <a href="https://sites.google.com/view/principefrancesco/">Francesco Principe</a>, <a href="https://www.york.ac.uk/economics/hedg/wps/wp2026/">HEDG WP 26/01</a>)</summary>
+<summary>Causal Mechanisms of Relative Age Effects on Adolescent Risky Behaviours (with <a href="https://sites.google.com/site/lucafumarco/home">Luca Fumarco</a> and <a href="https://sites.google.com/view/principefrancesco/">Francesco Principe</a>,<a><strong> submitted</strong></a>, <a href="https://www.york.ac.uk/economics/hedg/wps/wp2026/">HEDG WP 26/01</a>)</summary>
 <div class="reveal">
 <!-- TODO: add abstract -->
 <div class="abstract">Age differences between classmates have gained attention in research and policy, yet underlying mechanisms remain understudied. We examine how relative age affects adolescents’ risky behaviors across Europe. Using Health Behaviour in School-Aged Children data and a two-stage least squares strategy, we identify causal relative-age effects net of absolute age and season-of-birth confounders. Relatively younger students are more likely to engage in substance use. Causal mediation analysis shows that academic self-concept, well-being, self-esteem, and peer support amplify these effects, while sexual and aggressive behaviors are driven by maturity differences. Evidence from additional data suggests younger students perceive greater prevalence of use.</div>
-</div>
-</details>
-<details>
-<summary>Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with <a href="https://jozefmichalmintal.com">Jozef Michal Mintal</a> and Ivan Sutoris, <a href="http://arxiv.org/abs/2602.07704">arXiv:2602.07704</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf">slides</a>)</summary>
-<div class="reveal">
-<div class="abstract"><p>Many political surveys rely on post-stratification, raking, or related weighting adjustments to align respondents with the target population. But when respondents differ from nonrespondents on the outcome itself (nonignorable nonresponse), these adjustments can fail, introducing bias even into basic descriptives. We provide a practical method that corrects for nonignorable nonresponse by leveraging response-propensity proxies (e.g., interviewer-coded cooperativeness) observed among respondents to extrapolate toward nonrespondents, while directly integrating observable covariates and retaining the benefits of post-stratification with known population shares. The method generalizes the variable-response-propensity (VRP) framework of Peress (2010) from binary to ordinal outcomes, which are widely used to measure trust, satisfaction, and policy attitudes. The resulting estimator is computed by maximum likelihood and implemented in a compact R routine that handles both ordinal and binary outcomes. Using the 2024 American National Election Study (ANES), we show that accounting for nonignorable nonresponse produces substantively meaningful shifts for life satisfaction (estimated latent correlation ρ ≈ 0.53), while yielding negligible changes for retrospective economic evaluations (ρ ≈ 0), highlighting when nonignorable nonresponse substantively affects survey estimates.</p></div>
-<ul class="impl"><li>R &mdash; <a href="https://github.com/LukasLaffers/vrpoprob"><code>vrpoprob</code></a></li></ul>
 </div>
 </details>
 <details>
@@ -136,6 +149,16 @@ program and the Colombian PACES vouchers for private schooling.</p></div>
 </div>
 </details>
 <details>
+<summary>Relationship Between Phosphatidylethanol levels and AUDIT score in Hospitalized Patients with ACLD: Modifying Effects of Time-To-Tertiary Care and Anemia (with Skladany et al., <a><strong> revise and resubmit</strong></a>)</summary>
+<div class="reveal">
+<!-- TODO: add abstract -->
+<div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
+</div>
+</details>
+
+
+
+<details>
 <summary>Heterogeneity in Intergenerational Transmission of Education: Evidence from Norway (with <a href="https://sites.google.com/site/alinebuetikofer/home">Aline Bütikofer</a> and <a href="https://sites.google.com/view/kjellsalvanes/home">Kjell Salvanes</a>)</summary>
 <div class="reveal">
 <!-- TODO: add abstract -->
@@ -145,11 +168,37 @@ program and the Colombian PACES vouchers for private schooling.</p></div>
 <details>
 <summary>Quantile Regression Coefficients for Individual Treatment Effects (with <a href="https://jurajbodik.com">Juraj Bodik</a>)</summary>
 <div class="reveal">
-<!-- TODO: add abstract -->
 <div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
 </div>
 </details>
+
+<!--
+<details>
+<summary>Identification test of peer-effects (with Martin Huber, Jannis Kueck and Anna Schmidt)</summary>
+<div class="reveal">
+<div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
 </div>
+</details>
+<details>
+<summary>Identification by exhaustive DAG search (with Martin Huber)</summary>
+<div class="reveal">
+<div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
+</div>
+</details>
+<details>
+<summary>QUAIDS estimation with non-negativity constraints (with Fred Schroyen)</summary>
+<div class="reveal">
+<div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
+</div>
+<details>
+<summary>Wage premium in occupational labour markets (with Zuzana Kostalova, Stefan Lyocsa and Miroslav Stefanik)</summary>
+<div class="reveal">
+<div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
+</div>
+</details>-->
+</div>
+
+
 
 
 Publications
