@@ -65,26 +65,6 @@ Working Papers/Work in Progress
 
 <div class="paper-list">
 <details>
-<summary>Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with <a href="https://jozefmichalmintal.com">Jozef Michal Mintal</a> and Ivan Sutoris, <a><strong>conditionally accepted in Political Analysis</strong></a>, WP: <a href="http://arxiv.org/abs/2602.07704">arXiv:2602.07704</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf">slides</a>)</summary>
-<div class="reveal">
-<div class="abstract"><p>Many political surveys rely on post-stratification, raking, or related weighting adjustments to align
-respondents with the target population. But when respondents differ from nonrespondents on the outcome
-itself (nonignorable nonresponse), these adjustments can fail, introducing bias even into basic descriptives.
-We provide a practical method that corrects for nonignorable nonresponse by leveraging response-
-propensity proxies (e.g., a respondent’s rating of the interview, or interviewer-coded cooperativeness)
-observed among respondents to extrapolate toward nonrespondents, while directly integrating observable
-covariates and retaining the benefits of post-stratification with known population shares. The method
-generalizes the variable-response-propensity (VRP) framework of Peress (2010) from binary to ordinal
-outcomes, which are widely used to measure trust, satisfaction, and policy attitudes. The resulting estimator
-is computed by maximum likelihood and implemented in a compact R routine that handles both ordinal
-and binary outcomes. Using the 2024 American National Election Study (ANES), we show that accounting
-for nonignorable nonresponse produces substantively meaningful shifts for life satisfaction (estimated
-latent correlation ρ ≈ 0.47), while yielding only modest changes for retrospective economic evaluations
-(ρ ≈ 0.14), highlighting when nonignorable nonresponse substantively affects survey estimates.</p></div>
-<ul class="impl"><li>R &mdash; <a href="https://github.com/LukasLaffers/vrpoprob"><code>vrpoprob</code></a></li></ul>
-</div>
-</details>
-<details>
 <summary>Testing identification in mediation and dynamic treatment models (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>,<a><strong> submitted</strong></a>, <a href="https://arxiv.org/abs/2406.13826">arXiv:2406.13826</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_StG.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract"><p>We propose a test for the identification of causal effects in mediation and dynamic treatment models that is based on two sets of observed variables, namely covariates to be controlled for and suspected instruments, building on the test by Huber and Kueck (2022) for single treatment models. We consider models with a sequential assignment of a treatment and a mediator to assess the direct treatment effect (net of the mediator), the indirect treatment effect (via the mediator), or the joint effect of both treatment and mediator. We establish testable conditions for identifying such effects in observational data. These conditions jointly imply (1) the exogeneity of the treatment and the mediator conditional on covariates and (2) the validity of distinct instruments for the treatment and the mediator, meaning that the instruments do not directly affect the outcome (other than through the treatment or mediator) and are unconfounded given the covariates. Our framework extends to post-treatment sample selection or attrition problems when replacing the mediator by a selection indicator for observing the outcome, enabling joint testing of the selectivity of treatment and attrition. We propose a machine learning-based test to control for covariates in a data-driven manner and analyze its finite sample performance in a simulation study. Additionally, we apply our method to Slovak labor market data and find that our testable implications are not rejected for a sequence of training programs typically considered in dynamic treatment evaluations.</p></div>
@@ -205,6 +185,26 @@ Publications
 ======
 
 <div class="paper-list">
+<details>
+<summary>Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with <a href="https://jozefmichalmintal.com">Jozef Michal Mintal</a> and Ivan Sutoris, <a><strong>accepted for publication in Political Analysis</strong></a>, WP: <a href="http://arxiv.org/abs/2602.07704">arXiv:2602.07704</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf">slides</a>)</summary>
+<div class="reveal">
+<div class="abstract"><p>Many political surveys rely on post-stratification, raking, or related weighting adjustments to align
+respondents with the target population. But when respondents differ from nonrespondents on the outcome
+itself (nonignorable nonresponse), these adjustments can fail, introducing bias even into basic descriptives.
+We provide a practical method that corrects for nonignorable nonresponse by leveraging response-
+propensity proxies (e.g., a respondent’s rating of the interview, or interviewer-coded cooperativeness)
+observed among respondents to extrapolate toward nonrespondents, while directly integrating observable
+covariates and retaining the benefits of post-stratification with known population shares. The method
+generalizes the variable-response-propensity (VRP) framework of Peress (2010) from binary to ordinal
+outcomes, which are widely used to measure trust, satisfaction, and policy attitudes. The resulting estimator
+is computed by maximum likelihood and implemented in a compact R routine that handles both ordinal
+and binary outcomes. Using the 2024 American National Election Study (ANES), we show that accounting
+for nonignorable nonresponse produces substantively meaningful shifts for life satisfaction (estimated
+latent correlation ρ ≈ 0.47), while yielding only modest changes for retrospective economic evaluations
+(ρ ≈ 0.14), highlighting when nonignorable nonresponse substantively affects survey estimates.</p></div>
+<ul class="impl"><li>R &mdash; <a href="https://github.com/LukasLaffers/vrpoprob"><code>vrpoprob</code></a></li></ul>
+</div>
+</details>
 <details>
 <summary>Sensitivity of Bounds on ATEs under Survey Non-response (with Roman Nedela, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2452306222000053"><strong><em>Econometrics and Statistics</em></strong>, 2025, 34</a>, 1-13)</summary>
 <div class="reveal">
