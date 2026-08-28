@@ -12,10 +12,10 @@ redirect_from:
 About me 
 ======
 
-I am an Associate Professor at the [Department of Mathematics](https://www.umbmath.sk/) of the Faculty of Natural Sciences at the Matej Bel University in Banská Bystrica, Slovakia. 
+I am an econometrician working on causal inference, machine learning methods for causal analysis, and labor economics.
 
-I am also affiliated with [NHH - Norwegian School of Economics in Bergen](https://www.nhh.no/en/employees/faculty/lukas-laffers/) (Associate Professor II), where I defended my [PhD thesis](https://lukaslaffers.github.io/files/Dissertation+Laffers.pdf) in Economics in 2014. I was appointed to [Associate Professor of Economics](https://www.muni.cz/en/people/518234-lukas-laffers/qualifications) (docent) by [Masaryk University in Brno](https://www.econ.muni.cz/en) in 2024, where I currently work as Researcher II (part-time). 
+From October 2026 I am joining the [Institute of Economic Research at the Slovak Academy of Sciences](https://ekonom.sav.sk/en) in Bratislava, moving from the [Department of Mathematics](https://www.umbmath.sk/) at Matej Bel University in Banská Bystrica, where I have been an Associate Professor.
 
-My research interests lie mainly within the areas of econometrics, causal inference, and labor economics. I have also experience in working with and analyzing medical data for research.
+I am also affiliated with [NHH – Norwegian School of Economics](https://www.nhh.no/en/employees/faculty/lukas-laffers/) in Bergen (Associate Professor II), where I defended my [PhD thesis](https://lukaslaffers.github.io/files/Dissertation+Laffers.pdf) in Economics in 2014, and with [Masaryk University in Brno](https://www.econ.muni.cz/en), where I work as Researcher II (part-time) and was appointed [Associate Professor of Economics](https://www.muni.cz/en/people/518234-lukas-laffers/qualifications) (docent) in 2024.
 
-My CV can be found [here](https://lukaslaffers.github.io/files/CV_Laffers_feb2026_eng.pdf) (Feb 2026).
+I also have experience working with and analyzing medical data for research. My [CV](https://lukaslaffers.github.io/files/CV_Laffers_feb2026_eng.pdf) is from February 2026.
