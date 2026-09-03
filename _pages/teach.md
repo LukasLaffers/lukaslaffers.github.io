@@ -23,11 +23,11 @@ redirect_from:
 
 -   Econometrics (Fall 2021-2026, PhD course, MUNI)
 -   Optimisation and Microeconomic Theory (Fall 2014, 2018-2026, Master, NHH)
--   Probability and Statistics 2 (Fall 2021-2026 in Slovak, UMB)
--   Stochastic Processes (Fall 2015-2018, 2020-2026 in Slovak, UMB)
 
 ---
 
+-   Probability and Statistics 2 (Fall 2021-2025 in Slovak, UMB)
+-   Stochastic Processes (Fall 2015-2018, 2020-2025 in Slovak, UMB)
 -   Regression Analysis 2 (Fall 2016-2023, 2026 in Slovak, UMB)
 -   Probability Theory 1 (Spring 2014, 2016, 2018-2023, 2026 in Slovak, UMB)
 -   Probability and Statistics 1 (Spring 2022-2026 in Slovak, UMB)
