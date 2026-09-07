@@ -186,7 +186,7 @@ Publications
 
 <div class="paper-list">
 <details>
-<summary>Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with <a href="https://jozefmichalmintal.com">Jozef Michal Mintal</a> and Ivan Sutoris, <a><strong>accepted for publication in Political Analysis</strong></a>, WP: <a href="http://arxiv.org/abs/2602.07704">arXiv:2602.07704 </a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf">slides</a>)</summary>
+<summary>Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with <a href="https://jozefmichalmintal.com">Jozef Michal Mintal</a> and Ivan Sutoris, <a href="https://www.cambridge.org/core/journals/political-analysis/article/correcting-for-nonignorable-nonresponse-bias-in-ordinal-observational-survey-data/82999E35896C1CB4CD42048304E367BF"><strong>forthcoming in Political Analysis</strong></a>, WP: <a href="http://arxiv.org/abs/2602.07704">arXiv:2602.07704 </a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract"><p>Many political surveys rely on post-stratification, raking, or related weighting adjustments to align
 respondents with the target population. But when respondents differ from nonrespondents on the outcome
