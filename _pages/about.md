@@ -18,4 +18,4 @@ Currently a researcher at the [Institute of Economic Research at the Slovak Acad
 
 I am also affiliated with [NHH – Norwegian School of Economics](https://www.nhh.no/en/employees/faculty/lukas-laffers/) in Bergen (Associate Professor II), where I defended my [PhD thesis](https://lukaslaffers.github.io/files/Dissertation+Laffers.pdf) in Economics in 2014, and with [Masaryk University in Brno](https://www.econ.muni.cz/en), where I work as Researcher II (part-time) and was appointed [Associate Professor of Economics](https://www.muni.cz/en/people/518234-lukas-laffers/qualifications) (docent) in 2024.
 
-I also have experience working with and analyzing medical data for research. My [CV](https://lukaslaffers.github.io/files/CV_Laffers_sep2026_eng) is from February 2026.
+I also have experience working with and analyzing medical data for research. My [CV](https://lukaslaffers.github.io/files/CV_Laffers_sep2026_eng.pdf) is from September 2026.
