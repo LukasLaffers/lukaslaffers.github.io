@@ -60,19 +60,19 @@ redirect_from:
   }
 </style>
 
-Working Papers/Work in Progress
+Working Papers
 ======
 
 <div class="paper-list">
 <details>
-<summary>Testing identification in mediation and dynamic treatment models (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>,<a><strong> submitted</strong></a>, <a href="https://arxiv.org/abs/2406.13826">arXiv:2406.13826</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_StG.pdf">slides</a>)</summary>
+<summary>Testing Identification in Mediation and Dynamic Treatment Models (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>,<a href="https://arxiv.org/abs/2406.13826">arXiv:2406.13826</a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_StG.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract"><p>We propose a test for the identification of causal effects in mediation and dynamic treatment models that is based on two sets of observed variables, namely covariates to be controlled for and suspected instruments, building on the test by Huber and Kueck (2022) for single treatment models. We consider models with a sequential assignment of a treatment and a mediator to assess the direct treatment effect (net of the mediator), the indirect treatment effect (via the mediator), or the joint effect of both treatment and mediator. We establish testable conditions for identifying such effects in observational data. These conditions jointly imply (1) the exogeneity of the treatment and the mediator conditional on covariates and (2) the validity of distinct instruments for the treatment and the mediator, meaning that the instruments do not directly affect the outcome (other than through the treatment or mediator) and are unconfounded given the covariates. Our framework extends to post-treatment sample selection or attrition problems when replacing the mediator by a selection indicator for observing the outcome, enabling joint testing of the selectivity of treatment and attrition. We propose a machine learning-based test to control for covariates in a data-driven manner and analyze its finite sample performance in a simulation study. Additionally, we apply our method to Slovak labor market data and find that our testable implications are not rejected for a sequence of training programs typically considered in dynamic treatment evaluations.</p></div>
 <ul class="impl"><li>R &mdash; <a href="https://cran.r-project.org/web/packages/causalweight/index.html"><code>testmedident</code> in causalweight</a> package</li></ul>
 </div>
 </details>
 <details>
-<summary>Testing Full Mediation of Treatment Effects and the Identifiability of Causal Mechanisms (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>,<a><strong> submitted</strong></a>, <a href="https://arxiv.org/abs/2603.04109">arXiv:2603.04109</a>, <a href="http://lukaslaffers.github.io/files/Laffers_UNIL.pdf">slides</a>)</summary>
+<summary>Testing Full Mediation of Treatment Effects and the Identifiability of Causal Mechanisms (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a> and <a href="https://kevinkloiber.github.io">Kevin Kloiber</a>, <a href="https://arxiv.org/abs/2603.04109">arXiv:2603.04109</a>, <a href="http://lukaslaffers.github.io/files/Laffers_UNIL.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract"><p>In causal analysis, understanding the causal mechanisms through which an intervention or treatment affects an outcome is often of central interest. We propose a test to evaluate (i) whether the causal effect of a treatment that is randomly assigned conditional on covariates is fully mediated by, or operates exclusively through, observed intermediate outcomes (referred to as mediators or surrogate outcomes), and (ii) whether the various causal mechanisms operating through different mediators are identifiable conditional on covariates. We demonstrate that if both full mediation and identification of causal mechanisms hold, then the conditionally random treatment is conditionally independent of the outcome given the mediators and covariates. Furthermore, we extend our framework to settings with non-randomly assigned treatments. We show that, in this case, full mediation remains testable, while identification of causal mechanisms is no longer guaranteed. We propose a double machine learning framework for implementing the test that can incorporate high-dimensional covariates and is root-n consistent and asymptotically normal under specific regularity conditions. We also present a simulation study demonstrating good finite-sample performance of our method, along with two empirical applications revisiting randomized experiments on maternal mental health and social norms.</p></div>
 </div>
@@ -84,7 +84,7 @@ Working Papers/Work in Progress
 </div>
 </details>
 <details>
-<summary>Locking-in or Pushing-out: The Caseworker Dilemma (with <a href="https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova">Zuzana Koštálová</a> and <a href="http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik">Miroslav Štefánik</a>,<a><strong> submitted</strong></a>, <a href="https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf">IER WP</a>, <a href="http://lukaslaffers.github.io/files/DML_presentation-3.pdf">slides</a>)</summary>
+<summary>Locking-in or Pushing-out: The Caseworker Dilemma (with <a href="https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova">Zuzana Koštálová</a> and <a href="http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik">Miroslav Štefánik</a>, <a href="https://ekonom.sav.sk/uploads/journals/438_wp115-stefanik-zmena-na_web.pdf">IER WP</a>, <a href="http://lukaslaffers.github.io/files/DML_presentation-3.pdf">slides</a>)</summary>
 <div class="reveal">
 <div class="abstract">Using rich administrative data on job seekers registered with the Slovak public employment service, we employ a dynamic estimation approach based on double machine learning to describe a country's implementation of the Youth Guarantee initiative through employment policy programs. The spectrum of the programs considered ranges from classroom training through hiring incentives and subsidized employment in the private sector to public works organized at the municipality level. We estimate the impact of participation in the specific sequences of programs on the absence of individuals from registered unemployment after three and four years. Our case study offers comparative evidence that affirms the conclusions of active labour market policy impact evaluation meta-analyses. Our results confirm that the impact of these programs is greater: i) if applied earlier in the unemployment period, ii) for workplace experience in the private sector and iii) if various types of programmes are combined.
 Furthermore, to facilitate caseworker decision-making, we quantify the impact of the evaluated programs on more or less employable job seekers, thus documenting the advanced data-mining functionality of a recently developed machine-learning estimator applied in an information-rich data context.</div>
@@ -136,7 +136,10 @@ program and the Colombian PACES vouchers for private schooling.</p></div>
 </div>
 </details>
 
+Work in Progress
+======
 
+<div class="paper-list">
 
 <details>
 <summary>Heterogeneity in Intergenerational Transmission of Education: Evidence from Norway (with <a href="https://sites.google.com/site/alinebuetikofer/home">Aline Bütikofer</a> and <a href="https://sites.google.com/view/kjellsalvanes/home">Kjell Salvanes</a>)</summary>
@@ -152,13 +155,23 @@ program and the Colombian PACES vouchers for private schooling.</p></div>
 </div>
 </details>
 
-<!--
 <details>
-<summary>Identification test of peer-effects (with Martin Huber, Jannis Kueck and Anna Schmidt)</summary>
+<summary>A salary attractive enough (with <a href="https://ekonom.sav.sk/sk/pracovnici/zuzana-kostalova">Zuzana Koštálová</a>, <a href="https://www.econ.muni.cz/en/about-us/staff/239522-stefan-lyocsa">Štefan Lyócsa</a> and <a href="http://ekonom.sav.sk/sk/pracovnici/miroslav-stefanik">Miroslav Štefánik</a>)</summary>
+<div class="reveal">
+<div class="abstract"><p>Job-search theory predicts that a higher posted wage attracts more applicants and speeds up hiring, yet empirical evidence on these associations is mixed. We use 119,425 online job advertisements from the dominant Slovak job portal in 2022, grouped into 106 occupational labour-market segments, which record the offered wage, the vacancy's attractiveness (views and reactions) and its duration (early closing, reposting and time online) separately. We measure the wage as a premium relative to comparable advertisements in the same market, predicted out-of-sample with machine-learning models, and estimate its association with each outcome, and the heterogeneity of this association, with a causal forest and a market-level slope regression, weighting for non-random wage disclosure. A higher wage premium is clearly associated with higher attractiveness, and the strength of this association differs both between occupational markets, being weaker in higher-paying markets, and between advertisements within a market. The association with duration is weaker: a premium goes with less reposting, while its association with early closing and time online is small. The heterogeneity of this association lies almost entirely between individual advertisements (recruitment urgency, employer size, graduate eligibility) rather than between occupations. This pattern is consistent with theoretical concepts of directed job search for attractiveness and with firm-level recruiting-intensity and hiring-standards decisions for duration.</p></div>
+</div>
+</details>
+
+<details>
+<summary>Testing Instrument Validity in Peer-Effects Models (with <a href="http://www.unifr.ch/appecon/en/team/martin-huber/">Martin Huber</a>, <a href="https://www.dice.hhu.de/en/dice/people/professors-1/kueck">Jannis Kueck</a> and <a href="https://www.statec.hhu.de/unser-team/anna-schmidt-bsc">Anna Schmidt</a>)</summary>
 <div class="reveal">
 <div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
 </div>
 </details>
+
+</div>
+
+<!--
 <details>
 <summary>Identification by exhaustive DAG search (with Martin Huber)</summary>
 <div class="reveal">
