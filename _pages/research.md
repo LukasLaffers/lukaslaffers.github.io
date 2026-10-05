@@ -135,6 +135,7 @@ program and the Colombian PACES vouchers for private schooling.</p></div>
 <div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
 </div>
 </details>
+</div>
 
 Work in Progress
 ======
@@ -189,7 +190,6 @@ Work in Progress
 <div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
 </div>
 </details>-->
-</div>
 
 
 
