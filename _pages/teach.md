@@ -16,6 +16,11 @@ redirect_from:
 -   [Lineárna regresia 1](http://lukaslaffers.github.io/files/MAR1_poznamkyMain.pdf)
 -   [Lineárna regresia 2](http://lukaslaffers.github.io/files/MAR2_all.pdf)
 -   [Teória pravdepodobnosti](https://www.dropbox.com/scl/fi/4foc4y5yth1jje6w3yecy/tp2026.pdf?rlkey=02eu7b80wa4hemssh1ajgoyns&dl=0)
+
+# Visualizations
+
+-   [Microeconomics (preliminary)](https://lukaslaffers.github.io/microvis/)
+-   [Econometrics (preliminary)](https://lukaslaffers.github.io/econxvis/)
  
 # Courses
 
