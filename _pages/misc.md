@@ -15,8 +15,8 @@ Misc
 [in Slovak] Popularizačné prednášky
 ======
 
+- Príprava na [ESC](https://esc2027.statistics.sk) (slides: [2026](https://lukaslaffers.github.io/files/ESC_2026.pdf),  [2025](https://lukaslaffers.github.io/files/ESC_2025.pdf), [2024](https://lukaslaffers.github.io/files/ESC_2024.pdf), [2023](https://lukaslaffers.github.io/files/ESCupd15dec.pdf))
 - Vedatour: Ako vyhodnotiť zmenu politiky (2025, [video](https://youtu.be/MvZiP5JvYoQ?si=-exkCVeyc3kuWTA8), [slides](https://lukaslaffers.github.io/files/vedatour2025.pdf))
-- Príprava na [ESC](https://esc2026.statistics.sk) (slides: [2025](https://lukaslaffers.github.io/files/ESC_2025.pdf), [2024](https://lukaslaffers.github.io/files/ESC_2024.pdf), [2023](https://lukaslaffers.github.io/files/ESCupd15dec.pdf))
 - Ako Google určuje dôležitosť webstránok (2025, [slides](https://lukaslaffers.github.io/files/DOD_2025.pdf))
 - Matematika mnohorozmerných dát (2025, [video](https://youtu.be/ZHWgP2VScbY), [slides](https://lukaslaffers.github.io/files/DOD_2025a.pdf))
 - Vedatour: Kauzalita a metódy strojového učenia (2024, [video](https://youtu.be/8vxUaDQ179Y?si=bujmmUXP1f-aiaX4), [slides](https://lukaslaffers.github.io/files/Vedatour_2024_handout.pdf))
