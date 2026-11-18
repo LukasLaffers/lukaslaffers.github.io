@@ -128,13 +128,6 @@ estimate our bounds in two well known experiments, the U.S. Job Corps training
 program and the Colombian PACES vouchers for private schooling.</p></div>
 </div>
 </details>
-<details>
-<summary>Relationship Between Phosphatidylethanol levels and AUDIT score in Hospitalized Patients with ACLD: Modifying Effects of Time-To-Tertiary Care and Anemia (with Skladany et al., <a><strong> revise and resubmit</strong></a>)</summary>
-<div class="reveal">
-<!-- TODO: add abstract -->
-<div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
-</div>
-</details>
 </div>
 
 Work in Progress
@@ -143,7 +136,7 @@ Work in Progress
 <div class="paper-list">
 
 <details>
-<summary>Heterogeneity in Intergenerational Transmission of Education: Evidence from Norway (with <a href="https://sites.google.com/site/alinebuetikofer/home">Aline Bütikofer</a> and <a href="https://sites.google.com/view/kjellsalvanes/home">Kjell Salvanes</a>)</summary>
+<summary>Changing Gaps, Stable Odds: Parental Education and Ability during Educational Expansion (with <a href="https://sites.google.com/site/alinebuetikofer/home">Aline Bütikofer</a> and <a href="https://sites.google.com/view/kjellsalvanes/home">Kjell Salvanes</a>)</summary>
 <div class="reveal">
 <!-- TODO: add abstract -->
 <div class="abstract"><p class="no-abstract">Abstract coming soon.</p></div>
@@ -198,6 +191,15 @@ Publications
 ======
 
 <div class="paper-list">
+<details>
+<summary>Relationship Between Phosphatidylethanol levels and AUDIT score in Hospitalized Patients with ACLD: Modifying Effects of Time-To-Tertiary Care and Anemia (with Skladany et al., <strong>forthcoming in <em>JHEP Reports</em></strong>)</summary>
+<div class="reveal">
+<div class="abstract"><p><strong>Background &amp; Aims:</strong> Alcohol use is often underreported in advanced chronic liver disease (ACLD). Phosphatidylethanol (PEth), a direct blood marker of recent drinking, has been validated mainly in outpatients. We assessed the association between PEth and the Alcohol Use Disorders Identification Test (AUDIT) in hospitalized patients with ACLD, and whether interhospital transfer or anemia modifies it.</p>
+<p><strong>Methods:</strong> Cross-sectional analysis of consecutive patients hospitalized with ACLD between June 2019 and March 2024 (RH7 registry, NCT04767945), with PEth and AUDIT obtained at admission. Models were adjusted for reported drinking, hemoglobin, disease severity, age and sex.</p>
+<p><strong>Results:</strong> We included 393 patients (median Model for End-Stage Liver Disease [MELD] score 20; alcohol-related liver disease 68%). PEth rose with AUDIT category: median 0 (IQR 0&ndash;42), 42 (0&ndash;218) and 105 (0&ndash;436) ng/mL for AUDIT &le;7, 8&ndash;14 and &ge;15 (Spearman &rho; 0.37, 95% CI 0.29&ndash;0.45). Of 199 patients reporting low-risk drinking, 51 (26%) had a positive PEth (&ge;35 ng/mL), whereas 77 of 194 (40%) reporting hazardous or harmful drinking had a negative PEth. Interhospital transfers (26%) reported heavier drinking but had lower PEth than direct admissions (adjusted difference &minus;131 ng/mL, 95% CI &minus;198 to &minus;64). Among patients reporting hazardous or harmful drinking, PEth was negative in 47% with moderate-to-severe anemia versus 29% with no or mild anemia (adjusted OR 2.10, 95% CI 1.15&ndash;3.83), partly confounded by disease severity. PEth did not predict mortality beyond MELD.</p>
+<p><strong>Conclusions:</strong> PEth reveals possible underreporting in one in four inpatients with ACLD who report low-risk drinking. However, a low or negative PEth does not exclude recent drinking after interhospital transfer or in moderate-to-severe anemia; here, PEth should be interpreted with the AUDIT and clinical history.</p></div>
+</div>
+</details>
 <details>
 <summary>Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data (with <a href="https://jozefmichalmintal.com">Jozef Michal Mintal</a> and Ivan Sutoris, <a href="https://www.cambridge.org/core/journals/political-analysis/article/correcting-for-nonignorable-nonresponse-bias-in-ordinal-observational-survey-data/82999E35896C1CB4CD42048304E367BF"><strong>forthcoming in Political Analysis</strong></a>, WP: <a href="http://arxiv.org/abs/2602.07704">arXiv:2602.07704 </a>, <a href="http://lukaslaffers.github.io/files/presentation_LL_SEAM.pdf">slides</a>)</summary>
 <div class="reveal">
@@ -348,6 +350,8 @@ Theses
 Refereeing
 ======
 
-- Journal of Econometrics, Journal of the Royal Statistical Society: Series C (Applied Statistics), Quantitative Economics, Journal of Applied Econometrics, Oxford Bulletin of Economics and Statistics, Biometrics, Journal of Human Resources, Economics Letters, Empirical Economics, Advances in Statistical Analysis, Journal of Econometric Methods, European Journal of Operations Research, Journal of Environmental Economics and Management, Research in Statistics, Journal of Statistical Computation and Simulation, Statistical Methods in Medical Research, Journal of Data Science, Applied Economics, Ekonomický Časopis
+- **Econometrics & Economics:** Journal of Econometrics, Quantitative Economics, Journal of Human Resources, Journal of Environmental Economics and Management, Journal of Applied Econometrics, Oxford Bulletin of Economics and Statistics, Economics Letters, Empirical Economics, Journal of Econometric Methods, Applied Economics, Ekonomický časopis
+- **Statistics:** Journal of the Royal Statistical Society: Series C (Applied Statistics), European Journal of Operational Research, Advances in Statistical Analysis, Journal of Statistical Computation and Simulation, Journal of Data Science, Research in Statistics
+- **Biostatistics & Medicine:** Biometrics, Statistical Methods in Medical Research
 - Social Policy Institute (SVK), Institute for Healthcare Analyses (SVK), VEGA grant scheme (SVK), Luxembourg National Research Fund, Riksbankens jubileumsfond
 - PhD committee: University of St. Gallen, CERGE-EI, Comenius University
